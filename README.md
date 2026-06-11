@@ -19,8 +19,17 @@ The folder name, JSON filename, and `"id"` field inside the JSON must all match.
 1. Fork this repo
 2. Create a folder: `your-collection-id/`
 3. Add `your-collection-id.json` — see [Collection format](#collection-format) below
-4. Add `your-collection-id.jpg` — a cover image (recommended: 400×560px, JPEG)
+4. Add `your-collection-id.jpg` — a cover image (see [Cover image](#cover-image) below)
 5. Open a pull request
+
+## Cover image
+
+The image is only ever rendered at small sizes (max 110pt wide), so keep it lightweight.
+
+- **Format:** JPEG
+- **Max width:** 400px (covers 3× retina at the largest rendered size)
+- **Aspect ratio:** 3:4 (portrait — the app crops to this ratio)
+- **File size:** aim for under 100 KB
 
 ## Collection format
 
