@@ -28,7 +28,7 @@ The image is only ever rendered at small sizes (max 110pt wide), so keep it ligh
 
 - **Format:** JPEG
 - **Max width:** 400px (covers 3× retina at the largest rendered size)
-- **Aspect ratio:** 3:4 (portrait — the app crops to this ratio)
+- **Aspect ratio:** match the `coverAspectRatio` you set in the JSON (default is `0.755`, roughly 3:4 portrait)
 - **File size:** aim for under 100 KB
 
 ## Collection format
@@ -67,6 +67,7 @@ The image is only ever rendered at small sizes (max 110pt wide), so keep it ligh
 | `year` | ✓ | Release year |
 | `description` | ✓ | One or two sentences |
 | `coverColor` | ✓ | Hex fallback colour when no cover image is loaded |
+| `coverAspectRatio` | | Width ÷ height of the cover image. Defaults to `0.755` (~3:4 portrait). Use `1.0` for square, `0.667` for 2:3, etc. |
 | `sections[].id` | ✓ | Unique slug within this collection |
 | `sections[].name` | ✓ | Display name for the section |
 | `sections[].startPage` | | First album page this section appears on |
