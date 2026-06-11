@@ -1,0 +1,341 @@
+{
+  "id": "naruto-ninja-adventures",
+  "name": "Naruto Ninja Adventures",
+  "publisher": "Panini",
+  "year": 2024,
+  "description": "Relive the greatest moments of the Hidden Leaf Village across 176 stickers featuring your favourite ninja from the Naruto universe.",
+  "coverColor": "#FF6B00",
+  "coverImage": "naruto-ninja-adventures",
+  "sections": [
+    {
+      "id": "a-village-for-ninjas",
+      "name": "A Village for Ninjas",
+      "startPage": 1,
+      "endPage": 1,
+      "stickers": [
+        { "number": "001", "type": "foil" },
+        { "number": "002" },
+        { "number": "003" },
+        { "number": "004" },
+        { "number": "005" },
+        { "number": "006" }
+      ]
+    },
+    {
+      "id": "how-to-become-a-ninja",
+      "name": "How to Become a Ninja",
+      "startPage": 2,
+      "endPage": 3,
+      "stickers": [
+        { "number": "007", "type": "foil" },
+        { "number": "008" },
+        { "number": "009" },
+        { "number": "010" },
+        { "number": "011" },
+        { "number": "012" },
+        { "number": "013" },
+        { "number": "014" },
+        { "number": "015" }
+      ]
+    },
+    {
+      "id": "kakashis-admission-exam",
+      "name": "Kakashi's Admission Exam",
+      "startPage": 4,
+      "endPage": 5,
+      "stickers": [
+        { "number": "016" },
+        { "number": "017", "type": "foil" },
+        { "number": "018" },
+        { "number": "019" },
+        { "number": "020" },
+        { "number": "021" },
+        { "number": "022" },
+        { "number": "023" },
+        { "number": "024" },
+        { "number": "025" },
+        { "number": "026" }
+      ]
+    },
+    {
+      "id": "zabuza-attacks",
+      "name": "Zabuza Attacks!",
+      "startPage": 6,
+      "endPage": 7,
+      "stickers": [
+        { "number": "027" },
+        { "number": "028", "type": "foil" },
+        { "number": "029" },
+        { "number": "030" },
+        { "number": "031" },
+        { "number": "032" },
+        { "number": "033" },
+        { "number": "034" },
+        { "number": "035" },
+        { "number": "036" },
+        { "number": "037" }
+      ]
+    },
+    {
+      "id": "the-masked-boy",
+      "name": "The Masked Boy",
+      "startPage": 8,
+      "endPage": 9,
+      "stickers": [
+        { "number": "038", "type": "foil" },
+        { "number": "039" },
+        { "number": "040" },
+        { "number": "041" },
+        { "number": "042" },
+        { "number": "043" },
+        { "number": "044" },
+        { "number": "045" },
+        { "number": "046" },
+        { "number": "047" },
+        { "number": "048" }
+      ]
+    },
+    {
+      "id": "powers-awakening",
+      "name": "Powers Awakening",
+      "startPage": 10,
+      "endPage": 11,
+      "stickers": [
+        { "number": "049" },
+        { "number": "050", "type": "foil" },
+        { "number": "051" },
+        { "number": "052" },
+        { "number": "053" },
+        { "number": "054" },
+        { "number": "055" },
+        { "number": "056" },
+        { "number": "057" },
+        { "number": "058" },
+        { "number": "059" }
+      ]
+    },
+    {
+      "id": "the-chunin-exam",
+      "name": "The Chunin Exam",
+      "startPage": 12,
+      "endPage": 13,
+      "stickers": [
+        { "number": "060" },
+        { "number": "061" },
+        { "number": "062" },
+        { "number": "063", "type": "foil" },
+        { "number": "064" },
+        { "number": "065" },
+        { "number": "066" },
+        { "number": "067" },
+        { "number": "068" },
+        { "number": "069" }
+      ]
+    },
+    {
+      "id": "orochimaru-appears",
+      "name": "Orochimaru Appears!",
+      "startPage": 14,
+      "endPage": 15,
+      "stickers": [
+        { "number": "070", "type": "foil" },
+        { "number": "071" },
+        { "number": "072" },
+        { "number": "073" },
+        { "number": "074" },
+        { "number": "075" },
+        { "number": "076" },
+        { "number": "077" },
+        { "number": "078" },
+        { "number": "079" },
+        { "number": "080" }
+      ]
+    },
+    {
+      "id": "battles-in-the-forest",
+      "name": "Battles in the Forest!",
+      "startPage": 16,
+      "endPage": 17,
+      "stickers": [
+        { "number": "081" },
+        { "number": "082" },
+        { "number": "083" },
+        { "number": "084", "type": "foil" },
+        { "number": "085" },
+        { "number": "086" },
+        { "number": "087" },
+        { "number": "088" },
+        { "number": "089" },
+        { "number": "090" }
+      ]
+    },
+    {
+      "id": "the-chunin-tournament-begins",
+      "name": "The Chunin Tournament Begins",
+      "startPage": 18,
+      "endPage": 19,
+      "stickers": [
+        { "number": "091", "type": "foil" },
+        { "number": "092" },
+        { "number": "093" },
+        { "number": "094" },
+        { "number": "095" },
+        { "number": "096" },
+        { "number": "097" },
+        { "number": "098" },
+        { "number": "099" },
+        { "number": "100" },
+        { "number": "101" }
+      ]
+    },
+    {
+      "id": "i-want-to-become-stronger",
+      "name": "I Want to Become Stronger!",
+      "startPage": 20,
+      "endPage": 21,
+      "stickers": [
+        { "number": "102" },
+        { "number": "103" },
+        { "number": "104" },
+        { "number": "105" },
+        { "number": "106", "type": "foil" },
+        { "number": "107" },
+        { "number": "108" },
+        { "number": "109" },
+        { "number": "110" },
+        { "number": "111" },
+        { "number": "112" }
+      ]
+    },
+    {
+      "id": "the-mightiest-ninja-techniques",
+      "name": "The Mightiest Ninja Techniques",
+      "startPage": 22,
+      "endPage": 23,
+      "stickers": [
+        { "number": "113" },
+        { "number": "114", "type": "foil" },
+        { "number": "115" },
+        { "number": "116" },
+        { "number": "117" },
+        { "number": "118" },
+        { "number": "119" },
+        { "number": "120" },
+        { "number": "121" },
+        { "number": "122" }
+      ]
+    },
+    {
+      "id": "hidden-leaf-village-under-attack",
+      "name": "Hidden Leaf Village Under Attack!",
+      "startPage": 24,
+      "endPage": 25,
+      "stickers": [
+        { "number": "123" },
+        { "number": "124", "type": "foil" },
+        { "number": "125" },
+        { "number": "126" },
+        { "number": "127" },
+        { "number": "128" },
+        { "number": "129" },
+        { "number": "130" },
+        { "number": "131" },
+        { "number": "132" },
+        { "number": "133" },
+        { "number": "134" }
+      ]
+    },
+    {
+      "id": "beware-of-the-akatsuki",
+      "name": "Beware of the Akatsuki",
+      "startPage": 26,
+      "endPage": 27,
+      "stickers": [
+        { "number": "135" },
+        { "number": "136" },
+        { "number": "137" },
+        { "number": "138", "type": "foil" },
+        { "number": "139" },
+        { "number": "140" },
+        { "number": "141" },
+        { "number": "142" },
+        { "number": "143" },
+        { "number": "144" }
+      ]
+    },
+    {
+      "id": "mastering-the-resengan",
+      "name": "Mastering the Resengan",
+      "startPage": 28,
+      "endPage": 29,
+      "stickers": [
+        { "number": "145", "type": "foil" },
+        { "number": "146" },
+        { "number": "147" },
+        { "number": "148" },
+        { "number": "149" },
+        { "number": "150" },
+        { "number": "151" },
+        { "number": "152" },
+        { "number": "153" },
+        { "number": "154" }
+      ]
+    },
+    {
+      "id": "the-wind-of-change",
+      "name": "The Wind of Change",
+      "startPage": 30,
+      "endPage": 31,
+      "stickers": [
+        { "number": "155", "type": "foil" },
+        { "number": "156" },
+        { "number": "157" },
+        { "number": "158" },
+        { "number": "159" },
+        { "number": "160" },
+        { "number": "161" },
+        { "number": "162" },
+        { "number": "163" },
+        { "number": "164" },
+        { "number": "165" }
+      ]
+    },
+    {
+      "id": "a-new-adventure-begins",
+      "name": "A New Adventure Begins",
+      "startPage": 32,
+      "stickers": [
+        { "number": "166" },
+        { "number": "167" },
+        { "number": "168" },
+        { "number": "169" },
+        { "number": "170" }
+      ]
+    },
+    {
+      "id": "games-and-poster",
+      "name": "2x Games & Poster",
+      "category": "Extras",
+      "stickers": [
+        { "number": "X01" },
+        { "number": "X02" },
+        { "number": "X03" },
+        { "number": "X04" },
+        { "number": "X05" },
+        { "number": "X06" }
+      ]
+    },
+    {
+      "id": "limited-edition",
+      "name": "Limited Edition",
+      "category": "Extras",
+      "stickers": [
+        { "number": "LE1", "name": "Card LE1" },
+        { "number": "LE2", "name": "Card LE2" },
+        { "number": "LE3", "name": "Card LE3" },
+        { "number": "LE4", "name": "Card LE4" },
+        { "number": "LE5", "name": "Card LE5" }
+      ]
+    }
+  ]
+}
