@@ -1,0 +1,973 @@
+{
+  "id": "stitch-and-angel",
+  "name": "Stitch & Angel",
+  "publisher": "Panini",
+  "year": 2026,
+  "description": "Collect all 165 stickers plus 27 extra cards featuring Stitch, Angel, and friends from the beloved Lilo & Stitch universe.",
+  "coverColor": "#1976D2",
+  "sections": [
+    {
+      "id": "always-together",
+      "name": "Stitch & Angel: Always Together",
+      "startPage": 1,
+      "endPage": 1,
+      "stickers": [
+        {
+          "number": "001",
+          "id": "sa-001"
+        },
+        {
+          "number": "002",
+          "id": "sa-002"
+        }
+      ]
+    },
+    {
+      "id": "stitch",
+      "name": "Stitch",
+      "startPage": 2,
+      "endPage": 2,
+      "stickers": [
+        {
+          "number": "003",
+          "id": "sa-003"
+        },
+        {
+          "number": "004",
+          "id": "sa-004"
+        },
+        {
+          "number": "005",
+          "id": "sa-005"
+        }
+      ]
+    },
+    {
+      "id": "angel",
+      "name": "Angel",
+      "startPage": 3,
+      "endPage": 3,
+      "stickers": [
+        {
+          "number": "006",
+          "id": "sa-006"
+        },
+        {
+          "number": "007",
+          "id": "sa-007"
+        },
+        {
+          "number": "008",
+          "id": "sa-008"
+        }
+      ]
+    },
+    {
+      "id": "aloha-from-hawaii",
+      "name": "Aloha from Hawaii",
+      "startPage": 4,
+      "endPage": 5,
+      "stickers": [
+        {
+          "number": "009",
+          "id": "sa-009"
+        },
+        {
+          "number": "010",
+          "type": "rainbow",
+          "id": "sa-010"
+        },
+        {
+          "number": "011",
+          "id": "sa-011"
+        },
+        {
+          "number": "012",
+          "type": "rainbow",
+          "id": "sa-012"
+        },
+        {
+          "number": "013",
+          "type": "foil",
+          "id": "sa-013"
+        },
+        {
+          "number": "014",
+          "id": "sa-014"
+        },
+        {
+          "number": "015",
+          "id": "sa-015"
+        },
+        {
+          "number": "016",
+          "id": "sa-016"
+        },
+        {
+          "number": "017",
+          "id": "sa-017"
+        },
+        {
+          "number": "018",
+          "id": "sa-018"
+        },
+        {
+          "number": "019",
+          "id": "sa-019"
+        }
+      ]
+    },
+    {
+      "id": "summer-vibes",
+      "name": "Summer Vibes",
+      "startPage": 6,
+      "endPage": 7,
+      "stickers": [
+        {
+          "number": "020",
+          "id": "sa-020"
+        },
+        {
+          "number": "021",
+          "id": "sa-021"
+        },
+        {
+          "number": "022",
+          "type": "foil",
+          "id": "sa-022"
+        },
+        {
+          "number": "023",
+          "id": "sa-023"
+        },
+        {
+          "number": "024",
+          "id": "sa-024"
+        },
+        {
+          "number": "025",
+          "id": "sa-025"
+        },
+        {
+          "number": "026",
+          "id": "sa-026"
+        },
+        {
+          "number": "027",
+          "id": "sa-027"
+        },
+        {
+          "number": "028",
+          "id": "sa-028"
+        },
+        {
+          "number": "029",
+          "type": "rainbow",
+          "id": "sa-029"
+        },
+        {
+          "number": "030",
+          "id": "sa-030"
+        },
+        {
+          "number": "031",
+          "id": "sa-031"
+        }
+      ]
+    },
+    {
+      "id": "yummy-times",
+      "name": "Yummy Times",
+      "startPage": 8,
+      "endPage": 9,
+      "stickers": [
+        {
+          "number": "032",
+          "id": "sa-032"
+        },
+        {
+          "number": "033",
+          "id": "sa-033"
+        },
+        {
+          "number": "034",
+          "id": "sa-034"
+        },
+        {
+          "number": "035",
+          "type": "foil",
+          "id": "sa-035"
+        },
+        {
+          "number": "036",
+          "id": "sa-036"
+        },
+        {
+          "number": "037",
+          "id": "sa-037"
+        },
+        {
+          "number": "038",
+          "id": "sa-038"
+        },
+        {
+          "number": "039",
+          "id": "sa-039"
+        },
+        {
+          "number": "040",
+          "id": "sa-040"
+        },
+        {
+          "number": "041",
+          "id": "sa-041"
+        },
+        {
+          "number": "042",
+          "id": "sa-042"
+        },
+        {
+          "number": "043",
+          "type": "foil",
+          "id": "sa-043"
+        },
+        {
+          "number": "044",
+          "id": "sa-044"
+        },
+        {
+          "number": "045",
+          "type": "rainbow",
+          "id": "sa-045"
+        }
+      ]
+    },
+    {
+      "id": "new-music-idols-in-town",
+      "name": "New Music Idols in Town",
+      "startPage": 10,
+      "endPage": 11,
+      "stickers": [
+        {
+          "number": "046",
+          "id": "sa-046"
+        },
+        {
+          "number": "047",
+          "id": "sa-047"
+        },
+        {
+          "number": "048",
+          "type": "foil",
+          "id": "sa-048"
+        },
+        {
+          "number": "049",
+          "id": "sa-049"
+        },
+        {
+          "number": "050",
+          "type": "rainbow",
+          "id": "sa-050"
+        },
+        {
+          "number": "051",
+          "type": "rainbow",
+          "id": "sa-051"
+        },
+        {
+          "number": "052",
+          "id": "sa-052"
+        },
+        {
+          "number": "053",
+          "id": "sa-053"
+        },
+        {
+          "number": "054",
+          "id": "sa-054"
+        }
+      ]
+    },
+    {
+      "id": "playing-together",
+      "name": "Playing Together",
+      "startPage": 12,
+      "endPage": 13,
+      "stickers": [
+        {
+          "number": "055",
+          "id": "sa-055"
+        },
+        {
+          "number": "056",
+          "id": "sa-056"
+        },
+        {
+          "number": "057",
+          "id": "sa-057"
+        },
+        {
+          "number": "058",
+          "id": "sa-058"
+        },
+        {
+          "number": "059",
+          "id": "sa-059"
+        },
+        {
+          "number": "060",
+          "id": "sa-060"
+        },
+        {
+          "number": "061",
+          "id": "sa-061"
+        },
+        {
+          "number": "062",
+          "type": "foil",
+          "id": "sa-062"
+        },
+        {
+          "number": "063",
+          "type": "foil",
+          "id": "sa-063"
+        },
+        {
+          "number": "064",
+          "id": "sa-064"
+        },
+        {
+          "number": "065",
+          "id": "sa-065"
+        }
+      ]
+    },
+    {
+      "id": "dressing-up-fun",
+      "name": "Dressing up Fun",
+      "startPage": 14,
+      "endPage": 15,
+      "stickers": [
+        {
+          "number": "066",
+          "id": "sa-066"
+        },
+        {
+          "number": "067",
+          "id": "sa-067"
+        },
+        {
+          "number": "068",
+          "type": "foil",
+          "id": "sa-068"
+        },
+        {
+          "number": "069",
+          "type": "rainbow",
+          "id": "sa-069"
+        },
+        {
+          "number": "070",
+          "type": "rainbow",
+          "id": "sa-070"
+        },
+        {
+          "number": "071",
+          "type": "rainbow",
+          "id": "sa-071"
+        },
+        {
+          "number": "072",
+          "id": "sa-072"
+        },
+        {
+          "number": "073",
+          "type": "rainbow",
+          "id": "sa-073"
+        },
+        {
+          "number": "074",
+          "type": "rainbow",
+          "id": "sa-074"
+        }
+      ]
+    },
+    {
+      "id": "love-is-in-the-air",
+      "name": "Love is in the Air",
+      "startPage": 16,
+      "endPage": 17,
+      "stickers": [
+        {
+          "number": "075",
+          "type": "rainbow",
+          "id": "sa-075"
+        },
+        {
+          "number": "076",
+          "type": "rainbow",
+          "id": "sa-076"
+        },
+        {
+          "number": "077",
+          "type": "rainbow",
+          "id": "sa-077"
+        },
+        {
+          "number": "078",
+          "id": "sa-078"
+        },
+        {
+          "number": "079",
+          "id": "sa-079"
+        },
+        {
+          "number": "080",
+          "id": "sa-080"
+        },
+        {
+          "number": "081",
+          "id": "sa-081"
+        },
+        {
+          "number": "082",
+          "id": "sa-082"
+        },
+        {
+          "number": "083",
+          "type": "foil",
+          "id": "sa-083"
+        }
+      ]
+    },
+    {
+      "id": "be-my-valentine",
+      "name": "Be My Valentine",
+      "startPage": 18,
+      "endPage": 19,
+      "stickers": [
+        {
+          "number": "084",
+          "id": "sa-084"
+        },
+        {
+          "number": "085",
+          "id": "sa-085"
+        },
+        {
+          "number": "086",
+          "id": "sa-086"
+        },
+        {
+          "number": "087",
+          "id": "sa-087"
+        },
+        {
+          "number": "088",
+          "type": "foil",
+          "id": "sa-088"
+        },
+        {
+          "number": "089",
+          "id": "sa-089"
+        },
+        {
+          "number": "090",
+          "type": "foil",
+          "id": "sa-090"
+        },
+        {
+          "number": "091",
+          "id": "sa-091"
+        },
+        {
+          "number": "092",
+          "id": "sa-092"
+        },
+        {
+          "number": "093",
+          "type": "foil",
+          "id": "sa-093"
+        }
+      ]
+    },
+    {
+      "id": "weve-got-the-rhythm",
+      "name": "We've got the Rhythm!",
+      "startPage": 20,
+      "endPage": 21,
+      "stickers": [
+        {
+          "number": "094",
+          "id": "sa-094"
+        },
+        {
+          "number": "095",
+          "id": "sa-095"
+        },
+        {
+          "number": "096",
+          "id": "sa-096"
+        },
+        {
+          "number": "097",
+          "id": "sa-097"
+        },
+        {
+          "number": "098",
+          "id": "sa-098"
+        },
+        {
+          "number": "099",
+          "id": "sa-099"
+        },
+        {
+          "number": "100",
+          "type": "foil",
+          "id": "sa-100"
+        },
+        {
+          "number": "101",
+          "type": "rainbow",
+          "id": "sa-101"
+        },
+        {
+          "number": "102",
+          "type": "rainbow",
+          "id": "sa-102"
+        },
+        {
+          "number": "103",
+          "type": "rainbow",
+          "id": "sa-103"
+        }
+      ]
+    },
+    {
+      "id": "lets-chillax",
+      "name": "Let's Chillax",
+      "startPage": 22,
+      "endPage": 23,
+      "stickers": [
+        {
+          "number": "104",
+          "id": "sa-104"
+        },
+        {
+          "number": "105",
+          "id": "sa-105"
+        },
+        {
+          "number": "106",
+          "id": "sa-106"
+        },
+        {
+          "number": "107",
+          "id": "sa-107"
+        },
+        {
+          "number": "108",
+          "id": "sa-108"
+        },
+        {
+          "number": "109",
+          "id": "sa-109"
+        },
+        {
+          "number": "110",
+          "id": "sa-110"
+        },
+        {
+          "number": "111",
+          "id": "sa-111"
+        },
+        {
+          "number": "112",
+          "id": "sa-112"
+        },
+        {
+          "number": "113",
+          "id": "sa-113"
+        },
+        {
+          "number": "114",
+          "id": "sa-114"
+        },
+        {
+          "number": "115",
+          "id": "sa-115"
+        }
+      ]
+    },
+    {
+      "id": "cosy-winter",
+      "name": "Cosy Winter",
+      "startPage": 24,
+      "endPage": 25,
+      "stickers": [
+        {
+          "number": "116",
+          "type": "foil",
+          "id": "sa-116"
+        },
+        {
+          "number": "117",
+          "id": "sa-117"
+        },
+        {
+          "number": "118",
+          "type": "foil",
+          "id": "sa-118"
+        },
+        {
+          "number": "119",
+          "id": "sa-119"
+        },
+        {
+          "number": "120",
+          "type": "rainbow",
+          "id": "sa-120"
+        },
+        {
+          "number": "121",
+          "id": "sa-121"
+        },
+        {
+          "number": "122",
+          "id": "sa-122"
+        },
+        {
+          "number": "123",
+          "id": "sa-123"
+        },
+        {
+          "number": "124",
+          "type": "rainbow",
+          "id": "sa-124"
+        }
+      ]
+    },
+    {
+      "id": "spooky-season",
+      "name": "Spooky Season",
+      "startPage": 26,
+      "endPage": 27,
+      "stickers": [
+        {
+          "number": "125",
+          "id": "sa-125"
+        },
+        {
+          "number": "126",
+          "type": "rainbow",
+          "id": "sa-126"
+        },
+        {
+          "number": "127",
+          "id": "sa-127"
+        },
+        {
+          "number": "128",
+          "id": "sa-128"
+        },
+        {
+          "number": "129",
+          "id": "sa-129"
+        },
+        {
+          "number": "130",
+          "type": "rainbow",
+          "id": "sa-130"
+        },
+        {
+          "number": "131",
+          "id": "sa-131"
+        },
+        {
+          "number": "132",
+          "id": "sa-132"
+        },
+        {
+          "number": "133",
+          "id": "sa-133"
+        },
+        {
+          "number": "134",
+          "id": "sa-134"
+        },
+        {
+          "number": "135",
+          "id": "sa-135"
+        },
+        {
+          "number": "136",
+          "id": "sa-136"
+        },
+        {
+          "number": "137",
+          "type": "rainbow",
+          "id": "sa-137"
+        },
+        {
+          "number": "138",
+          "id": "sa-138"
+        }
+      ]
+    },
+    {
+      "id": "lets-celebrate",
+      "name": "Let's Celebrate",
+      "startPage": 28,
+      "endPage": 29,
+      "stickers": [
+        {
+          "number": "139",
+          "type": "foil",
+          "id": "sa-139"
+        },
+        {
+          "number": "140",
+          "id": "sa-140"
+        },
+        {
+          "number": "141",
+          "id": "sa-141"
+        },
+        {
+          "number": "142",
+          "id": "sa-142"
+        },
+        {
+          "number": "143",
+          "id": "sa-143"
+        },
+        {
+          "number": "144",
+          "id": "sa-144"
+        },
+        {
+          "number": "145",
+          "id": "sa-145"
+        },
+        {
+          "number": "146",
+          "type": "foil",
+          "id": "sa-146"
+        },
+        {
+          "number": "147",
+          "type": "foil",
+          "id": "sa-147"
+        },
+        {
+          "number": "148",
+          "id": "sa-148"
+        },
+        {
+          "number": "149",
+          "id": "sa-149"
+        },
+        {
+          "number": "150",
+          "id": "sa-150"
+        },
+        {
+          "number": "151",
+          "id": "sa-151"
+        }
+      ]
+    },
+    {
+      "id": "good-memories",
+      "name": "Good Memories",
+      "startPage": 30,
+      "endPage": 31,
+      "stickers": [
+        {
+          "number": "152",
+          "type": "foil",
+          "id": "sa-152"
+        },
+        {
+          "number": "153",
+          "id": "sa-153"
+        },
+        {
+          "number": "154",
+          "id": "sa-154"
+        },
+        {
+          "number": "155",
+          "id": "sa-155"
+        },
+        {
+          "number": "156",
+          "id": "sa-156"
+        },
+        {
+          "number": "157",
+          "id": "sa-157"
+        },
+        {
+          "number": "158",
+          "id": "sa-158"
+        },
+        {
+          "number": "159",
+          "id": "sa-159"
+        },
+        {
+          "number": "160",
+          "id": "sa-160"
+        },
+        {
+          "number": "161",
+          "id": "sa-161"
+        },
+        {
+          "number": "162",
+          "type": "rainbow",
+          "id": "sa-162"
+        }
+      ]
+    },
+    {
+      "id": "always-be-happy",
+      "name": "Stitch & Angel: Always Be Happy!",
+      "startPage": 32,
+      "endPage": 32,
+      "stickers": [
+        {
+          "number": "163",
+          "type": "foil",
+          "id": "sa-163"
+        },
+        {
+          "number": "164",
+          "id": "sa-164"
+        },
+        {
+          "number": "165",
+          "id": "sa-165"
+        }
+      ]
+    },
+    {
+      "id": "poster-and-games",
+      "name": "Poster and Games",
+      "stickers": [
+        {
+          "number": "X1",
+          "type": "foil",
+          "id": "sa-166"
+        },
+        {
+          "number": "X2",
+          "type": "foil",
+          "id": "sa-167"
+        },
+        {
+          "number": "X3",
+          "id": "sa-168"
+        },
+        {
+          "number": "X4",
+          "id": "sa-169"
+        },
+        {
+          "number": "X5",
+          "id": "sa-170"
+        },
+        {
+          "number": "X6",
+          "id": "sa-171"
+        },
+        {
+          "number": "X7",
+          "id": "sa-172"
+        },
+        {
+          "number": "X8",
+          "id": "sa-173"
+        },
+        {
+          "number": "X9",
+          "id": "sa-174"
+        },
+        {
+          "number": "X10",
+          "id": "sa-175"
+        },
+        {
+          "number": "X11",
+          "id": "sa-176"
+        },
+        {
+          "number": "X12",
+          "id": "sa-177"
+        },
+        {
+          "number": "X13",
+          "id": "sa-178"
+        },
+        {
+          "number": "X14",
+          "id": "sa-179"
+        },
+        {
+          "number": "X15",
+          "id": "sa-180"
+        },
+        {
+          "number": "X16",
+          "id": "sa-181"
+        },
+        {
+          "number": "X17",
+          "id": "sa-182"
+        },
+        {
+          "number": "X18",
+          "id": "sa-183"
+        },
+        {
+          "number": "X19",
+          "id": "sa-184"
+        },
+        {
+          "number": "X20",
+          "id": "sa-185"
+        },
+        {
+          "number": "X21",
+          "id": "sa-186"
+        },
+        {
+          "number": "X22",
+          "id": "sa-187"
+        },
+        {
+          "number": "X23",
+          "id": "sa-188"
+        },
+        {
+          "number": "X24",
+          "id": "sa-189"
+        },
+        {
+          "number": "X25",
+          "id": "sa-190"
+        },
+        {
+          "number": "X26",
+          "id": "sa-191"
+        },
+        {
+          "number": "X27",
+          "id": "sa-192"
+        }
+      ]
+    }
+  ]
+}

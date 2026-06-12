@@ -1,0 +1,955 @@
+{
+  "id": "squishmallows-mallow-days",
+  "name": "Squishmallows: Mallow Days!",
+  "publisher": "Panini",
+  "year": 2024,
+  "description": "Collect all 162 stickers plus D-series, S-series, and Limited Edition cards featuring your favourite Squishmallows.",
+  "coverColor": "#5BBFB5",
+  "coverImage": "squishmallows-mallow-days",
+  "sections": [
+    {
+      "id": "cover",
+      "name": "Cover",
+      "startPage": 1,
+      "endPage": 1,
+      "stickers": [
+        {
+          "number": "1",
+          "type": "foil",
+          "id": "smd-001"
+        },
+        {
+          "number": "2",
+          "type": "foil",
+          "id": "smd-002"
+        }
+      ]
+    },
+    {
+      "id": "i-love-moooo",
+      "name": "I Love MOOOO!",
+      "startPage": 2,
+      "endPage": 3,
+      "stickers": [
+        {
+          "number": "3",
+          "type": "foil",
+          "id": "smd-003"
+        },
+        {
+          "number": "4",
+          "id": "smd-004"
+        },
+        {
+          "number": "5",
+          "id": "smd-005"
+        },
+        {
+          "number": "6",
+          "id": "smd-006"
+        },
+        {
+          "number": "7",
+          "id": "smd-007"
+        },
+        {
+          "number": "8",
+          "id": "smd-008"
+        },
+        {
+          "number": "9",
+          "type": "foil",
+          "id": "smd-009"
+        },
+        {
+          "number": "10",
+          "type": "foil",
+          "id": "smd-010"
+        }
+      ]
+    },
+    {
+      "id": "doodle-daze",
+      "name": "Doodle Daze",
+      "startPage": 4,
+      "endPage": 7,
+      "stickers": [
+        {
+          "number": "11",
+          "id": "smd-011"
+        },
+        {
+          "number": "12",
+          "type": "foil",
+          "id": "smd-012"
+        },
+        {
+          "number": "13",
+          "id": "smd-013"
+        },
+        {
+          "number": "14",
+          "id": "smd-014"
+        },
+        {
+          "number": "15",
+          "id": "smd-015"
+        },
+        {
+          "number": "16",
+          "id": "smd-016"
+        },
+        {
+          "number": "17",
+          "type": "foil",
+          "id": "smd-017"
+        },
+        {
+          "number": "18",
+          "type": "foil",
+          "id": "smd-018"
+        },
+        {
+          "number": "19",
+          "id": "smd-019"
+        },
+        {
+          "number": "20",
+          "id": "smd-020"
+        },
+        {
+          "number": "21",
+          "id": "smd-021"
+        },
+        {
+          "number": "22",
+          "id": "smd-022"
+        },
+        {
+          "number": "23",
+          "type": "foil",
+          "id": "smd-023"
+        },
+        {
+          "number": "24",
+          "id": "smd-024"
+        }
+      ]
+    },
+    {
+      "id": "strike-a-pose",
+      "name": "Strike a Pose",
+      "startPage": 8,
+      "endPage": 9,
+      "stickers": [
+        {
+          "number": "25",
+          "type": "figured",
+          "id": "smd-025"
+        },
+        {
+          "number": "26",
+          "type": "figured",
+          "id": "smd-026"
+        },
+        {
+          "number": "27",
+          "type": "figured",
+          "id": "smd-027"
+        },
+        {
+          "number": "28",
+          "type": "figured",
+          "id": "smd-028"
+        },
+        {
+          "number": "29",
+          "type": "figured",
+          "id": "smd-029"
+        },
+        {
+          "number": "30",
+          "type": "figured",
+          "id": "smd-030"
+        },
+        {
+          "number": "31",
+          "type": "figured",
+          "id": "smd-031"
+        },
+        {
+          "number": "32",
+          "type": "figured",
+          "id": "smd-032"
+        }
+      ]
+    },
+    {
+      "id": "neon-vibes",
+      "name": "Neon Vibes",
+      "startPage": 10,
+      "endPage": 13,
+      "stickers": [
+        {
+          "number": "33",
+          "type": "figured",
+          "id": "smd-033"
+        },
+        {
+          "number": "34",
+          "type": "foil",
+          "id": "smd-034"
+        },
+        {
+          "number": "35",
+          "id": "smd-035"
+        },
+        {
+          "number": "36",
+          "id": "smd-036"
+        },
+        {
+          "number": "37",
+          "type": "foil",
+          "id": "smd-037"
+        },
+        {
+          "number": "38",
+          "type": "foil",
+          "id": "smd-038"
+        },
+        {
+          "number": "39",
+          "id": "smd-039"
+        },
+        {
+          "number": "40",
+          "type": "foil",
+          "id": "smd-040"
+        },
+        {
+          "number": "41",
+          "id": "smd-041"
+        },
+        {
+          "number": "42",
+          "id": "smd-042"
+        },
+        {
+          "number": "43",
+          "id": "smd-043"
+        },
+        {
+          "number": "44",
+          "type": "foil",
+          "id": "smd-044"
+        },
+        {
+          "number": "45",
+          "type": "foil",
+          "id": "smd-045"
+        }
+      ]
+    },
+    {
+      "id": "treat-yourself",
+      "name": "Treat Yourself",
+      "startPage": 14,
+      "endPage": 15,
+      "stickers": [
+        {
+          "number": "46",
+          "type": "foil",
+          "id": "smd-046"
+        },
+        {
+          "number": "47",
+          "id": "smd-047"
+        },
+        {
+          "number": "48",
+          "type": "foil",
+          "id": "smd-048"
+        },
+        {
+          "number": "49",
+          "id": "smd-049"
+        },
+        {
+          "number": "50",
+          "id": "smd-050"
+        },
+        {
+          "number": "51",
+          "id": "smd-051"
+        },
+        {
+          "number": "52",
+          "id": "smd-052"
+        },
+        {
+          "number": "53",
+          "id": "smd-053"
+        },
+        {
+          "number": "54",
+          "type": "foil",
+          "id": "smd-054"
+        },
+        {
+          "number": "55",
+          "type": "foil",
+          "id": "smd-055"
+        },
+        {
+          "number": "56",
+          "id": "smd-056"
+        }
+      ]
+    },
+    {
+      "id": "pastel-pop",
+      "name": "Pastel Pop",
+      "startPage": 16,
+      "endPage": 19,
+      "stickers": [
+        {
+          "number": "57",
+          "id": "smd-057"
+        },
+        {
+          "number": "58",
+          "id": "smd-058"
+        },
+        {
+          "number": "59",
+          "type": "foil",
+          "id": "smd-059"
+        },
+        {
+          "number": "60",
+          "type": "foil",
+          "id": "smd-060"
+        },
+        {
+          "number": "61",
+          "id": "smd-061"
+        },
+        {
+          "number": "62",
+          "id": "smd-062"
+        },
+        {
+          "number": "63",
+          "id": "smd-063"
+        },
+        {
+          "number": "64",
+          "type": "foil",
+          "id": "smd-064"
+        },
+        {
+          "number": "65",
+          "id": "smd-065"
+        },
+        {
+          "number": "66",
+          "id": "smd-066"
+        },
+        {
+          "number": "67",
+          "id": "smd-067"
+        },
+        {
+          "number": "68",
+          "id": "smd-068"
+        },
+        {
+          "number": "69",
+          "type": "foil",
+          "id": "smd-069"
+        },
+        {
+          "number": "70",
+          "id": "smd-070"
+        },
+        {
+          "number": "71",
+          "id": "smd-071"
+        },
+        {
+          "number": "72",
+          "type": "foil",
+          "id": "smd-072"
+        }
+      ]
+    },
+    {
+      "id": "weekend-inspo",
+      "name": "Weekend Inspo",
+      "startPage": 20,
+      "endPage": 21,
+      "stickers": [
+        {
+          "number": "73",
+          "type": "foil",
+          "id": "smd-073"
+        },
+        {
+          "number": "74",
+          "id": "smd-074"
+        },
+        {
+          "number": "75",
+          "id": "smd-075"
+        },
+        {
+          "number": "76",
+          "id": "smd-076"
+        },
+        {
+          "number": "77",
+          "id": "smd-077"
+        },
+        {
+          "number": "78",
+          "type": "figured",
+          "id": "smd-078"
+        },
+        {
+          "number": "79",
+          "type": "foil",
+          "id": "smd-079"
+        },
+        {
+          "number": "80",
+          "type": "foil",
+          "id": "smd-080"
+        },
+        {
+          "number": "81",
+          "type": "figured",
+          "id": "smd-081"
+        }
+      ]
+    },
+    {
+      "id": "street-style",
+      "name": "Street Style",
+      "startPage": 22,
+      "endPage": 25,
+      "stickers": [
+        {
+          "number": "82",
+          "type": "foil",
+          "id": "smd-082"
+        },
+        {
+          "number": "83",
+          "id": "smd-083"
+        },
+        {
+          "number": "84",
+          "id": "smd-084"
+        },
+        {
+          "number": "85",
+          "type": "foil",
+          "id": "smd-085"
+        },
+        {
+          "number": "86",
+          "id": "smd-086"
+        },
+        {
+          "number": "87",
+          "type": "foil",
+          "id": "smd-087"
+        },
+        {
+          "number": "88",
+          "id": "smd-088"
+        },
+        {
+          "number": "89",
+          "id": "smd-089"
+        },
+        {
+          "number": "90",
+          "id": "smd-090"
+        },
+        {
+          "number": "91",
+          "type": "foil",
+          "id": "smd-091"
+        },
+        {
+          "number": "92",
+          "id": "smd-092"
+        },
+        {
+          "number": "93",
+          "id": "smd-093"
+        },
+        {
+          "number": "94",
+          "type": "foil",
+          "id": "smd-094"
+        }
+      ]
+    },
+    {
+      "id": "rock-out",
+      "name": "Rock Out",
+      "startPage": 26,
+      "endPage": 27,
+      "stickers": [
+        {
+          "number": "95",
+          "id": "smd-095"
+        },
+        {
+          "number": "96",
+          "type": "foil",
+          "id": "smd-096"
+        },
+        {
+          "number": "97",
+          "id": "smd-097"
+        },
+        {
+          "number": "98",
+          "id": "smd-098"
+        },
+        {
+          "number": "99",
+          "id": "smd-099"
+        },
+        {
+          "number": "100",
+          "type": "foil",
+          "id": "smd-100"
+        },
+        {
+          "number": "101",
+          "id": "smd-101"
+        },
+        {
+          "number": "102",
+          "id": "smd-102"
+        },
+        {
+          "number": "103",
+          "id": "smd-103"
+        },
+        {
+          "number": "104",
+          "id": "smd-104"
+        }
+      ]
+    },
+    {
+      "id": "all-the-feels",
+      "name": "All the Feels",
+      "startPage": 28,
+      "endPage": 31,
+      "stickers": [
+        {
+          "number": "105",
+          "id": "smd-105"
+        },
+        {
+          "number": "106",
+          "id": "smd-106"
+        },
+        {
+          "number": "107",
+          "type": "foil",
+          "id": "smd-107"
+        },
+        {
+          "number": "108",
+          "id": "smd-108"
+        },
+        {
+          "number": "109",
+          "type": "foil",
+          "id": "smd-109"
+        },
+        {
+          "number": "110",
+          "id": "smd-110"
+        },
+        {
+          "number": "111",
+          "type": "foil",
+          "id": "smd-111"
+        },
+        {
+          "number": "112",
+          "type": "foil",
+          "id": "smd-112"
+        },
+        {
+          "number": "113",
+          "type": "foil",
+          "id": "smd-113"
+        },
+        {
+          "number": "114",
+          "id": "smd-114"
+        },
+        {
+          "number": "115",
+          "type": "foil",
+          "id": "smd-115"
+        },
+        {
+          "number": "116",
+          "id": "smd-116"
+        },
+        {
+          "number": "117",
+          "id": "smd-117"
+        },
+        {
+          "number": "118",
+          "id": "smd-118"
+        },
+        {
+          "number": "119",
+          "id": "smd-119"
+        },
+        {
+          "number": "120",
+          "type": "foil",
+          "id": "smd-120"
+        },
+        {
+          "number": "121",
+          "id": "smd-121"
+        }
+      ]
+    },
+    {
+      "id": "fancy-dress",
+      "name": "Fancy Dress",
+      "startPage": 32,
+      "endPage": 33,
+      "stickers": [
+        {
+          "number": "122",
+          "id": "smd-122"
+        },
+        {
+          "number": "123",
+          "id": "smd-123"
+        },
+        {
+          "number": "124",
+          "type": "foil",
+          "id": "smd-124"
+        },
+        {
+          "number": "125",
+          "id": "smd-125"
+        },
+        {
+          "number": "126",
+          "type": "foil",
+          "id": "smd-126"
+        },
+        {
+          "number": "127",
+          "id": "smd-127"
+        },
+        {
+          "number": "128",
+          "id": "smd-128"
+        },
+        {
+          "number": "129",
+          "type": "foil",
+          "id": "smd-129"
+        },
+        {
+          "number": "130",
+          "id": "smd-130"
+        }
+      ]
+    },
+    {
+      "id": "mono-mallows",
+      "name": "Mono Mallows",
+      "startPage": 34,
+      "endPage": 37,
+      "stickers": [
+        {
+          "number": "131",
+          "id": "smd-131"
+        },
+        {
+          "number": "132",
+          "id": "smd-132"
+        },
+        {
+          "number": "133",
+          "id": "smd-133"
+        },
+        {
+          "number": "134",
+          "id": "smd-134"
+        },
+        {
+          "number": "135",
+          "id": "smd-135"
+        },
+        {
+          "number": "136",
+          "type": "foil",
+          "id": "smd-136"
+        },
+        {
+          "number": "137",
+          "id": "smd-137"
+        },
+        {
+          "number": "138",
+          "id": "smd-138"
+        },
+        {
+          "number": "139",
+          "id": "smd-139"
+        },
+        {
+          "number": "140",
+          "id": "smd-140"
+        },
+        {
+          "number": "141",
+          "type": "foil",
+          "id": "smd-141"
+        },
+        {
+          "number": "142",
+          "id": "smd-142"
+        },
+        {
+          "number": "143",
+          "id": "smd-143"
+        },
+        {
+          "number": "144",
+          "id": "smd-144"
+        },
+        {
+          "number": "145",
+          "id": "smd-145"
+        },
+        {
+          "number": "146",
+          "id": "smd-146"
+        },
+        {
+          "number": "147",
+          "type": "figured",
+          "id": "smd-147"
+        }
+      ]
+    },
+    {
+      "id": "its-cold-outside",
+      "name": "It's Cold Outside",
+      "startPage": 38,
+      "endPage": 39,
+      "stickers": [
+        {
+          "number": "148",
+          "type": "foil",
+          "id": "smd-148"
+        },
+        {
+          "number": "149",
+          "id": "smd-149"
+        },
+        {
+          "number": "150",
+          "id": "smd-150"
+        },
+        {
+          "number": "151",
+          "id": "smd-151"
+        },
+        {
+          "number": "152",
+          "type": "foil",
+          "id": "smd-152"
+        },
+        {
+          "number": "153",
+          "id": "smd-153"
+        },
+        {
+          "number": "154",
+          "id": "smd-154"
+        },
+        {
+          "number": "155",
+          "id": "smd-155"
+        },
+        {
+          "number": "156",
+          "id": "smd-156"
+        }
+      ]
+    },
+    {
+      "id": "stay-sweet-squad",
+      "name": "Stay Sweet Squad",
+      "startPage": 40,
+      "endPage": 40,
+      "stickers": [
+        {
+          "number": "157",
+          "id": "smd-157"
+        },
+        {
+          "number": "158",
+          "id": "smd-158"
+        },
+        {
+          "number": "159",
+          "id": "smd-159"
+        },
+        {
+          "number": "160",
+          "id": "smd-160"
+        },
+        {
+          "number": "161",
+          "id": "smd-161"
+        },
+        {
+          "number": "162",
+          "id": "smd-162"
+        }
+      ]
+    },
+    {
+      "id": "d-series",
+      "name": "D-Series",
+      "category": "Extras",
+      "stickers": [
+        {
+          "number": "D1",
+          "type": "figured",
+          "id": "smd-163"
+        },
+        {
+          "number": "D2",
+          "type": "figured",
+          "id": "smd-164"
+        },
+        {
+          "number": "D3",
+          "type": "figured",
+          "id": "smd-165"
+        },
+        {
+          "number": "D4",
+          "type": "figured",
+          "id": "smd-166"
+        },
+        {
+          "number": "D5",
+          "type": "figured",
+          "id": "smd-167"
+        },
+        {
+          "number": "D6",
+          "type": "figured",
+          "id": "smd-168"
+        },
+        {
+          "number": "D7",
+          "type": "figured",
+          "id": "smd-169"
+        },
+        {
+          "number": "D8",
+          "type": "figured",
+          "id": "smd-170"
+        }
+      ]
+    },
+    {
+      "id": "s-series",
+      "name": "S-Series",
+      "category": "Extras",
+      "stickers": [
+        {
+          "number": "S1",
+          "type": "figured",
+          "id": "smd-171"
+        },
+        {
+          "number": "S2",
+          "type": "figured",
+          "id": "smd-172"
+        },
+        {
+          "number": "S3",
+          "type": "figured",
+          "id": "smd-173"
+        },
+        {
+          "number": "S4",
+          "type": "figured",
+          "id": "smd-174"
+        },
+        {
+          "number": "S5",
+          "type": "figured",
+          "id": "smd-175"
+        },
+        {
+          "number": "S6",
+          "type": "figured",
+          "id": "smd-176"
+        }
+      ]
+    },
+    {
+      "id": "limited-edition",
+      "name": "Limited Edition",
+      "category": "Extras",
+      "stickers": [
+        {
+          "number": "LE1",
+          "name": "Amelie",
+          "id": "smd-177"
+        },
+        {
+          "number": "LE2",
+          "name": "Charles",
+          "id": "smd-178"
+        },
+        {
+          "number": "LE3",
+          "name": "Sunny",
+          "id": "smd-179"
+        },
+        {
+          "number": "LE4",
+          "name": "Waverly",
+          "id": "smd-180"
+        },
+        {
+          "number": "LE5",
+          "name": "Woxie",
+          "id": "smd-181"
+        }
+      ]
+    }
+  ]
+}

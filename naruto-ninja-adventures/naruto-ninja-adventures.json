@@ -13,12 +13,31 @@
       "startPage": 1,
       "endPage": 1,
       "stickers": [
-        { "number": "001", "type": "foil" },
-        { "number": "002" },
-        { "number": "003" },
-        { "number": "004" },
-        { "number": "005" },
-        { "number": "006" }
+        {
+          "number": "001",
+          "type": "foil",
+          "id": "nna-001"
+        },
+        {
+          "number": "002",
+          "id": "nna-002"
+        },
+        {
+          "number": "003",
+          "id": "nna-003"
+        },
+        {
+          "number": "004",
+          "id": "nna-004"
+        },
+        {
+          "number": "005",
+          "id": "nna-005"
+        },
+        {
+          "number": "006",
+          "id": "nna-006"
+        }
       ]
     },
     {
@@ -27,15 +46,43 @@
       "startPage": 2,
       "endPage": 3,
       "stickers": [
-        { "number": "007", "type": "foil" },
-        { "number": "008" },
-        { "number": "009" },
-        { "number": "010" },
-        { "number": "011" },
-        { "number": "012" },
-        { "number": "013" },
-        { "number": "014" },
-        { "number": "015" }
+        {
+          "number": "007",
+          "type": "foil",
+          "id": "nna-007"
+        },
+        {
+          "number": "008",
+          "id": "nna-008"
+        },
+        {
+          "number": "009",
+          "id": "nna-009"
+        },
+        {
+          "number": "010",
+          "id": "nna-010"
+        },
+        {
+          "number": "011",
+          "id": "nna-011"
+        },
+        {
+          "number": "012",
+          "id": "nna-012"
+        },
+        {
+          "number": "013",
+          "id": "nna-013"
+        },
+        {
+          "number": "014",
+          "id": "nna-014"
+        },
+        {
+          "number": "015",
+          "id": "nna-015"
+        }
       ]
     },
     {
@@ -44,17 +91,51 @@
       "startPage": 4,
       "endPage": 5,
       "stickers": [
-        { "number": "016" },
-        { "number": "017", "type": "foil" },
-        { "number": "018" },
-        { "number": "019" },
-        { "number": "020" },
-        { "number": "021" },
-        { "number": "022" },
-        { "number": "023" },
-        { "number": "024" },
-        { "number": "025" },
-        { "number": "026" }
+        {
+          "number": "016",
+          "id": "nna-016"
+        },
+        {
+          "number": "017",
+          "type": "foil",
+          "id": "nna-017"
+        },
+        {
+          "number": "018",
+          "id": "nna-018"
+        },
+        {
+          "number": "019",
+          "id": "nna-019"
+        },
+        {
+          "number": "020",
+          "id": "nna-020"
+        },
+        {
+          "number": "021",
+          "id": "nna-021"
+        },
+        {
+          "number": "022",
+          "id": "nna-022"
+        },
+        {
+          "number": "023",
+          "id": "nna-023"
+        },
+        {
+          "number": "024",
+          "id": "nna-024"
+        },
+        {
+          "number": "025",
+          "id": "nna-025"
+        },
+        {
+          "number": "026",
+          "id": "nna-026"
+        }
       ]
     },
     {
@@ -63,17 +144,51 @@
       "startPage": 6,
       "endPage": 7,
       "stickers": [
-        { "number": "027" },
-        { "number": "028", "type": "foil" },
-        { "number": "029" },
-        { "number": "030" },
-        { "number": "031" },
-        { "number": "032" },
-        { "number": "033" },
-        { "number": "034" },
-        { "number": "035" },
-        { "number": "036" },
-        { "number": "037" }
+        {
+          "number": "027",
+          "id": "nna-027"
+        },
+        {
+          "number": "028",
+          "type": "foil",
+          "id": "nna-028"
+        },
+        {
+          "number": "029",
+          "id": "nna-029"
+        },
+        {
+          "number": "030",
+          "id": "nna-030"
+        },
+        {
+          "number": "031",
+          "id": "nna-031"
+        },
+        {
+          "number": "032",
+          "id": "nna-032"
+        },
+        {
+          "number": "033",
+          "id": "nna-033"
+        },
+        {
+          "number": "034",
+          "id": "nna-034"
+        },
+        {
+          "number": "035",
+          "id": "nna-035"
+        },
+        {
+          "number": "036",
+          "id": "nna-036"
+        },
+        {
+          "number": "037",
+          "id": "nna-037"
+        }
       ]
     },
     {
@@ -82,17 +197,51 @@
       "startPage": 8,
       "endPage": 9,
       "stickers": [
-        { "number": "038", "type": "foil" },
-        { "number": "039" },
-        { "number": "040" },
-        { "number": "041" },
-        { "number": "042" },
-        { "number": "043" },
-        { "number": "044" },
-        { "number": "045" },
-        { "number": "046" },
-        { "number": "047" },
-        { "number": "048" }
+        {
+          "number": "038",
+          "type": "foil",
+          "id": "nna-038"
+        },
+        {
+          "number": "039",
+          "id": "nna-039"
+        },
+        {
+          "number": "040",
+          "id": "nna-040"
+        },
+        {
+          "number": "041",
+          "id": "nna-041"
+        },
+        {
+          "number": "042",
+          "id": "nna-042"
+        },
+        {
+          "number": "043",
+          "id": "nna-043"
+        },
+        {
+          "number": "044",
+          "id": "nna-044"
+        },
+        {
+          "number": "045",
+          "id": "nna-045"
+        },
+        {
+          "number": "046",
+          "id": "nna-046"
+        },
+        {
+          "number": "047",
+          "id": "nna-047"
+        },
+        {
+          "number": "048",
+          "id": "nna-048"
+        }
       ]
     },
     {
@@ -101,17 +250,51 @@
       "startPage": 10,
       "endPage": 11,
       "stickers": [
-        { "number": "049" },
-        { "number": "050", "type": "foil" },
-        { "number": "051" },
-        { "number": "052" },
-        { "number": "053" },
-        { "number": "054" },
-        { "number": "055" },
-        { "number": "056" },
-        { "number": "057" },
-        { "number": "058" },
-        { "number": "059" }
+        {
+          "number": "049",
+          "id": "nna-049"
+        },
+        {
+          "number": "050",
+          "type": "foil",
+          "id": "nna-050"
+        },
+        {
+          "number": "051",
+          "id": "nna-051"
+        },
+        {
+          "number": "052",
+          "id": "nna-052"
+        },
+        {
+          "number": "053",
+          "id": "nna-053"
+        },
+        {
+          "number": "054",
+          "id": "nna-054"
+        },
+        {
+          "number": "055",
+          "id": "nna-055"
+        },
+        {
+          "number": "056",
+          "id": "nna-056"
+        },
+        {
+          "number": "057",
+          "id": "nna-057"
+        },
+        {
+          "number": "058",
+          "id": "nna-058"
+        },
+        {
+          "number": "059",
+          "id": "nna-059"
+        }
       ]
     },
     {
@@ -120,16 +303,47 @@
       "startPage": 12,
       "endPage": 13,
       "stickers": [
-        { "number": "060" },
-        { "number": "061" },
-        { "number": "062" },
-        { "number": "063", "type": "foil" },
-        { "number": "064" },
-        { "number": "065" },
-        { "number": "066" },
-        { "number": "067" },
-        { "number": "068" },
-        { "number": "069" }
+        {
+          "number": "060",
+          "id": "nna-060"
+        },
+        {
+          "number": "061",
+          "id": "nna-061"
+        },
+        {
+          "number": "062",
+          "id": "nna-062"
+        },
+        {
+          "number": "063",
+          "type": "foil",
+          "id": "nna-063"
+        },
+        {
+          "number": "064",
+          "id": "nna-064"
+        },
+        {
+          "number": "065",
+          "id": "nna-065"
+        },
+        {
+          "number": "066",
+          "id": "nna-066"
+        },
+        {
+          "number": "067",
+          "id": "nna-067"
+        },
+        {
+          "number": "068",
+          "id": "nna-068"
+        },
+        {
+          "number": "069",
+          "id": "nna-069"
+        }
       ]
     },
     {
@@ -138,17 +352,51 @@
       "startPage": 14,
       "endPage": 15,
       "stickers": [
-        { "number": "070", "type": "foil" },
-        { "number": "071" },
-        { "number": "072" },
-        { "number": "073" },
-        { "number": "074" },
-        { "number": "075" },
-        { "number": "076" },
-        { "number": "077" },
-        { "number": "078" },
-        { "number": "079" },
-        { "number": "080" }
+        {
+          "number": "070",
+          "type": "foil",
+          "id": "nna-070"
+        },
+        {
+          "number": "071",
+          "id": "nna-071"
+        },
+        {
+          "number": "072",
+          "id": "nna-072"
+        },
+        {
+          "number": "073",
+          "id": "nna-073"
+        },
+        {
+          "number": "074",
+          "id": "nna-074"
+        },
+        {
+          "number": "075",
+          "id": "nna-075"
+        },
+        {
+          "number": "076",
+          "id": "nna-076"
+        },
+        {
+          "number": "077",
+          "id": "nna-077"
+        },
+        {
+          "number": "078",
+          "id": "nna-078"
+        },
+        {
+          "number": "079",
+          "id": "nna-079"
+        },
+        {
+          "number": "080",
+          "id": "nna-080"
+        }
       ]
     },
     {
@@ -157,16 +405,47 @@
       "startPage": 16,
       "endPage": 17,
       "stickers": [
-        { "number": "081" },
-        { "number": "082" },
-        { "number": "083" },
-        { "number": "084", "type": "foil" },
-        { "number": "085" },
-        { "number": "086" },
-        { "number": "087" },
-        { "number": "088" },
-        { "number": "089" },
-        { "number": "090" }
+        {
+          "number": "081",
+          "id": "nna-081"
+        },
+        {
+          "number": "082",
+          "id": "nna-082"
+        },
+        {
+          "number": "083",
+          "id": "nna-083"
+        },
+        {
+          "number": "084",
+          "type": "foil",
+          "id": "nna-084"
+        },
+        {
+          "number": "085",
+          "id": "nna-085"
+        },
+        {
+          "number": "086",
+          "id": "nna-086"
+        },
+        {
+          "number": "087",
+          "id": "nna-087"
+        },
+        {
+          "number": "088",
+          "id": "nna-088"
+        },
+        {
+          "number": "089",
+          "id": "nna-089"
+        },
+        {
+          "number": "090",
+          "id": "nna-090"
+        }
       ]
     },
     {
@@ -175,17 +454,51 @@
       "startPage": 18,
       "endPage": 19,
       "stickers": [
-        { "number": "091", "type": "foil" },
-        { "number": "092" },
-        { "number": "093" },
-        { "number": "094" },
-        { "number": "095" },
-        { "number": "096" },
-        { "number": "097" },
-        { "number": "098" },
-        { "number": "099" },
-        { "number": "100" },
-        { "number": "101" }
+        {
+          "number": "091",
+          "type": "foil",
+          "id": "nna-091"
+        },
+        {
+          "number": "092",
+          "id": "nna-092"
+        },
+        {
+          "number": "093",
+          "id": "nna-093"
+        },
+        {
+          "number": "094",
+          "id": "nna-094"
+        },
+        {
+          "number": "095",
+          "id": "nna-095"
+        },
+        {
+          "number": "096",
+          "id": "nna-096"
+        },
+        {
+          "number": "097",
+          "id": "nna-097"
+        },
+        {
+          "number": "098",
+          "id": "nna-098"
+        },
+        {
+          "number": "099",
+          "id": "nna-099"
+        },
+        {
+          "number": "100",
+          "id": "nna-100"
+        },
+        {
+          "number": "101",
+          "id": "nna-101"
+        }
       ]
     },
     {
@@ -194,17 +507,51 @@
       "startPage": 20,
       "endPage": 21,
       "stickers": [
-        { "number": "102" },
-        { "number": "103" },
-        { "number": "104" },
-        { "number": "105" },
-        { "number": "106", "type": "foil" },
-        { "number": "107" },
-        { "number": "108" },
-        { "number": "109" },
-        { "number": "110" },
-        { "number": "111" },
-        { "number": "112" }
+        {
+          "number": "102",
+          "id": "nna-102"
+        },
+        {
+          "number": "103",
+          "id": "nna-103"
+        },
+        {
+          "number": "104",
+          "id": "nna-104"
+        },
+        {
+          "number": "105",
+          "id": "nna-105"
+        },
+        {
+          "number": "106",
+          "type": "foil",
+          "id": "nna-106"
+        },
+        {
+          "number": "107",
+          "id": "nna-107"
+        },
+        {
+          "number": "108",
+          "id": "nna-108"
+        },
+        {
+          "number": "109",
+          "id": "nna-109"
+        },
+        {
+          "number": "110",
+          "id": "nna-110"
+        },
+        {
+          "number": "111",
+          "id": "nna-111"
+        },
+        {
+          "number": "112",
+          "id": "nna-112"
+        }
       ]
     },
     {
@@ -213,16 +560,47 @@
       "startPage": 22,
       "endPage": 23,
       "stickers": [
-        { "number": "113" },
-        { "number": "114", "type": "foil" },
-        { "number": "115" },
-        { "number": "116" },
-        { "number": "117" },
-        { "number": "118" },
-        { "number": "119" },
-        { "number": "120" },
-        { "number": "121" },
-        { "number": "122" }
+        {
+          "number": "113",
+          "id": "nna-113"
+        },
+        {
+          "number": "114",
+          "type": "foil",
+          "id": "nna-114"
+        },
+        {
+          "number": "115",
+          "id": "nna-115"
+        },
+        {
+          "number": "116",
+          "id": "nna-116"
+        },
+        {
+          "number": "117",
+          "id": "nna-117"
+        },
+        {
+          "number": "118",
+          "id": "nna-118"
+        },
+        {
+          "number": "119",
+          "id": "nna-119"
+        },
+        {
+          "number": "120",
+          "id": "nna-120"
+        },
+        {
+          "number": "121",
+          "id": "nna-121"
+        },
+        {
+          "number": "122",
+          "id": "nna-122"
+        }
       ]
     },
     {
@@ -231,18 +609,55 @@
       "startPage": 24,
       "endPage": 25,
       "stickers": [
-        { "number": "123" },
-        { "number": "124", "type": "foil" },
-        { "number": "125" },
-        { "number": "126" },
-        { "number": "127" },
-        { "number": "128" },
-        { "number": "129" },
-        { "number": "130" },
-        { "number": "131" },
-        { "number": "132" },
-        { "number": "133" },
-        { "number": "134" }
+        {
+          "number": "123",
+          "id": "nna-123"
+        },
+        {
+          "number": "124",
+          "type": "foil",
+          "id": "nna-124"
+        },
+        {
+          "number": "125",
+          "id": "nna-125"
+        },
+        {
+          "number": "126",
+          "id": "nna-126"
+        },
+        {
+          "number": "127",
+          "id": "nna-127"
+        },
+        {
+          "number": "128",
+          "id": "nna-128"
+        },
+        {
+          "number": "129",
+          "id": "nna-129"
+        },
+        {
+          "number": "130",
+          "id": "nna-130"
+        },
+        {
+          "number": "131",
+          "id": "nna-131"
+        },
+        {
+          "number": "132",
+          "id": "nna-132"
+        },
+        {
+          "number": "133",
+          "id": "nna-133"
+        },
+        {
+          "number": "134",
+          "id": "nna-134"
+        }
       ]
     },
     {
@@ -251,16 +666,47 @@
       "startPage": 26,
       "endPage": 27,
       "stickers": [
-        { "number": "135" },
-        { "number": "136" },
-        { "number": "137" },
-        { "number": "138", "type": "foil" },
-        { "number": "139" },
-        { "number": "140" },
-        { "number": "141" },
-        { "number": "142" },
-        { "number": "143" },
-        { "number": "144" }
+        {
+          "number": "135",
+          "id": "nna-135"
+        },
+        {
+          "number": "136",
+          "id": "nna-136"
+        },
+        {
+          "number": "137",
+          "id": "nna-137"
+        },
+        {
+          "number": "138",
+          "type": "foil",
+          "id": "nna-138"
+        },
+        {
+          "number": "139",
+          "id": "nna-139"
+        },
+        {
+          "number": "140",
+          "id": "nna-140"
+        },
+        {
+          "number": "141",
+          "id": "nna-141"
+        },
+        {
+          "number": "142",
+          "id": "nna-142"
+        },
+        {
+          "number": "143",
+          "id": "nna-143"
+        },
+        {
+          "number": "144",
+          "id": "nna-144"
+        }
       ]
     },
     {
@@ -269,16 +715,47 @@
       "startPage": 28,
       "endPage": 29,
       "stickers": [
-        { "number": "145", "type": "foil" },
-        { "number": "146" },
-        { "number": "147" },
-        { "number": "148" },
-        { "number": "149" },
-        { "number": "150" },
-        { "number": "151" },
-        { "number": "152" },
-        { "number": "153" },
-        { "number": "154" }
+        {
+          "number": "145",
+          "type": "foil",
+          "id": "nna-145"
+        },
+        {
+          "number": "146",
+          "id": "nna-146"
+        },
+        {
+          "number": "147",
+          "id": "nna-147"
+        },
+        {
+          "number": "148",
+          "id": "nna-148"
+        },
+        {
+          "number": "149",
+          "id": "nna-149"
+        },
+        {
+          "number": "150",
+          "id": "nna-150"
+        },
+        {
+          "number": "151",
+          "id": "nna-151"
+        },
+        {
+          "number": "152",
+          "id": "nna-152"
+        },
+        {
+          "number": "153",
+          "id": "nna-153"
+        },
+        {
+          "number": "154",
+          "id": "nna-154"
+        }
       ]
     },
     {
@@ -287,17 +764,51 @@
       "startPage": 30,
       "endPage": 31,
       "stickers": [
-        { "number": "155", "type": "foil" },
-        { "number": "156" },
-        { "number": "157" },
-        { "number": "158" },
-        { "number": "159" },
-        { "number": "160" },
-        { "number": "161" },
-        { "number": "162" },
-        { "number": "163" },
-        { "number": "164" },
-        { "number": "165" }
+        {
+          "number": "155",
+          "type": "foil",
+          "id": "nna-155"
+        },
+        {
+          "number": "156",
+          "id": "nna-156"
+        },
+        {
+          "number": "157",
+          "id": "nna-157"
+        },
+        {
+          "number": "158",
+          "id": "nna-158"
+        },
+        {
+          "number": "159",
+          "id": "nna-159"
+        },
+        {
+          "number": "160",
+          "id": "nna-160"
+        },
+        {
+          "number": "161",
+          "id": "nna-161"
+        },
+        {
+          "number": "162",
+          "id": "nna-162"
+        },
+        {
+          "number": "163",
+          "id": "nna-163"
+        },
+        {
+          "number": "164",
+          "id": "nna-164"
+        },
+        {
+          "number": "165",
+          "id": "nna-165"
+        }
       ]
     },
     {
@@ -305,11 +816,26 @@
       "name": "A New Adventure Begins",
       "startPage": 32,
       "stickers": [
-        { "number": "166" },
-        { "number": "167" },
-        { "number": "168" },
-        { "number": "169" },
-        { "number": "170" }
+        {
+          "number": "166",
+          "id": "nna-166"
+        },
+        {
+          "number": "167",
+          "id": "nna-167"
+        },
+        {
+          "number": "168",
+          "id": "nna-168"
+        },
+        {
+          "number": "169",
+          "id": "nna-169"
+        },
+        {
+          "number": "170",
+          "id": "nna-170"
+        }
       ]
     },
     {
@@ -317,12 +843,30 @@
       "name": "2x Games & Poster",
       "category": "Extras",
       "stickers": [
-        { "number": "X01" },
-        { "number": "X02" },
-        { "number": "X03" },
-        { "number": "X04" },
-        { "number": "X05" },
-        { "number": "X06" }
+        {
+          "number": "X01",
+          "id": "nna-171"
+        },
+        {
+          "number": "X02",
+          "id": "nna-172"
+        },
+        {
+          "number": "X03",
+          "id": "nna-173"
+        },
+        {
+          "number": "X04",
+          "id": "nna-174"
+        },
+        {
+          "number": "X05",
+          "id": "nna-175"
+        },
+        {
+          "number": "X06",
+          "id": "nna-176"
+        }
       ]
     },
     {
@@ -330,11 +874,31 @@
       "name": "Limited Edition",
       "category": "Extras",
       "stickers": [
-        { "number": "LE1", "name": "Card LE1" },
-        { "number": "LE2", "name": "Card LE2" },
-        { "number": "LE3", "name": "Card LE3" },
-        { "number": "LE4", "name": "Card LE4" },
-        { "number": "LE5", "name": "Card LE5" }
+        {
+          "number": "LE1",
+          "name": "Card LE1",
+          "id": "nna-177"
+        },
+        {
+          "number": "LE2",
+          "name": "Card LE2",
+          "id": "nna-178"
+        },
+        {
+          "number": "LE3",
+          "name": "Card LE3",
+          "id": "nna-179"
+        },
+        {
+          "number": "LE4",
+          "name": "Card LE4",
+          "id": "nna-180"
+        },
+        {
+          "number": "LE5",
+          "name": "Card LE5",
+          "id": "nna-181"
+        }
       ]
     }
   ]
