@@ -1,0 +1,35 @@
+name: Check Sticker ID Immutability
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check-ids:
+    name: ID Immutability
+    runs-on: ubuntu-latest
+    # Requires a reviewer to approve the "review" environment before this job
+    # runs — configure required reviewers in Settings → Environments → review.
+    environment: review
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Fetch enough history to reach the base commit.
+          # For PRs the base SHA is available; for pushes we need HEAD~1.
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Check sticker ID immutability
+        env:
+          # On pull_request events github.event.pull_request.base.sha is the
+          # exact commit at the tip of the target branch before the PR was
+          # opened — the right point to diff against.
+          # On push events we fall back to HEAD~1 (handled in the script).
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: node scripts/check-id-immutability.js
