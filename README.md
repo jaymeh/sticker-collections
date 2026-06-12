@@ -48,9 +48,9 @@ The image is only ever rendered at small sizes (max 110pt wide), so keep it ligh
       "startPage": 1,
       "endPage": 2,
       "stickers": [
-        { "number": "001" },
-        { "number": "002", "type": "foil" },
-        { "number": "003", "name": "Optional sticker name" }
+        { "number": "001", "id": "ab-001" },
+        { "number": "002", "id": "ab-002", "type": "foil" },
+        { "number": "003", "id": "ab-003", "name": "Optional sticker name" }
       ]
     }
   ]
@@ -72,5 +72,16 @@ The image is only ever rendered at small sizes (max 110pt wide), so keep it ligh
 | `sections[].startPage` | | First album page this section appears on |
 | `sections[].endPage` | | Last album page this section appears on |
 | `stickers[].number` | ✓ | Sticker number as printed (e.g. `"001"`, `"A1"`) |
+| `stickers[].id` | ✓ | Stable unique identifier — see [Sticker IDs](#sticker-ids) |
 | `stickers[].name` | | Optional label shown in the app |
 | `stickers[].type` | | `"foil"` for special stickers |
+
+## Sticker IDs
+
+Every sticker must have an `id` field in the format **`{prefix}-{zero-padded-3-digit-number}`**, e.g. `sa-001`, `nna-042`. The prefix is typically an abbreviation of the collection name.
+
+IDs are **permanent**. Once a collection is published:
+
+- IDs must never be removed or renamed — this is a breaking change for any user who has saved progress against that ID.
+- New stickers can be added with new IDs.
+- The CI workflow enforces this automatically on every push and pull request.
