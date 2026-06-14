@@ -11,7 +11,7 @@ const IMAGE_EXTS = ['.jpg', '.jpeg', '.png', '.webp'];
 const REQUIRED_COLLECTION_FIELDS = ['id', 'name', 'publisher', 'year', 'description', 'coverColor', 'sections'];
 const REQUIRED_SECTION_FIELDS = ['id', 'name', 'stickers'];
 const REQUIRED_STICKER_FIELDS = ['number'];
-const VALID_STICKER_TYPES = ['foil'];
+const VALID_STICKER_TYPES = ['foil', 'figured', 'rainbow'];
 
 let errors = 0;
 
