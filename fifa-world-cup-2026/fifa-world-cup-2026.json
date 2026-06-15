@@ -1,0 +1,5276 @@
+{
+  "id": "fifa-world-cup-2026",
+  "name": "FIFA World Cup 2026™",
+  "publisher": "Panini",
+  "year": 2026,
+  "description": "The official Panini sticker album for the 2026 FIFA World Cup hosted by USA, Canada, and Mexico. Features 992 stickers covering all 48 teams.",
+  "coverColor": "#E31B23",
+  "sections": [
+    {
+      "id": "introduction",
+      "name": "Introduction",
+      "stickers": [
+        {
+          "number": "00",
+          "name": "Panini",
+          "id": "fwc26-000"
+        },
+        {
+          "number": "FWC 1",
+          "name": "Official Emblem",
+          "id": "fwc26-001"
+        },
+        {
+          "number": "FWC 2",
+          "name": "Official Emblem",
+          "id": "fwc26-002"
+        },
+        {
+          "number": "FWC 3",
+          "name": "Official Mascots",
+          "id": "fwc26-003"
+        },
+        {
+          "number": "FWC 4",
+          "name": "Official Slogan",
+          "id": "fwc26-004"
+        },
+        {
+          "number": "FWC 5",
+          "name": "Official Ball",
+          "id": "fwc26-005"
+        },
+        {
+          "number": "FWC 6",
+          "name": "Host Country Emblem - CAN",
+          "id": "fwc26-006"
+        },
+        {
+          "number": "FWC 7",
+          "name": "Host Country Emblem - MEX",
+          "id": "fwc26-007"
+        },
+        {
+          "number": "FWC 8",
+          "name": "Host Country Emblem - USA",
+          "id": "fwc26-008"
+        }
+      ]
+    },
+    {
+      "id": "mexico",
+      "name": "Mexico",
+      "stickers": [
+        {
+          "number": "MEX 1",
+          "name": "Logo",
+          "id": "fwc26-009"
+        },
+        {
+          "number": "MEX 2",
+          "name": "Luis Malagón",
+          "id": "fwc26-010"
+        },
+        {
+          "number": "MEX 3",
+          "name": "Johan Vásquez",
+          "id": "fwc26-011"
+        },
+        {
+          "number": "MEX 4",
+          "name": "Jorge Sánchez",
+          "id": "fwc26-012"
+        },
+        {
+          "number": "MEX 5",
+          "name": "César Montes",
+          "id": "fwc26-013"
+        },
+        {
+          "number": "MEX 6",
+          "name": "Jesús Gallardo",
+          "id": "fwc26-014"
+        },
+        {
+          "number": "MEX 7",
+          "name": "Israel Reyes",
+          "id": "fwc26-015"
+        },
+        {
+          "number": "MEX 8",
+          "name": "Diego Lainez",
+          "id": "fwc26-016"
+        },
+        {
+          "number": "MEX 9",
+          "name": "Carlos Rodríguez",
+          "id": "fwc26-017"
+        },
+        {
+          "number": "MEX 10",
+          "name": "Edson Álvarez",
+          "id": "fwc26-018"
+        },
+        {
+          "number": "MEX 11",
+          "name": "Orbelín Pineda",
+          "id": "fwc26-019"
+        },
+        {
+          "number": "MEX 12",
+          "name": "Marcel Ruiz",
+          "id": "fwc26-020"
+        },
+        {
+          "number": "MEX 13",
+          "name": "Team",
+          "id": "fwc26-021"
+        },
+        {
+          "number": "MEX 14",
+          "name": "Érick Sánchez",
+          "id": "fwc26-022"
+        },
+        {
+          "number": "MEX 15",
+          "name": "Hirving Lozano",
+          "id": "fwc26-023"
+        },
+        {
+          "number": "MEX 16",
+          "name": "Santiago Giménez",
+          "id": "fwc26-024"
+        },
+        {
+          "number": "MEX 17",
+          "name": "Raúl Jiménez",
+          "id": "fwc26-025"
+        },
+        {
+          "number": "MEX 18",
+          "name": "Alexis Vega",
+          "id": "fwc26-026"
+        },
+        {
+          "number": "MEX 19",
+          "name": "Roberto Alvarado",
+          "id": "fwc26-027"
+        },
+        {
+          "number": "MEX 20",
+          "name": "César Huerta",
+          "id": "fwc26-028"
+        }
+      ]
+    },
+    {
+      "id": "south-africa",
+      "name": "South Africa",
+      "stickers": [
+        {
+          "number": "RSA 1",
+          "name": "Logo",
+          "id": "fwc26-029"
+        },
+        {
+          "number": "RSA 2",
+          "name": "Ronwen Williams",
+          "id": "fwc26-030"
+        },
+        {
+          "number": "RSA 3",
+          "name": "Sipho Chaine",
+          "id": "fwc26-031"
+        },
+        {
+          "number": "RSA 4",
+          "name": "Aubrey Modiba",
+          "id": "fwc26-032"
+        },
+        {
+          "number": "RSA 5",
+          "name": "Samukele Kabini",
+          "id": "fwc26-033"
+        },
+        {
+          "number": "RSA 6",
+          "name": "Mbekezeli Mbokazi",
+          "id": "fwc26-034"
+        },
+        {
+          "number": "RSA 7",
+          "name": "Khulumani Ndamane",
+          "id": "fwc26-035"
+        },
+        {
+          "number": "RSA 8",
+          "name": "Siyabonga Ngezana",
+          "id": "fwc26-036"
+        },
+        {
+          "number": "RSA 9",
+          "name": "Khuliso Mudau",
+          "id": "fwc26-037"
+        },
+        {
+          "number": "RSA 10",
+          "name": "Nkosinathi Sibisi",
+          "id": "fwc26-038"
+        },
+        {
+          "number": "RSA 11",
+          "name": "Teboho Mokoena",
+          "id": "fwc26-039"
+        },
+        {
+          "number": "RSA 12",
+          "name": "Thalente Mbatha",
+          "id": "fwc26-040"
+        },
+        {
+          "number": "RSA 13",
+          "name": "Team",
+          "id": "fwc26-041"
+        },
+        {
+          "number": "RSA 14",
+          "name": "Bathusi Aubaas",
+          "id": "fwc26-042"
+        },
+        {
+          "number": "RSA 15",
+          "name": "Yaya Sithole",
+          "id": "fwc26-043"
+        },
+        {
+          "number": "RSA 16",
+          "name": "Sipho Mbule",
+          "id": "fwc26-044"
+        },
+        {
+          "number": "RSA 17",
+          "name": "Lyle Foster",
+          "id": "fwc26-045"
+        },
+        {
+          "number": "RSA 18",
+          "name": "Iqraam Rayners",
+          "id": "fwc26-046"
+        },
+        {
+          "number": "RSA 19",
+          "name": "Mohau Nkota",
+          "id": "fwc26-047"
+        },
+        {
+          "number": "RSA 20",
+          "name": "Oswin Appollis",
+          "id": "fwc26-048"
+        }
+      ]
+    },
+    {
+      "id": "korea-republic",
+      "name": "Korea Republic",
+      "stickers": [
+        {
+          "number": "KOR 1",
+          "name": "Logo",
+          "id": "fwc26-049"
+        },
+        {
+          "number": "KOR 2",
+          "name": "Hyeonwoo Jo",
+          "id": "fwc26-050"
+        },
+        {
+          "number": "KOR 3",
+          "name": "Seunggyu Kim",
+          "id": "fwc26-051"
+        },
+        {
+          "number": "KOR 4",
+          "name": "Minjae Kim",
+          "id": "fwc26-052"
+        },
+        {
+          "number": "KOR 5",
+          "name": "Yumin Cho",
+          "id": "fwc26-053"
+        },
+        {
+          "number": "KOR 6",
+          "name": "Youngwoo Seol",
+          "id": "fwc26-054"
+        },
+        {
+          "number": "KOR 7",
+          "name": "Hanbeom Lee",
+          "id": "fwc26-055"
+        },
+        {
+          "number": "KOR 8",
+          "name": "Taeseok Lee",
+          "id": "fwc26-056"
+        },
+        {
+          "number": "KOR 9",
+          "name": "Myungjae Lee",
+          "id": "fwc26-057"
+        },
+        {
+          "number": "KOR 10",
+          "name": "Jaesung Lee",
+          "id": "fwc26-058"
+        },
+        {
+          "number": "KOR 11",
+          "name": "Inbeom Hwang",
+          "id": "fwc26-059"
+        },
+        {
+          "number": "KOR 12",
+          "name": "Kangin Lee",
+          "id": "fwc26-060"
+        },
+        {
+          "number": "KOR 13",
+          "name": "Team",
+          "id": "fwc26-061"
+        },
+        {
+          "number": "KOR 14",
+          "name": "Seungho Paik",
+          "id": "fwc26-062"
+        },
+        {
+          "number": "KOR 15",
+          "name": "Jens Castrop",
+          "id": "fwc26-063"
+        },
+        {
+          "number": "KOR 16",
+          "name": "Donggyeong Lee",
+          "id": "fwc26-064"
+        },
+        {
+          "number": "KOR 17",
+          "name": "Guesung Cho",
+          "id": "fwc26-065"
+        },
+        {
+          "number": "KOR 18",
+          "name": "Heungmin Son",
+          "id": "fwc26-066"
+        },
+        {
+          "number": "KOR 19",
+          "name": "Heechan Hwang",
+          "id": "fwc26-067"
+        },
+        {
+          "number": "KOR 20",
+          "name": "Hyeongyu Oh",
+          "id": "fwc26-068"
+        }
+      ]
+    },
+    {
+      "id": "czechia",
+      "name": "Czechia",
+      "stickers": [
+        {
+          "number": "CZE 1",
+          "name": "Logo",
+          "id": "fwc26-069"
+        },
+        {
+          "number": "CZE 2",
+          "name": "Matěj Kovář",
+          "id": "fwc26-070"
+        },
+        {
+          "number": "CZE 3",
+          "name": "Jindřich Staněk",
+          "id": "fwc26-071"
+        },
+        {
+          "number": "CZE 4",
+          "name": "Ladislav Krejčí",
+          "id": "fwc26-072"
+        },
+        {
+          "number": "CZE 5",
+          "name": "Vladimír Coufal",
+          "id": "fwc26-073"
+        },
+        {
+          "number": "CZE 6",
+          "name": "Jaroslav Zelený",
+          "id": "fwc26-074"
+        },
+        {
+          "number": "CZE 7",
+          "name": "Tomáš Holeš",
+          "id": "fwc26-075"
+        },
+        {
+          "number": "CZE 8",
+          "name": "David Zima",
+          "id": "fwc26-076"
+        },
+        {
+          "number": "CZE 9",
+          "name": "Michal Sadílek",
+          "id": "fwc26-077"
+        },
+        {
+          "number": "CZE 10",
+          "name": "Lukáš Provod",
+          "id": "fwc26-078"
+        },
+        {
+          "number": "CZE 11",
+          "name": "Lukáš Červ",
+          "id": "fwc26-079"
+        },
+        {
+          "number": "CZE 12",
+          "name": "Tomáš Souček",
+          "id": "fwc26-080"
+        },
+        {
+          "number": "CZE 13",
+          "name": "Team",
+          "id": "fwc26-081"
+        },
+        {
+          "number": "CZE 14",
+          "name": "Pavel Šulc",
+          "id": "fwc26-082"
+        },
+        {
+          "number": "CZE 15",
+          "name": "Matěj Vydra",
+          "id": "fwc26-083"
+        },
+        {
+          "number": "CZE 16",
+          "name": "Vasil Kušej",
+          "id": "fwc26-084"
+        },
+        {
+          "number": "CZE 17",
+          "name": "Tomáš Chorý",
+          "id": "fwc26-085"
+        },
+        {
+          "number": "CZE 18",
+          "name": "Václav Černý",
+          "id": "fwc26-086"
+        },
+        {
+          "number": "CZE 19",
+          "name": "Adam Hložek",
+          "id": "fwc26-087"
+        },
+        {
+          "number": "CZE 20",
+          "name": "Patrik Schick",
+          "id": "fwc26-088"
+        }
+      ]
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "stickers": [
+        {
+          "number": "CAN 1",
+          "name": "Logo",
+          "id": "fwc26-089"
+        },
+        {
+          "number": "CAN 2",
+          "name": "Dayne St. Clair",
+          "id": "fwc26-090"
+        },
+        {
+          "number": "CAN 3",
+          "name": "Alphonso Davies",
+          "id": "fwc26-091"
+        },
+        {
+          "number": "CAN 4",
+          "name": "Alistair Johnston",
+          "id": "fwc26-092"
+        },
+        {
+          "number": "CAN 5",
+          "name": "Samuel Adekugbe",
+          "id": "fwc26-093"
+        },
+        {
+          "number": "CAN 6",
+          "name": "Richie Laryea",
+          "id": "fwc26-094"
+        },
+        {
+          "number": "CAN 7",
+          "name": "Derek Cornelius",
+          "id": "fwc26-095"
+        },
+        {
+          "number": "CAN 8",
+          "name": "Moïse Bombito",
+          "id": "fwc26-096"
+        },
+        {
+          "number": "CAN 9",
+          "name": "Kamal Miller",
+          "id": "fwc26-097"
+        },
+        {
+          "number": "CAN 10",
+          "name": "Stephen Eustáquio",
+          "id": "fwc26-098"
+        },
+        {
+          "number": "CAN 11",
+          "name": "Ismaël Koné",
+          "id": "fwc26-099"
+        },
+        {
+          "number": "CAN 12",
+          "name": "Jonathan Osorio",
+          "id": "fwc26-100"
+        },
+        {
+          "number": "CAN 13",
+          "name": "Team",
+          "id": "fwc26-101"
+        },
+        {
+          "number": "CAN 14",
+          "name": "Jacob Shaffelburg",
+          "id": "fwc26-102"
+        },
+        {
+          "number": "CAN 15",
+          "name": "Mathieu Choinière",
+          "id": "fwc26-103"
+        },
+        {
+          "number": "CAN 16",
+          "name": "Niko Sigur",
+          "id": "fwc26-104"
+        },
+        {
+          "number": "CAN 17",
+          "name": "Tajon Buchanan",
+          "id": "fwc26-105"
+        },
+        {
+          "number": "CAN 18",
+          "name": "Liam Millar",
+          "id": "fwc26-106"
+        },
+        {
+          "number": "CAN 19",
+          "name": "Cyle Larin",
+          "id": "fwc26-107"
+        },
+        {
+          "number": "CAN 20",
+          "name": "Jonathan David",
+          "id": "fwc26-108"
+        }
+      ]
+    },
+    {
+      "id": "bosnia-herzegovina",
+      "name": "Bosnia-Herzegovina",
+      "stickers": [
+        {
+          "number": "BIH 1",
+          "name": "Logo",
+          "id": "fwc26-109"
+        },
+        {
+          "number": "BIH 2",
+          "name": "Nikola Vasilj",
+          "id": "fwc26-110"
+        },
+        {
+          "number": "BIH 3",
+          "name": "Amar Dedić",
+          "id": "fwc26-111"
+        },
+        {
+          "number": "BIH 4",
+          "name": "Sead Kolašinac",
+          "id": "fwc26-112"
+        },
+        {
+          "number": "BIH 5",
+          "name": "Tarik Muharemović",
+          "id": "fwc26-113"
+        },
+        {
+          "number": "BIH 6",
+          "name": "Nihad Mujakić",
+          "id": "fwc26-114"
+        },
+        {
+          "number": "BIH 7",
+          "name": "Nikola Katić",
+          "id": "fwc26-115"
+        },
+        {
+          "number": "BIH 8",
+          "name": "Amir Hadžiahmetović",
+          "id": "fwc26-116"
+        },
+        {
+          "number": "BIH 9",
+          "name": "Benjamin Tahirović",
+          "id": "fwc26-117"
+        },
+        {
+          "number": "BIH 10",
+          "name": "Armin Gigović",
+          "id": "fwc26-118"
+        },
+        {
+          "number": "BIH 11",
+          "name": "Ivan Šunjić",
+          "id": "fwc26-119"
+        },
+        {
+          "number": "BIH 12",
+          "name": "Ivan Bašić",
+          "id": "fwc26-120"
+        },
+        {
+          "number": "BIH 13",
+          "name": "Team",
+          "id": "fwc26-121"
+        },
+        {
+          "number": "BIH 14",
+          "name": "Dženis Burnić",
+          "id": "fwc26-122"
+        },
+        {
+          "number": "BIH 15",
+          "name": "Esmir Bajraktarević",
+          "id": "fwc26-123"
+        },
+        {
+          "number": "BIH 16",
+          "name": "Amar Memić",
+          "id": "fwc26-124"
+        },
+        {
+          "number": "BIH 17",
+          "name": "Ermedin Demirović",
+          "id": "fwc26-125"
+        },
+        {
+          "number": "BIH 18",
+          "name": "Edin Džeko",
+          "id": "fwc26-126"
+        },
+        {
+          "number": "BIH 19",
+          "name": "Samed Baždar",
+          "id": "fwc26-127"
+        },
+        {
+          "number": "BIH 20",
+          "name": "Haris Tabaković",
+          "id": "fwc26-128"
+        }
+      ]
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "stickers": [
+        {
+          "number": "QAT 1",
+          "name": "Logo",
+          "id": "fwc26-129"
+        },
+        {
+          "number": "QAT 2",
+          "name": "Meshaal Barsham",
+          "id": "fwc26-130"
+        },
+        {
+          "number": "QAT 3",
+          "name": "Sultan Albrake",
+          "id": "fwc26-131"
+        },
+        {
+          "number": "QAT 4",
+          "name": "Lucas Mendes",
+          "id": "fwc26-132"
+        },
+        {
+          "number": "QAT 5",
+          "name": "Homam Ahmed",
+          "id": "fwc26-133"
+        },
+        {
+          "number": "QAT 6",
+          "name": "Boualem Khoukhi",
+          "id": "fwc26-134"
+        },
+        {
+          "number": "QAT 7",
+          "name": "Pedro Miguel",
+          "id": "fwc26-135"
+        },
+        {
+          "number": "QAT 8",
+          "name": "Tarek Salman",
+          "id": "fwc26-136"
+        },
+        {
+          "number": "QAT 9",
+          "name": "Mohammed Mannai",
+          "id": "fwc26-137"
+        },
+        {
+          "number": "QAT 10",
+          "name": "Karim Boudiaf",
+          "id": "fwc26-138"
+        },
+        {
+          "number": "QAT 11",
+          "name": "Assim Madibo",
+          "id": "fwc26-139"
+        },
+        {
+          "number": "QAT 12",
+          "name": "Hamed Fatehi",
+          "id": "fwc26-140"
+        },
+        {
+          "number": "QAT 13",
+          "name": "Team",
+          "id": "fwc26-141"
+        },
+        {
+          "number": "QAT 14",
+          "name": "Mohammed Waad",
+          "id": "fwc26-142"
+        },
+        {
+          "number": "QAT 15",
+          "name": "Abdulaziz Hatem",
+          "id": "fwc26-143"
+        },
+        {
+          "number": "QAT 16",
+          "name": "Hassan Al-Haydos",
+          "id": "fwc26-144"
+        },
+        {
+          "number": "QAT 17",
+          "name": "Edmílson Junior",
+          "id": "fwc26-145"
+        },
+        {
+          "number": "QAT 18",
+          "name": "Akram Hassan Afif",
+          "id": "fwc26-146"
+        },
+        {
+          "number": "QAT 19",
+          "name": "Ahmed Al-Ganehi",
+          "id": "fwc26-147"
+        },
+        {
+          "number": "QAT 20",
+          "name": "Almoez Ali",
+          "id": "fwc26-148"
+        }
+      ]
+    },
+    {
+      "id": "switzerland",
+      "name": "Switzerland",
+      "stickers": [
+        {
+          "number": "SUI 1",
+          "name": "Logo",
+          "id": "fwc26-149"
+        },
+        {
+          "number": "SUI 2",
+          "name": "Gregor Kobel",
+          "id": "fwc26-150"
+        },
+        {
+          "number": "SUI 3",
+          "name": "Yvon Mvogo",
+          "id": "fwc26-151"
+        },
+        {
+          "number": "SUI 4",
+          "name": "Manuel Akanji",
+          "id": "fwc26-152"
+        },
+        {
+          "number": "SUI 5",
+          "name": "Ricardo Rodríguez",
+          "id": "fwc26-153"
+        },
+        {
+          "number": "SUI 6",
+          "name": "Nico Elvedi",
+          "id": "fwc26-154"
+        },
+        {
+          "number": "SUI 7",
+          "name": "Aurèle Amenda",
+          "id": "fwc26-155"
+        },
+        {
+          "number": "SUI 8",
+          "name": "Silvan Widmer",
+          "id": "fwc26-156"
+        },
+        {
+          "number": "SUI 9",
+          "name": "Granit Xhaka",
+          "id": "fwc26-157"
+        },
+        {
+          "number": "SUI 10",
+          "name": "Denis Zakaria",
+          "id": "fwc26-158"
+        },
+        {
+          "number": "SUI 11",
+          "name": "Remo Freuler",
+          "id": "fwc26-159"
+        },
+        {
+          "number": "SUI 12",
+          "name": "Fabian Rieder",
+          "id": "fwc26-160"
+        },
+        {
+          "number": "SUI 13",
+          "name": "Team",
+          "id": "fwc26-161"
+        },
+        {
+          "number": "SUI 14",
+          "name": "Ardon Jashari",
+          "id": "fwc26-162"
+        },
+        {
+          "number": "SUI 15",
+          "name": "Johan Manzambi",
+          "id": "fwc26-163"
+        },
+        {
+          "number": "SUI 16",
+          "name": "Michel Aebischer",
+          "id": "fwc26-164"
+        },
+        {
+          "number": "SUI 17",
+          "name": "Breel Embolo",
+          "id": "fwc26-165"
+        },
+        {
+          "number": "SUI 18",
+          "name": "Rubén Vargas",
+          "id": "fwc26-166"
+        },
+        {
+          "number": "SUI 19",
+          "name": "Dan Ndoye",
+          "id": "fwc26-167"
+        },
+        {
+          "number": "SUI 20",
+          "name": "Zeki Amdouni",
+          "id": "fwc26-168"
+        }
+      ]
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "stickers": [
+        {
+          "number": "BRA 1",
+          "name": "Logo",
+          "id": "fwc26-169"
+        },
+        {
+          "number": "BRA 2",
+          "name": "Alisson",
+          "id": "fwc26-170"
+        },
+        {
+          "number": "BRA 3",
+          "name": "Bento",
+          "id": "fwc26-171"
+        },
+        {
+          "number": "BRA 4",
+          "name": "Marquinhos",
+          "id": "fwc26-172"
+        },
+        {
+          "number": "BRA 5",
+          "name": "Éder Militão",
+          "id": "fwc26-173"
+        },
+        {
+          "number": "BRA 6",
+          "name": "Gabriel Magalhães",
+          "id": "fwc26-174"
+        },
+        {
+          "number": "BRA 7",
+          "name": "Danilo",
+          "id": "fwc26-175"
+        },
+        {
+          "number": "BRA 8",
+          "name": "Wesley",
+          "id": "fwc26-176"
+        },
+        {
+          "number": "BRA 9",
+          "name": "Lucas Paquetá",
+          "id": "fwc26-177"
+        },
+        {
+          "number": "BRA 10",
+          "name": "Casemiro",
+          "id": "fwc26-178"
+        },
+        {
+          "number": "BRA 11",
+          "name": "Bruno Guimarães",
+          "id": "fwc26-179"
+        },
+        {
+          "number": "BRA 12",
+          "name": "Luiz Henrique",
+          "id": "fwc26-180"
+        },
+        {
+          "number": "BRA 13",
+          "name": "Team",
+          "id": "fwc26-181"
+        },
+        {
+          "number": "BRA 14",
+          "name": "Vinícius Júnior",
+          "id": "fwc26-182"
+        },
+        {
+          "number": "BRA 15",
+          "name": "Rodrygo",
+          "id": "fwc26-183"
+        },
+        {
+          "number": "BRA 16",
+          "name": "João Pedro",
+          "id": "fwc26-184"
+        },
+        {
+          "number": "BRA 17",
+          "name": "Matheus Cunha",
+          "id": "fwc26-185"
+        },
+        {
+          "number": "BRA 18",
+          "name": "Gabriel Martinelli",
+          "id": "fwc26-186"
+        },
+        {
+          "number": "BRA 19",
+          "name": "Raphinha",
+          "id": "fwc26-187"
+        },
+        {
+          "number": "BRA 20",
+          "name": "Estêvão",
+          "id": "fwc26-188"
+        }
+      ]
+    },
+    {
+      "id": "morocco",
+      "name": "Morocco",
+      "stickers": [
+        {
+          "number": "MAR 1",
+          "name": "Logo",
+          "id": "fwc26-189"
+        },
+        {
+          "number": "MAR 2",
+          "name": "Yassine Bounou",
+          "id": "fwc26-190"
+        },
+        {
+          "number": "MAR 3",
+          "name": "Munir El Kajoui",
+          "id": "fwc26-191"
+        },
+        {
+          "number": "MAR 4",
+          "name": "Achraf Hakimi",
+          "id": "fwc26-192"
+        },
+        {
+          "number": "MAR 5",
+          "name": "Noussair Mazraoui",
+          "id": "fwc26-193"
+        },
+        {
+          "number": "MAR 6",
+          "name": "Nayef Aguerd",
+          "id": "fwc26-194"
+        },
+        {
+          "number": "MAR 7",
+          "name": "Romain Saïss",
+          "id": "fwc26-195"
+        },
+        {
+          "number": "MAR 8",
+          "name": "Jawad El Yamiq",
+          "id": "fwc26-196"
+        },
+        {
+          "number": "MAR 9",
+          "name": "Adam Masina",
+          "id": "fwc26-197"
+        },
+        {
+          "number": "MAR 10",
+          "name": "Sofyan Amrabat",
+          "id": "fwc26-198"
+        },
+        {
+          "number": "MAR 11",
+          "name": "Azzedine Ounahi",
+          "id": "fwc26-199"
+        },
+        {
+          "number": "MAR 12",
+          "name": "Eliesse Ben Seghir",
+          "id": "fwc26-200"
+        },
+        {
+          "number": "MAR 13",
+          "name": "Team",
+          "id": "fwc26-201"
+        },
+        {
+          "number": "MAR 14",
+          "name": "Bilal El Khannouss",
+          "id": "fwc26-202"
+        },
+        {
+          "number": "MAR 15",
+          "name": "Ismael Saibari",
+          "id": "fwc26-203"
+        },
+        {
+          "number": "MAR 16",
+          "name": "Youssef En-Nesyri",
+          "id": "fwc26-204"
+        },
+        {
+          "number": "MAR 17",
+          "name": "Abde Ezzalzouli",
+          "id": "fwc26-205"
+        },
+        {
+          "number": "MAR 18",
+          "name": "Soufiane Rahimi",
+          "id": "fwc26-206"
+        },
+        {
+          "number": "MAR 19",
+          "name": "Brahim Díaz",
+          "id": "fwc26-207"
+        },
+        {
+          "number": "MAR 20",
+          "name": "Ayoub El Kaabi",
+          "id": "fwc26-208"
+        }
+      ]
+    },
+    {
+      "id": "haiti",
+      "name": "Haiti",
+      "stickers": [
+        {
+          "number": "HAI 1",
+          "name": "Logo",
+          "id": "fwc26-209"
+        },
+        {
+          "number": "HAI 2",
+          "name": "Johny Placide",
+          "id": "fwc26-210"
+        },
+        {
+          "number": "HAI 3",
+          "name": "Carlens Arcus",
+          "id": "fwc26-211"
+        },
+        {
+          "number": "HAI 4",
+          "name": "Martin Expérience",
+          "id": "fwc26-212"
+        },
+        {
+          "number": "HAI 5",
+          "name": "Jean-Kévin Duverne",
+          "id": "fwc26-213"
+        },
+        {
+          "number": "HAI 6",
+          "name": "Ricardo Adé",
+          "id": "fwc26-214"
+        },
+        {
+          "number": "HAI 7",
+          "name": "Duke Lacroix",
+          "id": "fwc26-215"
+        },
+        {
+          "number": "HAI 8",
+          "name": "Garven Metusala",
+          "id": "fwc26-216"
+        },
+        {
+          "number": "HAI 9",
+          "name": "Hannes Delcroix",
+          "id": "fwc26-217"
+        },
+        {
+          "number": "HAI 10",
+          "name": "Leverton Pierre",
+          "id": "fwc26-218"
+        },
+        {
+          "number": "HAI 11",
+          "name": "Danley Jean Jacques",
+          "id": "fwc26-219"
+        },
+        {
+          "number": "HAI 12",
+          "name": "Jean-Ricner Bellegarde",
+          "id": "fwc26-220"
+        },
+        {
+          "number": "HAI 13",
+          "name": "Team",
+          "id": "fwc26-221"
+        },
+        {
+          "number": "HAI 14",
+          "name": "Christopher Attys",
+          "id": "fwc26-222"
+        },
+        {
+          "number": "HAI 15",
+          "name": "Derrick Etienne Jr.",
+          "id": "fwc26-223"
+        },
+        {
+          "number": "HAI 16",
+          "name": "Josué Casimir",
+          "id": "fwc26-224"
+        },
+        {
+          "number": "HAI 17",
+          "name": "Ruben Providence",
+          "id": "fwc26-225"
+        },
+        {
+          "number": "HAI 18",
+          "name": "Duckens Nazon",
+          "id": "fwc26-226"
+        },
+        {
+          "number": "HAI 19",
+          "name": "Louicius Deedson",
+          "id": "fwc26-227"
+        },
+        {
+          "number": "HAI 20",
+          "name": "Frantzdy Pierrot",
+          "id": "fwc26-228"
+        }
+      ]
+    },
+    {
+      "id": "scotland",
+      "name": "Scotland",
+      "stickers": [
+        {
+          "number": "SCO 1",
+          "name": "Logo",
+          "id": "fwc26-229"
+        },
+        {
+          "number": "SCO 2",
+          "name": "Angus Gunn",
+          "id": "fwc26-230"
+        },
+        {
+          "number": "SCO 3",
+          "name": "Jack Hendry",
+          "id": "fwc26-231"
+        },
+        {
+          "number": "SCO 4",
+          "name": "Kieran Tierney",
+          "id": "fwc26-232"
+        },
+        {
+          "number": "SCO 5",
+          "name": "Aaron Hickey",
+          "id": "fwc26-233"
+        },
+        {
+          "number": "SCO 6",
+          "name": "Andrew Robertson",
+          "id": "fwc26-234"
+        },
+        {
+          "number": "SCO 7",
+          "name": "Scott McKenna",
+          "id": "fwc26-235"
+        },
+        {
+          "number": "SCO 8",
+          "name": "John Souttar",
+          "id": "fwc26-236"
+        },
+        {
+          "number": "SCO 9",
+          "name": "Anthony Ralston",
+          "id": "fwc26-237"
+        },
+        {
+          "number": "SCO 10",
+          "name": "Grant Hanley",
+          "id": "fwc26-238"
+        },
+        {
+          "number": "SCO 11",
+          "name": "Scott McTominay",
+          "id": "fwc26-239"
+        },
+        {
+          "number": "SCO 12",
+          "name": "Billy Gilmour",
+          "id": "fwc26-240"
+        },
+        {
+          "number": "SCO 13",
+          "name": "Team",
+          "id": "fwc26-241"
+        },
+        {
+          "number": "SCO 14",
+          "name": "Lewis Ferguson",
+          "id": "fwc26-242"
+        },
+        {
+          "number": "SCO 15",
+          "name": "Ryan Christie",
+          "id": "fwc26-243"
+        },
+        {
+          "number": "SCO 16",
+          "name": "Kenny McLean",
+          "id": "fwc26-244"
+        },
+        {
+          "number": "SCO 17",
+          "name": "John McGinn",
+          "id": "fwc26-245"
+        },
+        {
+          "number": "SCO 18",
+          "name": "Lyndon Dykes",
+          "id": "fwc26-246"
+        },
+        {
+          "number": "SCO 19",
+          "name": "Ché Adams",
+          "id": "fwc26-247"
+        },
+        {
+          "number": "SCO 20",
+          "name": "Ben Gannon-Doak",
+          "id": "fwc26-248"
+        }
+      ]
+    },
+    {
+      "id": "usa",
+      "name": "USA",
+      "stickers": [
+        {
+          "number": "USA 1",
+          "name": "Logo",
+          "id": "fwc26-249"
+        },
+        {
+          "number": "USA 2",
+          "name": "Matt Freese",
+          "id": "fwc26-250"
+        },
+        {
+          "number": "USA 3",
+          "name": "Chris Richards",
+          "id": "fwc26-251"
+        },
+        {
+          "number": "USA 4",
+          "name": "Tim Ream",
+          "id": "fwc26-252"
+        },
+        {
+          "number": "USA 5",
+          "name": "Mark McKenzie",
+          "id": "fwc26-253"
+        },
+        {
+          "number": "USA 6",
+          "name": "Alex Freeman",
+          "id": "fwc26-254"
+        },
+        {
+          "number": "USA 7",
+          "name": "Antonee Robinson",
+          "id": "fwc26-255"
+        },
+        {
+          "number": "USA 8",
+          "name": "Tyler Adams",
+          "id": "fwc26-256"
+        },
+        {
+          "number": "USA 9",
+          "name": "Tanner Tessmann",
+          "id": "fwc26-257"
+        },
+        {
+          "number": "USA 10",
+          "name": "Weston McKennie",
+          "id": "fwc26-258"
+        },
+        {
+          "number": "USA 11",
+          "name": "Cristian Roldan",
+          "id": "fwc26-259"
+        },
+        {
+          "number": "USA 12",
+          "name": "Timothy Weah",
+          "id": "fwc26-260"
+        },
+        {
+          "number": "USA 13",
+          "name": "Team",
+          "id": "fwc26-261"
+        },
+        {
+          "number": "USA 14",
+          "name": "Diego Luna",
+          "id": "fwc26-262"
+        },
+        {
+          "number": "USA 15",
+          "name": "Malik Tillman",
+          "id": "fwc26-263"
+        },
+        {
+          "number": "USA 16",
+          "name": "Christian Pulisic",
+          "id": "fwc26-264"
+        },
+        {
+          "number": "USA 17",
+          "name": "Brenden Aaronson",
+          "id": "fwc26-265"
+        },
+        {
+          "number": "USA 18",
+          "name": "Ricardo Pepi",
+          "id": "fwc26-266"
+        },
+        {
+          "number": "USA 19",
+          "name": "Haji Wright",
+          "id": "fwc26-267"
+        },
+        {
+          "number": "USA 20",
+          "name": "Folarin Balogun",
+          "id": "fwc26-268"
+        }
+      ]
+    },
+    {
+      "id": "paraguay",
+      "name": "Paraguay",
+      "stickers": [
+        {
+          "number": "PAR 1",
+          "name": "Logo",
+          "id": "fwc26-269"
+        },
+        {
+          "number": "PAR 2",
+          "name": "Roberto Fernández",
+          "id": "fwc26-270"
+        },
+        {
+          "number": "PAR 3",
+          "name": "Orlando Gill",
+          "id": "fwc26-271"
+        },
+        {
+          "number": "PAR 4",
+          "name": "Gustavo Gómez",
+          "id": "fwc26-272"
+        },
+        {
+          "number": "PAR 5",
+          "name": "Fabián Balbuena",
+          "id": "fwc26-273"
+        },
+        {
+          "number": "PAR 6",
+          "name": "Juan José Cáceres",
+          "id": "fwc26-274"
+        },
+        {
+          "number": "PAR 7",
+          "name": "Omar Alderete",
+          "id": "fwc26-275"
+        },
+        {
+          "number": "PAR 8",
+          "name": "Júnior Alonso",
+          "id": "fwc26-276"
+        },
+        {
+          "number": "PAR 9",
+          "name": "Mathías Villasanti",
+          "id": "fwc26-277"
+        },
+        {
+          "number": "PAR 10",
+          "name": "Diego Gómez",
+          "id": "fwc26-278"
+        },
+        {
+          "number": "PAR 11",
+          "name": "Damián Bobadilla",
+          "id": "fwc26-279"
+        },
+        {
+          "number": "PAR 12",
+          "name": "Andrés Cubas",
+          "id": "fwc26-280"
+        },
+        {
+          "number": "PAR 13",
+          "name": "Team",
+          "id": "fwc26-281"
+        },
+        {
+          "number": "PAR 14",
+          "name": "Matías Galarza Fonda",
+          "id": "fwc26-282"
+        },
+        {
+          "number": "PAR 15",
+          "name": "Julio Enciso",
+          "id": "fwc26-283"
+        },
+        {
+          "number": "PAR 16",
+          "name": "Alejandro Romero Gamarra",
+          "id": "fwc26-284"
+        },
+        {
+          "number": "PAR 17",
+          "name": "Miguel Almirón",
+          "id": "fwc26-285"
+        },
+        {
+          "number": "PAR 18",
+          "name": "Ramón Sosa",
+          "id": "fwc26-286"
+        },
+        {
+          "number": "PAR 19",
+          "name": "Ángel Romero",
+          "id": "fwc26-287"
+        },
+        {
+          "number": "PAR 20",
+          "name": "Antonio Sanabria",
+          "id": "fwc26-288"
+        }
+      ]
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "stickers": [
+        {
+          "number": "AUS 1",
+          "name": "Logo",
+          "id": "fwc26-289"
+        },
+        {
+          "number": "AUS 2",
+          "name": "Mathew Ryan",
+          "id": "fwc26-290"
+        },
+        {
+          "number": "AUS 3",
+          "name": "Joe Gauci",
+          "id": "fwc26-291"
+        },
+        {
+          "number": "AUS 4",
+          "name": "Harry Souttar",
+          "id": "fwc26-292"
+        },
+        {
+          "number": "AUS 5",
+          "name": "Alessandro Circati",
+          "id": "fwc26-293"
+        },
+        {
+          "number": "AUS 6",
+          "name": "Jordan Bos",
+          "id": "fwc26-294"
+        },
+        {
+          "number": "AUS 7",
+          "name": "Aziz Behich",
+          "id": "fwc26-295"
+        },
+        {
+          "number": "AUS 8",
+          "name": "Cameron Burgess",
+          "id": "fwc26-296"
+        },
+        {
+          "number": "AUS 9",
+          "name": "Lewis Miller",
+          "id": "fwc26-297"
+        },
+        {
+          "number": "AUS 10",
+          "name": "Milos Degenek",
+          "id": "fwc26-298"
+        },
+        {
+          "number": "AUS 11",
+          "name": "Jackson Irvine",
+          "id": "fwc26-299"
+        },
+        {
+          "number": "AUS 12",
+          "name": "Riley McGree",
+          "id": "fwc26-300"
+        },
+        {
+          "number": "AUS 13",
+          "name": "Team",
+          "id": "fwc26-301"
+        },
+        {
+          "number": "AUS 14",
+          "name": "Aiden O'Neill",
+          "id": "fwc26-302"
+        },
+        {
+          "number": "AUS 15",
+          "name": "Connor Metcalfe",
+          "id": "fwc26-303"
+        },
+        {
+          "number": "AUS 16",
+          "name": "Patrick Yazbek",
+          "id": "fwc26-304"
+        },
+        {
+          "number": "AUS 17",
+          "name": "Craig Goodwin",
+          "id": "fwc26-305"
+        },
+        {
+          "number": "AUS 18",
+          "name": "Kusini Yengi",
+          "id": "fwc26-306"
+        },
+        {
+          "number": "AUS 19",
+          "name": "Nestory Irankunda",
+          "id": "fwc26-307"
+        },
+        {
+          "number": "AUS 20",
+          "name": "Mohamed Touré",
+          "id": "fwc26-308"
+        }
+      ]
+    },
+    {
+      "id": "turkiye",
+      "name": "Türkiye",
+      "stickers": [
+        {
+          "number": "TUR 1",
+          "name": "Logo",
+          "id": "fwc26-309"
+        },
+        {
+          "number": "TUR 2",
+          "name": "Uğurcan Çakır",
+          "id": "fwc26-310"
+        },
+        {
+          "number": "TUR 3",
+          "name": "Mert Müldür",
+          "id": "fwc26-311"
+        },
+        {
+          "number": "TUR 4",
+          "name": "Zeki Çelik",
+          "id": "fwc26-312"
+        },
+        {
+          "number": "TUR 5",
+          "name": "Abdülkerim Bardakci",
+          "id": "fwc26-313"
+        },
+        {
+          "number": "TUR 6",
+          "name": "Çağlar Söyüncü",
+          "id": "fwc26-314"
+        },
+        {
+          "number": "TUR 7",
+          "name": "Merih Demiral",
+          "id": "fwc26-315"
+        },
+        {
+          "number": "TUR 8",
+          "name": "Ferdi Kadioğlu",
+          "id": "fwc26-316"
+        },
+        {
+          "number": "TUR 9",
+          "name": "Kaan Ayhan",
+          "id": "fwc26-317"
+        },
+        {
+          "number": "TUR 10",
+          "name": "Ismail Yüksek",
+          "id": "fwc26-318"
+        },
+        {
+          "number": "TUR 11",
+          "name": "Hakan Çalhanoğlu",
+          "id": "fwc26-319"
+        },
+        {
+          "number": "TUR 12",
+          "name": "Orkun Kökçü",
+          "id": "fwc26-320"
+        },
+        {
+          "number": "TUR 13",
+          "name": "Team",
+          "id": "fwc26-321"
+        },
+        {
+          "number": "TUR 14",
+          "name": "Arda Güler",
+          "id": "fwc26-322"
+        },
+        {
+          "number": "TUR 15",
+          "name": "Irfan Can Kahveci",
+          "id": "fwc26-323"
+        },
+        {
+          "number": "TUR 16",
+          "name": "Yunus Akgün",
+          "id": "fwc26-324"
+        },
+        {
+          "number": "TUR 17",
+          "name": "Can Uzun",
+          "id": "fwc26-325"
+        },
+        {
+          "number": "TUR 18",
+          "name": "Barış Alper Yılmaz",
+          "id": "fwc26-326"
+        },
+        {
+          "number": "TUR 19",
+          "name": "Kerem Aktürkoğlu",
+          "id": "fwc26-327"
+        },
+        {
+          "number": "TUR 20",
+          "name": "Kenan Yıldız",
+          "id": "fwc26-328"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "stickers": [
+        {
+          "number": "GER 1",
+          "name": "Logo",
+          "id": "fwc26-329"
+        },
+        {
+          "number": "GER 2",
+          "name": "Marc-André ter Stegen",
+          "id": "fwc26-330"
+        },
+        {
+          "number": "GER 3",
+          "name": "Jonathan Tah",
+          "id": "fwc26-331"
+        },
+        {
+          "number": "GER 4",
+          "name": "David Raum",
+          "id": "fwc26-332"
+        },
+        {
+          "number": "GER 5",
+          "name": "Nico Schlotterbeck",
+          "id": "fwc26-333"
+        },
+        {
+          "number": "GER 6",
+          "name": "Antonio Rüdiger",
+          "id": "fwc26-334"
+        },
+        {
+          "number": "GER 7",
+          "name": "Waldemar Anton",
+          "id": "fwc26-335"
+        },
+        {
+          "number": "GER 8",
+          "name": "Ridle Baku",
+          "id": "fwc26-336"
+        },
+        {
+          "number": "GER 9",
+          "name": "Maximilian Mittelstädt",
+          "id": "fwc26-337"
+        },
+        {
+          "number": "GER 10",
+          "name": "Joshua Kimmich",
+          "id": "fwc26-338"
+        },
+        {
+          "number": "GER 11",
+          "name": "Florian Wirtz",
+          "id": "fwc26-339"
+        },
+        {
+          "number": "GER 12",
+          "name": "Felix Nmecha",
+          "id": "fwc26-340"
+        },
+        {
+          "number": "GER 13",
+          "name": "Team",
+          "id": "fwc26-341"
+        },
+        {
+          "number": "GER 14",
+          "name": "Leon Goretzka",
+          "id": "fwc26-342"
+        },
+        {
+          "number": "GER 15",
+          "name": "Jamal Musiala",
+          "id": "fwc26-343"
+        },
+        {
+          "number": "GER 16",
+          "name": "Serge Gnabry",
+          "id": "fwc26-344"
+        },
+        {
+          "number": "GER 17",
+          "name": "Kai Havertz",
+          "id": "fwc26-345"
+        },
+        {
+          "number": "GER 18",
+          "name": "Leroy Sané",
+          "id": "fwc26-346"
+        },
+        {
+          "number": "GER 19",
+          "name": "Karim Adeyemi",
+          "id": "fwc26-347"
+        },
+        {
+          "number": "GER 20",
+          "name": "Nick Woltemade",
+          "id": "fwc26-348"
+        }
+      ]
+    },
+    {
+      "id": "curacao",
+      "name": "Curaçao",
+      "stickers": [
+        {
+          "number": "CUW 1",
+          "name": "Logo",
+          "id": "fwc26-349"
+        },
+        {
+          "number": "CUW 2",
+          "name": "Eloy Room",
+          "id": "fwc26-350"
+        },
+        {
+          "number": "CUW 3",
+          "name": "Armando Obispo",
+          "id": "fwc26-351"
+        },
+        {
+          "number": "CUW 4",
+          "name": "Sherel Floranus",
+          "id": "fwc26-352"
+        },
+        {
+          "number": "CUW 5",
+          "name": "Juriën Gaari",
+          "id": "fwc26-353"
+        },
+        {
+          "number": "CUW 6",
+          "name": "Joshua Brenet",
+          "id": "fwc26-354"
+        },
+        {
+          "number": "CUW 7",
+          "name": "Roshon van Eijma",
+          "id": "fwc26-355"
+        },
+        {
+          "number": "CUW 8",
+          "name": "Shurandy Sambo",
+          "id": "fwc26-356"
+        },
+        {
+          "number": "CUW 9",
+          "name": "Livano Comenencia",
+          "id": "fwc26-357"
+        },
+        {
+          "number": "CUW 10",
+          "name": "Godfried Roemeratoe",
+          "id": "fwc26-358"
+        },
+        {
+          "number": "CUW 11",
+          "name": "Juninho Bacuna",
+          "id": "fwc26-359"
+        },
+        {
+          "number": "CUW 12",
+          "name": "Leandro Bacuna",
+          "id": "fwc26-360"
+        },
+        {
+          "number": "CUW 13",
+          "name": "Team",
+          "id": "fwc26-361"
+        },
+        {
+          "number": "CUW 14",
+          "name": "Tahith Chong",
+          "id": "fwc26-362"
+        },
+        {
+          "number": "CUW 15",
+          "name": "Kenji Gorré",
+          "id": "fwc26-363"
+        },
+        {
+          "number": "CUW 16",
+          "name": "Jearl Margaritha",
+          "id": "fwc26-364"
+        },
+        {
+          "number": "CUW 17",
+          "name": "Jürgen Locadia",
+          "id": "fwc26-365"
+        },
+        {
+          "number": "CUW 18",
+          "name": "Jeremy Antonisse",
+          "id": "fwc26-366"
+        },
+        {
+          "number": "CUW 19",
+          "name": "Gervane Kastaneer",
+          "id": "fwc26-367"
+        },
+        {
+          "number": "CUW 20",
+          "name": "Sontje Hansen",
+          "id": "fwc26-368"
+        }
+      ]
+    },
+    {
+      "id": "cote-divoire",
+      "name": "Côte d'Ivoire",
+      "stickers": [
+        {
+          "number": "CIV 1",
+          "name": "Logo",
+          "id": "fwc26-369"
+        },
+        {
+          "number": "CIV 2",
+          "name": "Yahia Fofana",
+          "id": "fwc26-370"
+        },
+        {
+          "number": "CIV 3",
+          "name": "Ghislain Konan",
+          "id": "fwc26-371"
+        },
+        {
+          "number": "CIV 4",
+          "name": "Wilfried Singo",
+          "id": "fwc26-372"
+        },
+        {
+          "number": "CIV 5",
+          "name": "Odilon Kossounou",
+          "id": "fwc26-373"
+        },
+        {
+          "number": "CIV 6",
+          "name": "Evan Ndicka",
+          "id": "fwc26-374"
+        },
+        {
+          "number": "CIV 7",
+          "name": "Willy Boly",
+          "id": "fwc26-375"
+        },
+        {
+          "number": "CIV 8",
+          "name": "Emmanuel Agbadou",
+          "id": "fwc26-376"
+        },
+        {
+          "number": "CIV 9",
+          "name": "Ousmane Diomande",
+          "id": "fwc26-377"
+        },
+        {
+          "number": "CIV 10",
+          "name": "Franck Kessié",
+          "id": "fwc26-378"
+        },
+        {
+          "number": "CIV 11",
+          "name": "Seko Fofana",
+          "id": "fwc26-379"
+        },
+        {
+          "number": "CIV 12",
+          "name": "Ibrahim Sangaré",
+          "id": "fwc26-380"
+        },
+        {
+          "number": "CIV 13",
+          "name": "Team",
+          "id": "fwc26-381"
+        },
+        {
+          "number": "CIV 14",
+          "name": "Jean-Philippe Gbamin",
+          "id": "fwc26-382"
+        },
+        {
+          "number": "CIV 15",
+          "name": "Amad Diallo",
+          "id": "fwc26-383"
+        },
+        {
+          "number": "CIV 16",
+          "name": "Sébastien Haller",
+          "id": "fwc26-384"
+        },
+        {
+          "number": "CIV 17",
+          "name": "Simon Adingra",
+          "id": "fwc26-385"
+        },
+        {
+          "number": "CIV 18",
+          "name": "Yan Diomande",
+          "id": "fwc26-386"
+        },
+        {
+          "number": "CIV 19",
+          "name": "Evann Guessand",
+          "id": "fwc26-387"
+        },
+        {
+          "number": "CIV 20",
+          "name": "Oumar Diakité",
+          "id": "fwc26-388"
+        }
+      ]
+    },
+    {
+      "id": "ecuador",
+      "name": "Ecuador",
+      "stickers": [
+        {
+          "number": "ECU 1",
+          "name": "Logo",
+          "id": "fwc26-389"
+        },
+        {
+          "number": "ECU 2",
+          "name": "Hernán Galíndez",
+          "id": "fwc26-390"
+        },
+        {
+          "number": "ECU 3",
+          "name": "Gonzalo Valle",
+          "id": "fwc26-391"
+        },
+        {
+          "number": "ECU 4",
+          "name": "Piero Hincapié",
+          "id": "fwc26-392"
+        },
+        {
+          "number": "ECU 5",
+          "name": "Pervis Estupiñán",
+          "id": "fwc26-393"
+        },
+        {
+          "number": "ECU 6",
+          "name": "Willian Pacho",
+          "id": "fwc26-394"
+        },
+        {
+          "number": "ECU 7",
+          "name": "Ángelo Preciado",
+          "id": "fwc26-395"
+        },
+        {
+          "number": "ECU 8",
+          "name": "Joel Ordóñez",
+          "id": "fwc26-396"
+        },
+        {
+          "number": "ECU 9",
+          "name": "Moisés Caicedo",
+          "id": "fwc26-397"
+        },
+        {
+          "number": "ECU 10",
+          "name": "Alan Franco",
+          "id": "fwc26-398"
+        },
+        {
+          "number": "ECU 11",
+          "name": "Kendry Páez",
+          "id": "fwc26-399"
+        },
+        {
+          "number": "ECU 12",
+          "name": "Pedro Vite",
+          "id": "fwc26-400"
+        },
+        {
+          "number": "ECU 13",
+          "name": "Team",
+          "id": "fwc26-401"
+        },
+        {
+          "number": "ECU 14",
+          "name": "John Yeboah",
+          "id": "fwc26-402"
+        },
+        {
+          "number": "ECU 15",
+          "name": "Leonardo Campana",
+          "id": "fwc26-403"
+        },
+        {
+          "number": "ECU 16",
+          "name": "Gonzalo Plata",
+          "id": "fwc26-404"
+        },
+        {
+          "number": "ECU 17",
+          "name": "Nilson Angulo",
+          "id": "fwc26-405"
+        },
+        {
+          "number": "ECU 18",
+          "name": "Alan Minda",
+          "id": "fwc26-406"
+        },
+        {
+          "number": "ECU 19",
+          "name": "Kevin Rodríguez",
+          "id": "fwc26-407"
+        },
+        {
+          "number": "ECU 20",
+          "name": "Enner Valencia",
+          "id": "fwc26-408"
+        }
+      ]
+    },
+    {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "stickers": [
+        {
+          "number": "NED 1",
+          "name": "Logo",
+          "id": "fwc26-409"
+        },
+        {
+          "number": "NED 2",
+          "name": "Bart Verbruggen",
+          "id": "fwc26-410"
+        },
+        {
+          "number": "NED 3",
+          "name": "Virgil van Dijk",
+          "id": "fwc26-411"
+        },
+        {
+          "number": "NED 4",
+          "name": "Micky van de Ven",
+          "id": "fwc26-412"
+        },
+        {
+          "number": "NED 5",
+          "name": "Jurriën Timber",
+          "id": "fwc26-413"
+        },
+        {
+          "number": "NED 6",
+          "name": "Denzel Dumfries",
+          "id": "fwc26-414"
+        },
+        {
+          "number": "NED 7",
+          "name": "Nathan Aké",
+          "id": "fwc26-415"
+        },
+        {
+          "number": "NED 8",
+          "name": "Jeremie Frimpong",
+          "id": "fwc26-416"
+        },
+        {
+          "number": "NED 9",
+          "name": "Jan Paul van Hecke",
+          "id": "fwc26-417"
+        },
+        {
+          "number": "NED 10",
+          "name": "Tijjani Reijnders",
+          "id": "fwc26-418"
+        },
+        {
+          "number": "NED 11",
+          "name": "Ryan Gravenberch",
+          "id": "fwc26-419"
+        },
+        {
+          "number": "NED 12",
+          "name": "Teun Koopmeiners",
+          "id": "fwc26-420"
+        },
+        {
+          "number": "NED 13",
+          "name": "Team",
+          "id": "fwc26-421"
+        },
+        {
+          "number": "NED 14",
+          "name": "Frenkie de Jong",
+          "id": "fwc26-422"
+        },
+        {
+          "number": "NED 15",
+          "name": "Xavi Simons",
+          "id": "fwc26-423"
+        },
+        {
+          "number": "NED 16",
+          "name": "Justin Kluivert",
+          "id": "fwc26-424"
+        },
+        {
+          "number": "NED 17",
+          "name": "Memphis Depay",
+          "id": "fwc26-425"
+        },
+        {
+          "number": "NED 18",
+          "name": "Donyell Malen",
+          "id": "fwc26-426"
+        },
+        {
+          "number": "NED 19",
+          "name": "Wout Weghorst",
+          "id": "fwc26-427"
+        },
+        {
+          "number": "NED 20",
+          "name": "Cody Gakpo",
+          "id": "fwc26-428"
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "stickers": [
+        {
+          "number": "JPN 1",
+          "name": "Logo",
+          "id": "fwc26-429"
+        },
+        {
+          "number": "JPN 2",
+          "name": "Zion Suzuki",
+          "id": "fwc26-430"
+        },
+        {
+          "number": "JPN 3",
+          "name": "Henry Heroki Mochizuki",
+          "id": "fwc26-431"
+        },
+        {
+          "number": "JPN 4",
+          "name": "Ayumu Seko",
+          "id": "fwc26-432"
+        },
+        {
+          "number": "JPN 5",
+          "name": "Junnosuke Suzuki",
+          "id": "fwc26-433"
+        },
+        {
+          "number": "JPN 6",
+          "name": "Shogo Taniguchi",
+          "id": "fwc26-434"
+        },
+        {
+          "number": "JPN 7",
+          "name": "Tsuyoshi Watanabe",
+          "id": "fwc26-435"
+        },
+        {
+          "number": "JPN 8",
+          "name": "Kaishu Sano",
+          "id": "fwc26-436"
+        },
+        {
+          "number": "JPN 9",
+          "name": "Yuki Soma",
+          "id": "fwc26-437"
+        },
+        {
+          "number": "JPN 10",
+          "name": "Ao Tanaka",
+          "id": "fwc26-438"
+        },
+        {
+          "number": "JPN 11",
+          "name": "Daichi Kamada",
+          "id": "fwc26-439"
+        },
+        {
+          "number": "JPN 12",
+          "name": "Takefusa Kubo",
+          "id": "fwc26-440"
+        },
+        {
+          "number": "JPN 13",
+          "name": "Team",
+          "id": "fwc26-441"
+        },
+        {
+          "number": "JPN 14",
+          "name": "Ritsu Doan",
+          "id": "fwc26-442"
+        },
+        {
+          "number": "JPN 15",
+          "name": "Keito Nakamura",
+          "id": "fwc26-443"
+        },
+        {
+          "number": "JPN 16",
+          "name": "Takumi Minamino",
+          "id": "fwc26-444"
+        },
+        {
+          "number": "JPN 17",
+          "name": "Shuto Machino",
+          "id": "fwc26-445"
+        },
+        {
+          "number": "JPN 18",
+          "name": "Junya Ito",
+          "id": "fwc26-446"
+        },
+        {
+          "number": "JPN 19",
+          "name": "Koki Ogawa",
+          "id": "fwc26-447"
+        },
+        {
+          "number": "JPN 20",
+          "name": "Ayase Ueda",
+          "id": "fwc26-448"
+        }
+      ]
+    },
+    {
+      "id": "sweden",
+      "name": "Sweden",
+      "stickers": [
+        {
+          "number": "SWE 1",
+          "name": "Logo",
+          "id": "fwc26-449"
+        },
+        {
+          "number": "SWE 2",
+          "name": "Viktor Johansson",
+          "id": "fwc26-450"
+        },
+        {
+          "number": "SWE 3",
+          "name": "Isak Hien",
+          "id": "fwc26-451"
+        },
+        {
+          "number": "SWE 4",
+          "name": "Gabriel Gudmundsson",
+          "id": "fwc26-452"
+        },
+        {
+          "number": "SWE 5",
+          "name": "Emil Holm",
+          "id": "fwc26-453"
+        },
+        {
+          "number": "SWE 6",
+          "name": "Victor Nilsson Lindelöf",
+          "id": "fwc26-454"
+        },
+        {
+          "number": "SWE 7",
+          "name": "Gustaf Lagerbielke",
+          "id": "fwc26-455"
+        },
+        {
+          "number": "SWE 8",
+          "name": "Lucas Bergvall",
+          "id": "fwc26-456"
+        },
+        {
+          "number": "SWE 9",
+          "name": "Hugo Larsson",
+          "id": "fwc26-457"
+        },
+        {
+          "number": "SWE 10",
+          "name": "Jesper Karlström",
+          "id": "fwc26-458"
+        },
+        {
+          "number": "SWE 11",
+          "name": "Yasin Ayari",
+          "id": "fwc26-459"
+        },
+        {
+          "number": "SWE 12",
+          "name": "Mattias Svanberg",
+          "id": "fwc26-460"
+        },
+        {
+          "number": "SWE 13",
+          "name": "Team",
+          "id": "fwc26-461"
+        },
+        {
+          "number": "SWE 14",
+          "name": "Daniel Svensson",
+          "id": "fwc26-462"
+        },
+        {
+          "number": "SWE 15",
+          "name": "Ken Sema",
+          "id": "fwc26-463"
+        },
+        {
+          "number": "SWE 16",
+          "name": "Roony Bardghji",
+          "id": "fwc26-464"
+        },
+        {
+          "number": "SWE 17",
+          "name": "Dejan Kulusevski",
+          "id": "fwc26-465"
+        },
+        {
+          "number": "SWE 18",
+          "name": "Anthony Elanga",
+          "id": "fwc26-466"
+        },
+        {
+          "number": "SWE 19",
+          "name": "Alexander Isak",
+          "id": "fwc26-467"
+        },
+        {
+          "number": "SWE 20",
+          "name": "Viktor Gyökeres",
+          "id": "fwc26-468"
+        }
+      ]
+    },
+    {
+      "id": "tunisia",
+      "name": "Tunisia",
+      "stickers": [
+        {
+          "number": "TUN 1",
+          "name": "Logo",
+          "id": "fwc26-469"
+        },
+        {
+          "number": "TUN 2",
+          "name": "Bechir Ben Saïd",
+          "id": "fwc26-470"
+        },
+        {
+          "number": "TUN 3",
+          "name": "Aymen Dahmen",
+          "id": "fwc26-471"
+        },
+        {
+          "number": "TUN 4",
+          "name": "Yan Valery",
+          "id": "fwc26-472"
+        },
+        {
+          "number": "TUN 5",
+          "name": "Montassar Talbi",
+          "id": "fwc26-473"
+        },
+        {
+          "number": "TUN 6",
+          "name": "Yassine Meriah",
+          "id": "fwc26-474"
+        },
+        {
+          "number": "TUN 7",
+          "name": "Ali Abdi",
+          "id": "fwc26-475"
+        },
+        {
+          "number": "TUN 8",
+          "name": "Dylan Bronn",
+          "id": "fwc26-476"
+        },
+        {
+          "number": "TUN 9",
+          "name": "Ellyes Skhiri",
+          "id": "fwc26-477"
+        },
+        {
+          "number": "TUN 10",
+          "name": "Aïssa Laïdouni",
+          "id": "fwc26-478"
+        },
+        {
+          "number": "TUN 11",
+          "name": "Ferjani Sassi",
+          "id": "fwc26-479"
+        },
+        {
+          "number": "TUN 12",
+          "name": "Mohamed Ali Ben Romdhane",
+          "id": "fwc26-480"
+        },
+        {
+          "number": "TUN 13",
+          "name": "Team",
+          "id": "fwc26-481"
+        },
+        {
+          "number": "TUN 14",
+          "name": "Hannibal Mejbri",
+          "id": "fwc26-482"
+        },
+        {
+          "number": "TUN 15",
+          "name": "Elias Achouri",
+          "id": "fwc26-483"
+        },
+        {
+          "number": "TUN 16",
+          "name": "Elias Saad",
+          "id": "fwc26-484"
+        },
+        {
+          "number": "TUN 17",
+          "name": "Hazem Mastouri",
+          "id": "fwc26-485"
+        },
+        {
+          "number": "TUN 18",
+          "name": "Ismaël Gharbi",
+          "id": "fwc26-486"
+        },
+        {
+          "number": "TUN 19",
+          "name": "Sayfallah Ltaief",
+          "id": "fwc26-487"
+        },
+        {
+          "number": "TUN 20",
+          "name": "Naïm Sliti",
+          "id": "fwc26-488"
+        }
+      ]
+    },
+    {
+      "id": "belgium",
+      "name": "Belgium",
+      "stickers": [
+        {
+          "number": "BEL 1",
+          "name": "Logo",
+          "id": "fwc26-489"
+        },
+        {
+          "number": "BEL 2",
+          "name": "Thibaut Courtois",
+          "id": "fwc26-490"
+        },
+        {
+          "number": "BEL 3",
+          "name": "Arthur Theate",
+          "id": "fwc26-491"
+        },
+        {
+          "number": "BEL 4",
+          "name": "Timothy Castagne",
+          "id": "fwc26-492"
+        },
+        {
+          "number": "BEL 5",
+          "name": "Zeno Debast",
+          "id": "fwc26-493"
+        },
+        {
+          "number": "BEL 6",
+          "name": "Brandon Mechele",
+          "id": "fwc26-494"
+        },
+        {
+          "number": "BEL 7",
+          "name": "Maxim De Cuyper",
+          "id": "fwc26-495"
+        },
+        {
+          "number": "BEL 8",
+          "name": "Thomas Meunier",
+          "id": "fwc26-496"
+        },
+        {
+          "number": "BEL 9",
+          "name": "Youri Tielemans",
+          "id": "fwc26-497"
+        },
+        {
+          "number": "BEL 10",
+          "name": "Amadou Onana",
+          "id": "fwc26-498"
+        },
+        {
+          "number": "BEL 11",
+          "name": "Nicolas Raskin",
+          "id": "fwc26-499"
+        },
+        {
+          "number": "BEL 12",
+          "name": "Alexis Saelemaekers",
+          "id": "fwc26-500"
+        },
+        {
+          "number": "BEL 13",
+          "name": "Team",
+          "id": "fwc26-501"
+        },
+        {
+          "number": "BEL 14",
+          "name": "Hans Vanaken",
+          "id": "fwc26-502"
+        },
+        {
+          "number": "BEL 15",
+          "name": "Kevin De Bruyne",
+          "id": "fwc26-503"
+        },
+        {
+          "number": "BEL 16",
+          "name": "Jérémy Doku",
+          "id": "fwc26-504"
+        },
+        {
+          "number": "BEL 17",
+          "name": "Charles De Ketelaere",
+          "id": "fwc26-505"
+        },
+        {
+          "number": "BEL 18",
+          "name": "Leandro Trossard",
+          "id": "fwc26-506"
+        },
+        {
+          "number": "BEL 19",
+          "name": "Loïs Openda",
+          "id": "fwc26-507"
+        },
+        {
+          "number": "BEL 20",
+          "name": "Romelu Lukaku",
+          "id": "fwc26-508"
+        }
+      ]
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt",
+      "stickers": [
+        {
+          "number": "EGY 1",
+          "name": "Logo",
+          "id": "fwc26-509"
+        },
+        {
+          "number": "EGY 2",
+          "name": "Mohamed Elshenawy",
+          "id": "fwc26-510"
+        },
+        {
+          "number": "EGY 3",
+          "name": "Mohamed Hany",
+          "id": "fwc26-511"
+        },
+        {
+          "number": "EGY 4",
+          "name": "Mohamed Hamdy",
+          "id": "fwc26-512"
+        },
+        {
+          "number": "EGY 5",
+          "name": "Yasser Ibrahim",
+          "id": "fwc26-513"
+        },
+        {
+          "number": "EGY 6",
+          "name": "Khaled Sobhi",
+          "id": "fwc26-514"
+        },
+        {
+          "number": "EGY 7",
+          "name": "Ramy Rabia",
+          "id": "fwc26-515"
+        },
+        {
+          "number": "EGY 8",
+          "name": "Hossam Abdelmaguid",
+          "id": "fwc26-516"
+        },
+        {
+          "number": "EGY 9",
+          "name": "Ahmed Fatouh",
+          "id": "fwc26-517"
+        },
+        {
+          "number": "EGY 10",
+          "name": "Marwan Attia",
+          "id": "fwc26-518"
+        },
+        {
+          "number": "EGY 11",
+          "name": "Zizo",
+          "id": "fwc26-519"
+        },
+        {
+          "number": "EGY 12",
+          "name": "Hamdy Fathy",
+          "id": "fwc26-520"
+        },
+        {
+          "number": "EGY 13",
+          "name": "Team",
+          "id": "fwc26-521"
+        },
+        {
+          "number": "EGY 14",
+          "name": "Mohanad Lasheen",
+          "id": "fwc26-522"
+        },
+        {
+          "number": "EGY 15",
+          "name": "Emam Ashour",
+          "id": "fwc26-523"
+        },
+        {
+          "number": "EGY 16",
+          "name": "Osama Faisal",
+          "id": "fwc26-524"
+        },
+        {
+          "number": "EGY 17",
+          "name": "Mohamed Salah",
+          "id": "fwc26-525"
+        },
+        {
+          "number": "EGY 18",
+          "name": "Mostafa Mohamed",
+          "id": "fwc26-526"
+        },
+        {
+          "number": "EGY 19",
+          "name": "Trezeguet",
+          "id": "fwc26-527"
+        },
+        {
+          "number": "EGY 20",
+          "name": "Omar Marmoush",
+          "id": "fwc26-528"
+        }
+      ]
+    },
+    {
+      "id": "ir-iran",
+      "name": "IR Iran",
+      "stickers": [
+        {
+          "number": "IRN 1",
+          "name": "Logo",
+          "id": "fwc26-529"
+        },
+        {
+          "number": "IRN 2",
+          "name": "Alireza Beiranvand",
+          "id": "fwc26-530"
+        },
+        {
+          "number": "IRN 3",
+          "name": "Morteza Pouraliganji",
+          "id": "fwc26-531"
+        },
+        {
+          "number": "IRN 4",
+          "name": "Ehsan Hajsafi",
+          "id": "fwc26-532"
+        },
+        {
+          "number": "IRN 5",
+          "name": "Milad Mohammadi",
+          "id": "fwc26-533"
+        },
+        {
+          "number": "IRN 6",
+          "name": "Shojae Khalilzadeh",
+          "id": "fwc26-534"
+        },
+        {
+          "number": "IRN 7",
+          "name": "Ramin Rezaeian",
+          "id": "fwc26-535"
+        },
+        {
+          "number": "IRN 8",
+          "name": "Hossein Kanaani",
+          "id": "fwc26-536"
+        },
+        {
+          "number": "IRN 9",
+          "name": "Sadegh Moharrami",
+          "id": "fwc26-537"
+        },
+        {
+          "number": "IRN 10",
+          "name": "Saleh Hardani",
+          "id": "fwc26-538"
+        },
+        {
+          "number": "IRN 11",
+          "name": "Saeed Ezatolahi",
+          "id": "fwc26-539"
+        },
+        {
+          "number": "IRN 12",
+          "name": "Saman Ghoddos",
+          "id": "fwc26-540"
+        },
+        {
+          "number": "IRN 13",
+          "name": "Team",
+          "id": "fwc26-541"
+        },
+        {
+          "number": "IRN 14",
+          "name": "Omid Noorafkan",
+          "id": "fwc26-542"
+        },
+        {
+          "number": "IRN 15",
+          "name": "Roozbeh Cheshmi",
+          "id": "fwc26-543"
+        },
+        {
+          "number": "IRN 16",
+          "name": "Mohammad Mohebi",
+          "id": "fwc26-544"
+        },
+        {
+          "number": "IRN 17",
+          "name": "Sardar Azmoun",
+          "id": "fwc26-545"
+        },
+        {
+          "number": "IRN 18",
+          "name": "Mehdi Taremi",
+          "id": "fwc26-546"
+        },
+        {
+          "number": "IRN 19",
+          "name": "Alireza Jahanbakhsh",
+          "id": "fwc26-547"
+        },
+        {
+          "number": "IRN 20",
+          "name": "Ali Gholizadeh",
+          "id": "fwc26-548"
+        }
+      ]
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "stickers": [
+        {
+          "number": "NZL 1",
+          "name": "Logo",
+          "id": "fwc26-549"
+        },
+        {
+          "number": "NZL 2",
+          "name": "Max Crocombe",
+          "id": "fwc26-550"
+        },
+        {
+          "number": "NZL 3",
+          "name": "Alex Paulsen",
+          "id": "fwc26-551"
+        },
+        {
+          "number": "NZL 4",
+          "name": "Michael Boxall",
+          "id": "fwc26-552"
+        },
+        {
+          "number": "NZL 5",
+          "name": "Liberato Cacace",
+          "id": "fwc26-553"
+        },
+        {
+          "number": "NZL 6",
+          "name": "Tim Payne",
+          "id": "fwc26-554"
+        },
+        {
+          "number": "NZL 7",
+          "name": "Tyler Bindon",
+          "id": "fwc26-555"
+        },
+        {
+          "number": "NZL 8",
+          "name": "Francis de Vries",
+          "id": "fwc26-556"
+        },
+        {
+          "number": "NZL 9",
+          "name": "Finn Surman",
+          "id": "fwc26-557"
+        },
+        {
+          "number": "NZL 10",
+          "name": "Joe Bell",
+          "id": "fwc26-558"
+        },
+        {
+          "number": "NZL 11",
+          "name": "Sarpreet Singh",
+          "id": "fwc26-559"
+        },
+        {
+          "number": "NZL 12",
+          "name": "Ryan Thomas",
+          "id": "fwc26-560"
+        },
+        {
+          "number": "NZL 13",
+          "name": "Team",
+          "id": "fwc26-561"
+        },
+        {
+          "number": "NZL 14",
+          "name": "Matthew Garbett",
+          "id": "fwc26-562"
+        },
+        {
+          "number": "NZL 15",
+          "name": "Marko Stamenić",
+          "id": "fwc26-563"
+        },
+        {
+          "number": "NZL 16",
+          "name": "Ben Old",
+          "id": "fwc26-564"
+        },
+        {
+          "number": "NZL 17",
+          "name": "Chris Wood",
+          "id": "fwc26-565"
+        },
+        {
+          "number": "NZL 18",
+          "name": "Elijah Just",
+          "id": "fwc26-566"
+        },
+        {
+          "number": "NZL 19",
+          "name": "Callum McCowatt",
+          "id": "fwc26-567"
+        },
+        {
+          "number": "NZL 20",
+          "name": "Kosta Barbarouses",
+          "id": "fwc26-568"
+        }
+      ]
+    },
+    {
+      "id": "spain",
+      "name": "Spain",
+      "stickers": [
+        {
+          "number": "ESP 1",
+          "name": "Logo",
+          "id": "fwc26-569"
+        },
+        {
+          "number": "ESP 2",
+          "name": "Unai Simón",
+          "id": "fwc26-570"
+        },
+        {
+          "number": "ESP 3",
+          "name": "Robin Le Normand",
+          "id": "fwc26-571"
+        },
+        {
+          "number": "ESP 4",
+          "name": "Aymeric Laporte",
+          "id": "fwc26-572"
+        },
+        {
+          "number": "ESP 5",
+          "name": "Dean Huijsen",
+          "id": "fwc26-573"
+        },
+        {
+          "number": "ESP 6",
+          "name": "Pedro Porro",
+          "id": "fwc26-574"
+        },
+        {
+          "number": "ESP 7",
+          "name": "Dani Carvajal",
+          "id": "fwc26-575"
+        },
+        {
+          "number": "ESP 8",
+          "name": "Marc Cucurella",
+          "id": "fwc26-576"
+        },
+        {
+          "number": "ESP 9",
+          "name": "Martín Zubimendi",
+          "id": "fwc26-577"
+        },
+        {
+          "number": "ESP 10",
+          "name": "Rodri",
+          "id": "fwc26-578"
+        },
+        {
+          "number": "ESP 11",
+          "name": "Pedri",
+          "id": "fwc26-579"
+        },
+        {
+          "number": "ESP 12",
+          "name": "Fabián Ruiz",
+          "id": "fwc26-580"
+        },
+        {
+          "number": "ESP 13",
+          "name": "Team",
+          "id": "fwc26-581"
+        },
+        {
+          "number": "ESP 14",
+          "name": "Mikel Merino",
+          "id": "fwc26-582"
+        },
+        {
+          "number": "ESP 15",
+          "name": "Lamine Yamal",
+          "id": "fwc26-583"
+        },
+        {
+          "number": "ESP 16",
+          "name": "Dani Olmo",
+          "id": "fwc26-584"
+        },
+        {
+          "number": "ESP 17",
+          "name": "Nico Williams",
+          "id": "fwc26-585"
+        },
+        {
+          "number": "ESP 18",
+          "name": "Ferran Torres",
+          "id": "fwc26-586"
+        },
+        {
+          "number": "ESP 19",
+          "name": "Álvaro Morata",
+          "id": "fwc26-587"
+        },
+        {
+          "number": "ESP 20",
+          "name": "Mikel Oyarzabal",
+          "id": "fwc26-588"
+        }
+      ]
+    },
+    {
+      "id": "cabo-verde",
+      "name": "Cabo Verde",
+      "stickers": [
+        {
+          "number": "CPV 1",
+          "name": "Logo",
+          "id": "fwc26-589"
+        },
+        {
+          "number": "CPV 2",
+          "name": "Vozinha",
+          "id": "fwc26-590"
+        },
+        {
+          "number": "CPV 3",
+          "name": "Logan Costa",
+          "id": "fwc26-591"
+        },
+        {
+          "number": "CPV 4",
+          "name": "Pico",
+          "id": "fwc26-592"
+        },
+        {
+          "number": "CPV 5",
+          "name": "Diney",
+          "id": "fwc26-593"
+        },
+        {
+          "number": "CPV 6",
+          "name": "Steven Moreira",
+          "id": "fwc26-594"
+        },
+        {
+          "number": "CPV 7",
+          "name": "Wagner Pina",
+          "id": "fwc26-595"
+        },
+        {
+          "number": "CPV 8",
+          "name": "João Paulo",
+          "id": "fwc26-596"
+        },
+        {
+          "number": "CPV 9",
+          "name": "Yannick Semedo",
+          "id": "fwc26-597"
+        },
+        {
+          "number": "CPV 10",
+          "name": "Kevin Pina",
+          "id": "fwc26-598"
+        },
+        {
+          "number": "CPV 11",
+          "name": "Patrick Andrade",
+          "id": "fwc26-599"
+        },
+        {
+          "number": "CPV 12",
+          "name": "Jamiro Monteiro",
+          "id": "fwc26-600"
+        },
+        {
+          "number": "CPV 13",
+          "name": "Team",
+          "id": "fwc26-601"
+        },
+        {
+          "number": "CPV 14",
+          "name": "Deroy Duarte",
+          "id": "fwc26-602"
+        },
+        {
+          "number": "CPV 15",
+          "name": "Garry Rodrigues",
+          "id": "fwc26-603"
+        },
+        {
+          "number": "CPV 16",
+          "name": "Jovane Cabral",
+          "id": "fwc26-604"
+        },
+        {
+          "number": "CPV 17",
+          "name": "Ryan Mendes",
+          "id": "fwc26-605"
+        },
+        {
+          "number": "CPV 18",
+          "name": "Dailon Livramento",
+          "id": "fwc26-606"
+        },
+        {
+          "number": "CPV 19",
+          "name": "Willy Semedo",
+          "id": "fwc26-607"
+        },
+        {
+          "number": "CPV 20",
+          "name": "Bebé",
+          "id": "fwc26-608"
+        }
+      ]
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "stickers": [
+        {
+          "number": "KSA 1",
+          "name": "Logo",
+          "id": "fwc26-609"
+        },
+        {
+          "number": "KSA 2",
+          "name": "Nawaf Alaqidi",
+          "id": "fwc26-610"
+        },
+        {
+          "number": "KSA 3",
+          "name": "Abdulrahman Alsanbi",
+          "id": "fwc26-611"
+        },
+        {
+          "number": "KSA 4",
+          "name": "Saud Abdulhamid",
+          "id": "fwc26-612"
+        },
+        {
+          "number": "KSA 5",
+          "name": "Nawaf Buwashl",
+          "id": "fwc26-613"
+        },
+        {
+          "number": "KSA 6",
+          "name": "Jehad Thikri",
+          "id": "fwc26-614"
+        },
+        {
+          "number": "KSA 7",
+          "name": "Moteb Alharbi",
+          "id": "fwc26-615"
+        },
+        {
+          "number": "KSA 8",
+          "name": "Hassan Altambakti",
+          "id": "fwc26-616"
+        },
+        {
+          "number": "KSA 9",
+          "name": "Musab Aljuwayr",
+          "id": "fwc26-617"
+        },
+        {
+          "number": "KSA 10",
+          "name": "Ziyad Aljohani",
+          "id": "fwc26-618"
+        },
+        {
+          "number": "KSA 11",
+          "name": "Abdullah Alkhaibari",
+          "id": "fwc26-619"
+        },
+        {
+          "number": "KSA 12",
+          "name": "Nasser Aldawsari",
+          "id": "fwc26-620"
+        },
+        {
+          "number": "KSA 13",
+          "name": "Team",
+          "id": "fwc26-621"
+        },
+        {
+          "number": "KSA 14",
+          "name": "Saleh Abu Alshamat",
+          "id": "fwc26-622"
+        },
+        {
+          "number": "KSA 15",
+          "name": "Marwan Alsahafi",
+          "id": "fwc26-623"
+        },
+        {
+          "number": "KSA 16",
+          "name": "Salem Aldawsari",
+          "id": "fwc26-624"
+        },
+        {
+          "number": "KSA 17",
+          "name": "Abdulrahman Alobud",
+          "id": "fwc26-625"
+        },
+        {
+          "number": "KSA 18",
+          "name": "Feras Albrikan",
+          "id": "fwc26-626"
+        },
+        {
+          "number": "KSA 19",
+          "name": "Saleh Alshehri",
+          "id": "fwc26-627"
+        },
+        {
+          "number": "KSA 20",
+          "name": "Abdullah Alhamdan",
+          "id": "fwc26-628"
+        }
+      ]
+    },
+    {
+      "id": "uruguay",
+      "name": "Uruguay",
+      "stickers": [
+        {
+          "number": "URU 1",
+          "name": "Logo",
+          "id": "fwc26-629"
+        },
+        {
+          "number": "URU 2",
+          "name": "Sergio Rochet",
+          "id": "fwc26-630"
+        },
+        {
+          "number": "URU 3",
+          "name": "Santiago Mele",
+          "id": "fwc26-631"
+        },
+        {
+          "number": "URU 4",
+          "name": "Ronald Araújo",
+          "id": "fwc26-632"
+        },
+        {
+          "number": "URU 5",
+          "name": "José María Giménez",
+          "id": "fwc26-633"
+        },
+        {
+          "number": "URU 6",
+          "name": "Sebastián Cáceres",
+          "id": "fwc26-634"
+        },
+        {
+          "number": "URU 7",
+          "name": "Mathías Olivera",
+          "id": "fwc26-635"
+        },
+        {
+          "number": "URU 8",
+          "name": "Guillermo Varela",
+          "id": "fwc26-636"
+        },
+        {
+          "number": "URU 9",
+          "name": "Nahitan Nández",
+          "id": "fwc26-637"
+        },
+        {
+          "number": "URU 10",
+          "name": "Federico Valverde",
+          "id": "fwc26-638"
+        },
+        {
+          "number": "URU 11",
+          "name": "Giorgian De Arrascaeta",
+          "id": "fwc26-639"
+        },
+        {
+          "number": "URU 12",
+          "name": "Rodrigo Bentancur",
+          "id": "fwc26-640"
+        },
+        {
+          "number": "URU 13",
+          "name": "Team",
+          "id": "fwc26-641"
+        },
+        {
+          "number": "URU 14",
+          "name": "Manuel Ugarte",
+          "id": "fwc26-642"
+        },
+        {
+          "number": "URU 15",
+          "name": "Nicolás de la Cruz",
+          "id": "fwc26-643"
+        },
+        {
+          "number": "URU 16",
+          "name": "Maxi Araújo",
+          "id": "fwc26-644"
+        },
+        {
+          "number": "URU 17",
+          "name": "Darwin Núñez",
+          "id": "fwc26-645"
+        },
+        {
+          "number": "URU 18",
+          "name": "Federico Viñas",
+          "id": "fwc26-646"
+        },
+        {
+          "number": "URU 19",
+          "name": "Rodrigo Aguirre",
+          "id": "fwc26-647"
+        },
+        {
+          "number": "URU 20",
+          "name": "Facundo Pellistri",
+          "id": "fwc26-648"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "stickers": [
+        {
+          "number": "FRA 1",
+          "name": "Logo",
+          "id": "fwc26-649"
+        },
+        {
+          "number": "FRA 2",
+          "name": "Mike Maignan",
+          "id": "fwc26-650"
+        },
+        {
+          "number": "FRA 3",
+          "name": "Théo Hernández",
+          "id": "fwc26-651"
+        },
+        {
+          "number": "FRA 4",
+          "name": "William Saliba",
+          "id": "fwc26-652"
+        },
+        {
+          "number": "FRA 5",
+          "name": "Jules Koundé",
+          "id": "fwc26-653"
+        },
+        {
+          "number": "FRA 6",
+          "name": "Ibrahima Konaté",
+          "id": "fwc26-654"
+        },
+        {
+          "number": "FRA 7",
+          "name": "Dayot Upamecano",
+          "id": "fwc26-655"
+        },
+        {
+          "number": "FRA 8",
+          "name": "Lucas Digne",
+          "id": "fwc26-656"
+        },
+        {
+          "number": "FRA 9",
+          "name": "Aurélien Tchouaméni",
+          "id": "fwc26-657"
+        },
+        {
+          "number": "FRA 10",
+          "name": "Eduardo Camavinga",
+          "id": "fwc26-658"
+        },
+        {
+          "number": "FRA 11",
+          "name": "Manu Koné",
+          "id": "fwc26-659"
+        },
+        {
+          "number": "FRA 12",
+          "name": "Adrien Rabiot",
+          "id": "fwc26-660"
+        },
+        {
+          "number": "FRA 13",
+          "name": "Team",
+          "id": "fwc26-661"
+        },
+        {
+          "number": "FRA 14",
+          "name": "Michael Olise",
+          "id": "fwc26-662"
+        },
+        {
+          "number": "FRA 15",
+          "name": "Ousmane Dembélé",
+          "id": "fwc26-663"
+        },
+        {
+          "number": "FRA 16",
+          "name": "Bradley Barcola",
+          "id": "fwc26-664"
+        },
+        {
+          "number": "FRA 17",
+          "name": "Désiré Doué",
+          "id": "fwc26-665"
+        },
+        {
+          "number": "FRA 18",
+          "name": "Kingsley Coman",
+          "id": "fwc26-666"
+        },
+        {
+          "number": "FRA 19",
+          "name": "Hugo Ekitiké",
+          "id": "fwc26-667"
+        },
+        {
+          "number": "FRA 20",
+          "name": "Kylian Mbappé",
+          "id": "fwc26-668"
+        }
+      ]
+    },
+    {
+      "id": "senegal",
+      "name": "Senegal",
+      "stickers": [
+        {
+          "number": "SEN 1",
+          "name": "Logo",
+          "id": "fwc26-669"
+        },
+        {
+          "number": "SEN 2",
+          "name": "Édouard Mendy",
+          "id": "fwc26-670"
+        },
+        {
+          "number": "SEN 3",
+          "name": "Yehvann Diouf",
+          "id": "fwc26-671"
+        },
+        {
+          "number": "SEN 4",
+          "name": "Moussa Niakhaté",
+          "id": "fwc26-672"
+        },
+        {
+          "number": "SEN 5",
+          "name": "Abdoulaye Seck",
+          "id": "fwc26-673"
+        },
+        {
+          "number": "SEN 6",
+          "name": "Ismail Jakobs",
+          "id": "fwc26-674"
+        },
+        {
+          "number": "SEN 7",
+          "name": "El Hadji Malick Diouf",
+          "id": "fwc26-675"
+        },
+        {
+          "number": "SEN 8",
+          "name": "Kalidou Koulibaly",
+          "id": "fwc26-676"
+        },
+        {
+          "number": "SEN 9",
+          "name": "Idrissa Gana Gueye",
+          "id": "fwc26-677"
+        },
+        {
+          "number": "SEN 10",
+          "name": "Pape Matar Sarr",
+          "id": "fwc26-678"
+        },
+        {
+          "number": "SEN 11",
+          "name": "Pape Gueye",
+          "id": "fwc26-679"
+        },
+        {
+          "number": "SEN 12",
+          "name": "Habib Diarra",
+          "id": "fwc26-680"
+        },
+        {
+          "number": "SEN 13",
+          "name": "Team",
+          "id": "fwc26-681"
+        },
+        {
+          "number": "SEN 14",
+          "name": "Lamine Camara",
+          "id": "fwc26-682"
+        },
+        {
+          "number": "SEN 15",
+          "name": "Sadio Mané",
+          "id": "fwc26-683"
+        },
+        {
+          "number": "SEN 16",
+          "name": "Ismaïla Sarr",
+          "id": "fwc26-684"
+        },
+        {
+          "number": "SEN 17",
+          "name": "Boulaye Dia",
+          "id": "fwc26-685"
+        },
+        {
+          "number": "SEN 18",
+          "name": "Iliman Ndiaye",
+          "id": "fwc26-686"
+        },
+        {
+          "number": "SEN 19",
+          "name": "Nicolas Jackson",
+          "id": "fwc26-687"
+        },
+        {
+          "number": "SEN 20",
+          "name": "Krépin Diatta",
+          "id": "fwc26-688"
+        }
+      ]
+    },
+    {
+      "id": "iraq",
+      "name": "Iraq",
+      "stickers": [
+        {
+          "number": "IRQ 1",
+          "name": "Logo",
+          "id": "fwc26-689"
+        },
+        {
+          "number": "IRQ 2",
+          "name": "Jalal Hassan",
+          "id": "fwc26-690"
+        },
+        {
+          "number": "IRQ 3",
+          "name": "Rebin Sulaka",
+          "id": "fwc26-691"
+        },
+        {
+          "number": "IRQ 4",
+          "name": "Hussein Ali",
+          "id": "fwc26-692"
+        },
+        {
+          "number": "IRQ 5",
+          "name": "Akam Hashem",
+          "id": "fwc26-693"
+        },
+        {
+          "number": "IRQ 6",
+          "name": "Merchas Doski",
+          "id": "fwc26-694"
+        },
+        {
+          "number": "IRQ 7",
+          "name": "Zaid Tahseen",
+          "id": "fwc26-695"
+        },
+        {
+          "number": "IRQ 8",
+          "name": "Manaf Younis",
+          "id": "fwc26-696"
+        },
+        {
+          "number": "IRQ 9",
+          "name": "Zidane Iqbal",
+          "id": "fwc26-697"
+        },
+        {
+          "number": "IRQ 10",
+          "name": "Amir Al-Ammari",
+          "id": "fwc26-698"
+        },
+        {
+          "number": "IRQ 11",
+          "name": "Ibrahim Bayesh",
+          "id": "fwc26-699"
+        },
+        {
+          "number": "IRQ 12",
+          "name": "Ali Jasim",
+          "id": "fwc26-700"
+        },
+        {
+          "number": "IRQ 13",
+          "name": "Team",
+          "id": "fwc26-701"
+        },
+        {
+          "number": "IRQ 14",
+          "name": "Youssef Amyn",
+          "id": "fwc26-702"
+        },
+        {
+          "number": "IRQ 15",
+          "name": "Aimar Sher",
+          "id": "fwc26-703"
+        },
+        {
+          "number": "IRQ 16",
+          "name": "Marko Farji",
+          "id": "fwc26-704"
+        },
+        {
+          "number": "IRQ 17",
+          "name": "Osama Rashid",
+          "id": "fwc26-705"
+        },
+        {
+          "number": "IRQ 18",
+          "name": "Ali Al-Hamadi",
+          "id": "fwc26-706"
+        },
+        {
+          "number": "IRQ 19",
+          "name": "Aymen Hussein",
+          "id": "fwc26-707"
+        },
+        {
+          "number": "IRQ 20",
+          "name": "Mohanad Ali",
+          "id": "fwc26-708"
+        }
+      ]
+    },
+    {
+      "id": "norway",
+      "name": "Norway",
+      "stickers": [
+        {
+          "number": "NOR 1",
+          "name": "Logo",
+          "id": "fwc26-709"
+        },
+        {
+          "number": "NOR 2",
+          "name": "Ørjan Nyland",
+          "id": "fwc26-710"
+        },
+        {
+          "number": "NOR 3",
+          "name": "Julian Ryerson",
+          "id": "fwc26-711"
+        },
+        {
+          "number": "NOR 4",
+          "name": "Leo Østigård",
+          "id": "fwc26-712"
+        },
+        {
+          "number": "NOR 5",
+          "name": "Kristoffer Vassbakk Ajer",
+          "id": "fwc26-713"
+        },
+        {
+          "number": "NOR 6",
+          "name": "Marcus Holmgren Pedersen",
+          "id": "fwc26-714"
+        },
+        {
+          "number": "NOR 7",
+          "name": "David Møller Wolfe",
+          "id": "fwc26-715"
+        },
+        {
+          "number": "NOR 8",
+          "name": "Torbjørn Heggem",
+          "id": "fwc26-716"
+        },
+        {
+          "number": "NOR 9",
+          "name": "Morten Thorsby",
+          "id": "fwc26-717"
+        },
+        {
+          "number": "NOR 10",
+          "name": "Martin Ødegaard",
+          "id": "fwc26-718"
+        },
+        {
+          "number": "NOR 11",
+          "name": "Sander Berge",
+          "id": "fwc26-719"
+        },
+        {
+          "number": "NOR 12",
+          "name": "Andreas Schjelderup",
+          "id": "fwc26-720"
+        },
+        {
+          "number": "NOR 13",
+          "name": "Team",
+          "id": "fwc26-721"
+        },
+        {
+          "number": "NOR 14",
+          "name": "Patrick Berg",
+          "id": "fwc26-722"
+        },
+        {
+          "number": "NOR 15",
+          "name": "Erling Haaland",
+          "id": "fwc26-723"
+        },
+        {
+          "number": "NOR 16",
+          "name": "Alexander Sørloth",
+          "id": "fwc26-724"
+        },
+        {
+          "number": "NOR 17",
+          "name": "Aron Dønnum",
+          "id": "fwc26-725"
+        },
+        {
+          "number": "NOR 18",
+          "name": "Jørgen Strand Larsen",
+          "id": "fwc26-726"
+        },
+        {
+          "number": "NOR 19",
+          "name": "Antonio Nusa",
+          "id": "fwc26-727"
+        },
+        {
+          "number": "NOR 20",
+          "name": "Oscar Bobb",
+          "id": "fwc26-728"
+        }
+      ]
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "stickers": [
+        {
+          "number": "ARG 1",
+          "name": "Logo",
+          "id": "fwc26-729"
+        },
+        {
+          "number": "ARG 2",
+          "name": "Emiliano Martínez",
+          "id": "fwc26-730"
+        },
+        {
+          "number": "ARG 3",
+          "name": "Nahuel Molina",
+          "id": "fwc26-731"
+        },
+        {
+          "number": "ARG 4",
+          "name": "Cristian Romero",
+          "id": "fwc26-732"
+        },
+        {
+          "number": "ARG 5",
+          "name": "Nicolás Otamendi",
+          "id": "fwc26-733"
+        },
+        {
+          "number": "ARG 6",
+          "name": "Nicolás Tagliafico",
+          "id": "fwc26-734"
+        },
+        {
+          "number": "ARG 7",
+          "name": "Leonardo Balerdi",
+          "id": "fwc26-735"
+        },
+        {
+          "number": "ARG 8",
+          "name": "Enzo Fernández",
+          "id": "fwc26-736"
+        },
+        {
+          "number": "ARG 9",
+          "name": "Alexis Mac Allister",
+          "id": "fwc26-737"
+        },
+        {
+          "number": "ARG 10",
+          "name": "Rodrigo De Paul",
+          "id": "fwc26-738"
+        },
+        {
+          "number": "ARG 11",
+          "name": "Exequiel Palacios",
+          "id": "fwc26-739"
+        },
+        {
+          "number": "ARG 12",
+          "name": "Leandro Paredes",
+          "id": "fwc26-740"
+        },
+        {
+          "number": "ARG 13",
+          "name": "Team",
+          "id": "fwc26-741"
+        },
+        {
+          "number": "ARG 14",
+          "name": "Nico Paz",
+          "id": "fwc26-742"
+        },
+        {
+          "number": "ARG 15",
+          "name": "Franco Mastantuono",
+          "id": "fwc26-743"
+        },
+        {
+          "number": "ARG 16",
+          "name": "Nico González",
+          "id": "fwc26-744"
+        },
+        {
+          "number": "ARG 17",
+          "name": "Lionel Messi",
+          "id": "fwc26-745"
+        },
+        {
+          "number": "ARG 18",
+          "name": "Lautaro Martínez",
+          "id": "fwc26-746"
+        },
+        {
+          "number": "ARG 19",
+          "name": "Julián Alvarez",
+          "id": "fwc26-747"
+        },
+        {
+          "number": "ARG 20",
+          "name": "Giuliano Simeone",
+          "id": "fwc26-748"
+        }
+      ]
+    },
+    {
+      "id": "algeria",
+      "name": "Algeria",
+      "stickers": [
+        {
+          "number": "ALG 1",
+          "name": "Logo",
+          "id": "fwc26-749"
+        },
+        {
+          "number": "ALG 2",
+          "name": "Alexis Guendouz",
+          "id": "fwc26-750"
+        },
+        {
+          "number": "ALG 3",
+          "name": "Ramy Bensebaini",
+          "id": "fwc26-751"
+        },
+        {
+          "number": "ALG 4",
+          "name": "Youcef Atal",
+          "id": "fwc26-752"
+        },
+        {
+          "number": "ALG 5",
+          "name": "Rayan Aït-Nouri",
+          "id": "fwc26-753"
+        },
+        {
+          "number": "ALG 6",
+          "name": "Mohamed Amine Tougai",
+          "id": "fwc26-754"
+        },
+        {
+          "number": "ALG 7",
+          "name": "Aïssa Mandi",
+          "id": "fwc26-755"
+        },
+        {
+          "number": "ALG 8",
+          "name": "Ismaël Bennacer",
+          "id": "fwc26-756"
+        },
+        {
+          "number": "ALG 9",
+          "name": "Houssem Aouar",
+          "id": "fwc26-757"
+        },
+        {
+          "number": "ALG 10",
+          "name": "Hicham Boudaoui",
+          "id": "fwc26-758"
+        },
+        {
+          "number": "ALG 11",
+          "name": "Ramiz Zerrouki",
+          "id": "fwc26-759"
+        },
+        {
+          "number": "ALG 12",
+          "name": "Nabil Bentaleb",
+          "id": "fwc26-760"
+        },
+        {
+          "number": "ALG 13",
+          "name": "Team",
+          "id": "fwc26-761"
+        },
+        {
+          "number": "ALG 14",
+          "name": "Farès Chaïbi",
+          "id": "fwc26-762"
+        },
+        {
+          "number": "ALG 15",
+          "name": "Riyad Mahrez",
+          "id": "fwc26-763"
+        },
+        {
+          "number": "ALG 16",
+          "name": "Saïd Benrahma",
+          "id": "fwc26-764"
+        },
+        {
+          "number": "ALG 17",
+          "name": "Anis Hadj Moussa",
+          "id": "fwc26-765"
+        },
+        {
+          "number": "ALG 18",
+          "name": "Amine Gouiri",
+          "id": "fwc26-766"
+        },
+        {
+          "number": "ALG 19",
+          "name": "Baghdad Bounedjah",
+          "id": "fwc26-767"
+        },
+        {
+          "number": "ALG 20",
+          "name": "Mohammed Amoura",
+          "id": "fwc26-768"
+        }
+      ]
+    },
+    {
+      "id": "austria",
+      "name": "Austria",
+      "stickers": [
+        {
+          "number": "AUT 1",
+          "name": "Logo",
+          "id": "fwc26-769"
+        },
+        {
+          "number": "AUT 2",
+          "name": "Alexander Schlager",
+          "id": "fwc26-770"
+        },
+        {
+          "number": "AUT 3",
+          "name": "Patrick Pentz",
+          "id": "fwc26-771"
+        },
+        {
+          "number": "AUT 4",
+          "name": "David Alaba",
+          "id": "fwc26-772"
+        },
+        {
+          "number": "AUT 5",
+          "name": "Kevin Danso",
+          "id": "fwc26-773"
+        },
+        {
+          "number": "AUT 6",
+          "name": "Philipp Lienhart",
+          "id": "fwc26-774"
+        },
+        {
+          "number": "AUT 7",
+          "name": "Stefan Posch",
+          "id": "fwc26-775"
+        },
+        {
+          "number": "AUT 8",
+          "name": "Phillipp Mwene",
+          "id": "fwc26-776"
+        },
+        {
+          "number": "AUT 9",
+          "name": "Alexander Prass",
+          "id": "fwc26-777"
+        },
+        {
+          "number": "AUT 10",
+          "name": "Xaver Schlager",
+          "id": "fwc26-778"
+        },
+        {
+          "number": "AUT 11",
+          "name": "Marcel Sabitzer",
+          "id": "fwc26-779"
+        },
+        {
+          "number": "AUT 12",
+          "name": "Konrad Laimer",
+          "id": "fwc26-780"
+        },
+        {
+          "number": "AUT 13",
+          "name": "Team",
+          "id": "fwc26-781"
+        },
+        {
+          "number": "AUT 14",
+          "name": "Florian Grillitsch",
+          "id": "fwc26-782"
+        },
+        {
+          "number": "AUT 15",
+          "name": "Nicolas Seiwald",
+          "id": "fwc26-783"
+        },
+        {
+          "number": "AUT 16",
+          "name": "Romano Schmid",
+          "id": "fwc26-784"
+        },
+        {
+          "number": "AUT 17",
+          "name": "Patrick Wimmer",
+          "id": "fwc26-785"
+        },
+        {
+          "number": "AUT 18",
+          "name": "Christoph Baumgartner",
+          "id": "fwc26-786"
+        },
+        {
+          "number": "AUT 19",
+          "name": "Michael Gregoritsch",
+          "id": "fwc26-787"
+        },
+        {
+          "number": "AUT 20",
+          "name": "Marko Arnautović",
+          "id": "fwc26-788"
+        }
+      ]
+    },
+    {
+      "id": "jordan",
+      "name": "Jordan",
+      "stickers": [
+        {
+          "number": "JOR 1",
+          "name": "Logo",
+          "id": "fwc26-789"
+        },
+        {
+          "number": "JOR 2",
+          "name": "Yazeed Abulaila",
+          "id": "fwc26-790"
+        },
+        {
+          "number": "JOR 3",
+          "name": "Ihsan Haddad",
+          "id": "fwc26-791"
+        },
+        {
+          "number": "JOR 4",
+          "name": "Mohammad Abu Hashish",
+          "id": "fwc26-792"
+        },
+        {
+          "number": "JOR 5",
+          "name": "Yazan Al-Arab",
+          "id": "fwc26-793"
+        },
+        {
+          "number": "JOR 6",
+          "name": "Abdallah Nasib",
+          "id": "fwc26-794"
+        },
+        {
+          "number": "JOR 7",
+          "name": "Saleem Obaid",
+          "id": "fwc26-795"
+        },
+        {
+          "number": "JOR 8",
+          "name": "Mohammad Abualnadi",
+          "id": "fwc26-796"
+        },
+        {
+          "number": "JOR 9",
+          "name": "Ibrahim Saadeh",
+          "id": "fwc26-797"
+        },
+        {
+          "number": "JOR 10",
+          "name": "Nizar Al-Rashdan",
+          "id": "fwc26-798"
+        },
+        {
+          "number": "JOR 11",
+          "name": "Noor Al-Rawabdeh",
+          "id": "fwc26-799"
+        },
+        {
+          "number": "JOR 12",
+          "name": "Mohannad Abu Taha",
+          "id": "fwc26-800"
+        },
+        {
+          "number": "JOR 13",
+          "name": "Team",
+          "id": "fwc26-801"
+        },
+        {
+          "number": "JOR 14",
+          "name": "Amer Jamous",
+          "id": "fwc26-802"
+        },
+        {
+          "number": "JOR 15",
+          "name": "Mousa Al-Taamari",
+          "id": "fwc26-803"
+        },
+        {
+          "number": "JOR 16",
+          "name": "Yazan Al-Naimat",
+          "id": "fwc26-804"
+        },
+        {
+          "number": "JOR 17",
+          "name": "Mahmoud Al-Mardi",
+          "id": "fwc26-805"
+        },
+        {
+          "number": "JOR 18",
+          "name": "Ali Olwan",
+          "id": "fwc26-806"
+        },
+        {
+          "number": "JOR 19",
+          "name": "Mohammad Abu Zrayq",
+          "id": "fwc26-807"
+        },
+        {
+          "number": "JOR 20",
+          "name": "Ibrahim Sabra",
+          "id": "fwc26-808"
+        }
+      ]
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "stickers": [
+        {
+          "number": "POR 1",
+          "name": "Logo",
+          "id": "fwc26-809"
+        },
+        {
+          "number": "POR 2",
+          "name": "Diogo Costa",
+          "id": "fwc26-810"
+        },
+        {
+          "number": "POR 3",
+          "name": "José Sá",
+          "id": "fwc26-811"
+        },
+        {
+          "number": "POR 4",
+          "name": "Rúben Dias",
+          "id": "fwc26-812"
+        },
+        {
+          "number": "POR 5",
+          "name": "João Cancelo",
+          "id": "fwc26-813"
+        },
+        {
+          "number": "POR 6",
+          "name": "Diogo Dalot",
+          "id": "fwc26-814"
+        },
+        {
+          "number": "POR 7",
+          "name": "Nuno Mendes",
+          "id": "fwc26-815"
+        },
+        {
+          "number": "POR 8",
+          "name": "Gonçalo Inácio",
+          "id": "fwc26-816"
+        },
+        {
+          "number": "POR 9",
+          "name": "Bernardo Silva",
+          "id": "fwc26-817"
+        },
+        {
+          "number": "POR 10",
+          "name": "Bruno Fernandes",
+          "id": "fwc26-818"
+        },
+        {
+          "number": "POR 11",
+          "name": "Rúben Neves",
+          "id": "fwc26-819"
+        },
+        {
+          "number": "POR 12",
+          "name": "Vitinha",
+          "id": "fwc26-820"
+        },
+        {
+          "number": "POR 13",
+          "name": "Team",
+          "id": "fwc26-821"
+        },
+        {
+          "number": "POR 14",
+          "name": "João Neves",
+          "id": "fwc26-822"
+        },
+        {
+          "number": "POR 15",
+          "name": "Cristiano Ronaldo",
+          "id": "fwc26-823"
+        },
+        {
+          "number": "POR 16",
+          "name": "Francisco Trincão",
+          "id": "fwc26-824"
+        },
+        {
+          "number": "POR 17",
+          "name": "João Félix",
+          "id": "fwc26-825"
+        },
+        {
+          "number": "POR 18",
+          "name": "Gonçalo Ramos",
+          "id": "fwc26-826"
+        },
+        {
+          "number": "POR 19",
+          "name": "Pedro Neto",
+          "id": "fwc26-827"
+        },
+        {
+          "number": "POR 20",
+          "name": "Rafael Leão",
+          "id": "fwc26-828"
+        }
+      ]
+    },
+    {
+      "id": "congo-dr",
+      "name": "Congo DR",
+      "stickers": [
+        {
+          "number": "COD 1",
+          "name": "Logo",
+          "id": "fwc26-829"
+        },
+        {
+          "number": "COD 2",
+          "name": "Lionel Mpasi",
+          "id": "fwc26-830"
+        },
+        {
+          "number": "COD 3",
+          "name": "Aaron Wan-Bissaka",
+          "id": "fwc26-831"
+        },
+        {
+          "number": "COD 4",
+          "name": "Axel Tuanzebe",
+          "id": "fwc26-832"
+        },
+        {
+          "number": "COD 5",
+          "name": "Arthur Masuaku",
+          "id": "fwc26-833"
+        },
+        {
+          "number": "COD 6",
+          "name": "Chancel Mbemba",
+          "id": "fwc26-834"
+        },
+        {
+          "number": "COD 7",
+          "name": "Joris Kayembe",
+          "id": "fwc26-835"
+        },
+        {
+          "number": "COD 8",
+          "name": "Charles Pickel",
+          "id": "fwc26-836"
+        },
+        {
+          "number": "COD 9",
+          "name": "Ngal'ayel Mukau",
+          "id": "fwc26-837"
+        },
+        {
+          "number": "COD 10",
+          "name": "Edo Kayembe",
+          "id": "fwc26-838"
+        },
+        {
+          "number": "COD 11",
+          "name": "Samuel Moutoussamy",
+          "id": "fwc26-839"
+        },
+        {
+          "number": "COD 12",
+          "name": "Noah Sadiki",
+          "id": "fwc26-840"
+        },
+        {
+          "number": "COD 13",
+          "name": "Team",
+          "id": "fwc26-841"
+        },
+        {
+          "number": "COD 14",
+          "name": "Théo Bongonda",
+          "id": "fwc26-842"
+        },
+        {
+          "number": "COD 15",
+          "name": "Meschack Elia",
+          "id": "fwc26-843"
+        },
+        {
+          "number": "COD 16",
+          "name": "Yoane Wissa",
+          "id": "fwc26-844"
+        },
+        {
+          "number": "COD 17",
+          "name": "Brian Cipenga",
+          "id": "fwc26-845"
+        },
+        {
+          "number": "COD 18",
+          "name": "Fiston Mayele",
+          "id": "fwc26-846"
+        },
+        {
+          "number": "COD 19",
+          "name": "Cédric Bakambu",
+          "id": "fwc26-847"
+        },
+        {
+          "number": "COD 20",
+          "name": "Nathanaël Mbuku",
+          "id": "fwc26-848"
+        }
+      ]
+    },
+    {
+      "id": "uzbekistan",
+      "name": "Uzbekistan",
+      "stickers": [
+        {
+          "number": "UZB 1",
+          "name": "Logo",
+          "id": "fwc26-849"
+        },
+        {
+          "number": "UZB 2",
+          "name": "Utkir Yusupov",
+          "id": "fwc26-850"
+        },
+        {
+          "number": "UZB 3",
+          "name": "Farrukh Sayfiev",
+          "id": "fwc26-851"
+        },
+        {
+          "number": "UZB 4",
+          "name": "Sherzod Nasrullaev",
+          "id": "fwc26-852"
+        },
+        {
+          "number": "UZB 5",
+          "name": "Umar Eshmurodov",
+          "id": "fwc26-853"
+        },
+        {
+          "number": "UZB 6",
+          "name": "Husniddin Aliqulov",
+          "id": "fwc26-854"
+        },
+        {
+          "number": "UZB 7",
+          "name": "Rustam Ashurmatov",
+          "id": "fwc26-855"
+        },
+        {
+          "number": "UZB 8",
+          "name": "Khojiakbar Alijonov",
+          "id": "fwc26-856"
+        },
+        {
+          "number": "UZB 9",
+          "name": "Abdukodir Khusanov",
+          "id": "fwc26-857"
+        },
+        {
+          "number": "UZB 10",
+          "name": "Odiljon Hamrobekov",
+          "id": "fwc26-858"
+        },
+        {
+          "number": "UZB 11",
+          "name": "Otabek Shukurov",
+          "id": "fwc26-859"
+        },
+        {
+          "number": "UZB 12",
+          "name": "Jamshid Iskanderov",
+          "id": "fwc26-860"
+        },
+        {
+          "number": "UZB 13",
+          "name": "Team",
+          "id": "fwc26-861"
+        },
+        {
+          "number": "UZB 14",
+          "name": "Azizbek Turgunboev",
+          "id": "fwc26-862"
+        },
+        {
+          "number": "UZB 15",
+          "name": "Khojimat Erkinov",
+          "id": "fwc26-863"
+        },
+        {
+          "number": "UZB 16",
+          "name": "Eldor Shomurodov",
+          "id": "fwc26-864"
+        },
+        {
+          "number": "UZB 17",
+          "name": "Oston Urunov",
+          "id": "fwc26-865"
+        },
+        {
+          "number": "UZB 18",
+          "name": "Jaloliddin Masharipov",
+          "id": "fwc26-866"
+        },
+        {
+          "number": "UZB 19",
+          "name": "Igor Sergeev",
+          "id": "fwc26-867"
+        },
+        {
+          "number": "UZB 20",
+          "name": "Abbosbek Fayzullaev",
+          "id": "fwc26-868"
+        }
+      ]
+    },
+    {
+      "id": "colombia",
+      "name": "Colombia",
+      "stickers": [
+        {
+          "number": "COL 1",
+          "name": "Logo",
+          "id": "fwc26-869"
+        },
+        {
+          "number": "COL 2",
+          "name": "Camilo Vargas",
+          "id": "fwc26-870"
+        },
+        {
+          "number": "COL 3",
+          "name": "David Ospina",
+          "id": "fwc26-871"
+        },
+        {
+          "number": "COL 4",
+          "name": "Dávinson Sánchez",
+          "id": "fwc26-872"
+        },
+        {
+          "number": "COL 5",
+          "name": "Yerry Mina",
+          "id": "fwc26-873"
+        },
+        {
+          "number": "COL 6",
+          "name": "Daniel Muñoz",
+          "id": "fwc26-874"
+        },
+        {
+          "number": "COL 7",
+          "name": "Johan Mojica",
+          "id": "fwc26-875"
+        },
+        {
+          "number": "COL 8",
+          "name": "Jhon Lucumí",
+          "id": "fwc26-876"
+        },
+        {
+          "number": "COL 9",
+          "name": "Santiago Arias",
+          "id": "fwc26-877"
+        },
+        {
+          "number": "COL 10",
+          "name": "Jefferson Lerma",
+          "id": "fwc26-878"
+        },
+        {
+          "number": "COL 11",
+          "name": "Kevin Castaño",
+          "id": "fwc26-879"
+        },
+        {
+          "number": "COL 12",
+          "name": "Richard Ríos",
+          "id": "fwc26-880"
+        },
+        {
+          "number": "COL 13",
+          "name": "Team",
+          "id": "fwc26-881"
+        },
+        {
+          "number": "COL 14",
+          "name": "James Rodríguez",
+          "id": "fwc26-882"
+        },
+        {
+          "number": "COL 15",
+          "name": "Juan Fernando Quintero",
+          "id": "fwc26-883"
+        },
+        {
+          "number": "COL 16",
+          "name": "Jorge Carrascal",
+          "id": "fwc26-884"
+        },
+        {
+          "number": "COL 17",
+          "name": "Jhon Arias",
+          "id": "fwc26-885"
+        },
+        {
+          "number": "COL 18",
+          "name": "Jhon Córdoba",
+          "id": "fwc26-886"
+        },
+        {
+          "number": "COL 19",
+          "name": "Luis Suárez",
+          "id": "fwc26-887"
+        },
+        {
+          "number": "COL 20",
+          "name": "Luis Díaz",
+          "id": "fwc26-888"
+        }
+      ]
+    },
+    {
+      "id": "england",
+      "name": "England",
+      "stickers": [
+        {
+          "number": "ENG 1",
+          "name": "Logo",
+          "id": "fwc26-889"
+        },
+        {
+          "number": "ENG 2",
+          "name": "Jordan Pickford",
+          "id": "fwc26-890"
+        },
+        {
+          "number": "ENG 3",
+          "name": "John Stones",
+          "id": "fwc26-891"
+        },
+        {
+          "number": "ENG 4",
+          "name": "Marc Guéhi",
+          "id": "fwc26-892"
+        },
+        {
+          "number": "ENG 5",
+          "name": "Ezri Konsa",
+          "id": "fwc26-893"
+        },
+        {
+          "number": "ENG 6",
+          "name": "Trent Alexander-Arnold",
+          "id": "fwc26-894"
+        },
+        {
+          "number": "ENG 7",
+          "name": "Reece James",
+          "id": "fwc26-895"
+        },
+        {
+          "number": "ENG 8",
+          "name": "Dan Burn",
+          "id": "fwc26-896"
+        },
+        {
+          "number": "ENG 9",
+          "name": "Jordan Henderson",
+          "id": "fwc26-897"
+        },
+        {
+          "number": "ENG 10",
+          "name": "Declan Rice",
+          "id": "fwc26-898"
+        },
+        {
+          "number": "ENG 11",
+          "name": "Jude Bellingham",
+          "id": "fwc26-899"
+        },
+        {
+          "number": "ENG 12",
+          "name": "Cole Palmer",
+          "id": "fwc26-900"
+        },
+        {
+          "number": "ENG 13",
+          "name": "Team",
+          "id": "fwc26-901"
+        },
+        {
+          "number": "ENG 14",
+          "name": "Morgan Rogers",
+          "id": "fwc26-902"
+        },
+        {
+          "number": "ENG 15",
+          "name": "Anthony Gordon",
+          "id": "fwc26-903"
+        },
+        {
+          "number": "ENG 16",
+          "name": "Phil Foden",
+          "id": "fwc26-904"
+        },
+        {
+          "number": "ENG 17",
+          "name": "Bukayo Saka",
+          "id": "fwc26-905"
+        },
+        {
+          "number": "ENG 18",
+          "name": "Harry Kane",
+          "id": "fwc26-906"
+        },
+        {
+          "number": "ENG 19",
+          "name": "Marcus Rashford",
+          "id": "fwc26-907"
+        },
+        {
+          "number": "ENG 20",
+          "name": "Ollie Watkins",
+          "id": "fwc26-908"
+        }
+      ]
+    },
+    {
+      "id": "croatia",
+      "name": "Croatia",
+      "stickers": [
+        {
+          "number": "CRO 1",
+          "name": "Logo",
+          "id": "fwc26-909"
+        },
+        {
+          "number": "CRO 2",
+          "name": "Dominik Livaković",
+          "id": "fwc26-910"
+        },
+        {
+          "number": "CRO 3",
+          "name": "Duje Ćaleta-Car",
+          "id": "fwc26-911"
+        },
+        {
+          "number": "CRO 4",
+          "name": "Joško Gvardiol",
+          "id": "fwc26-912"
+        },
+        {
+          "number": "CRO 5",
+          "name": "Josip Stanišić",
+          "id": "fwc26-913"
+        },
+        {
+          "number": "CRO 6",
+          "name": "Luka Vušković",
+          "id": "fwc26-914"
+        },
+        {
+          "number": "CRO 7",
+          "name": "Josip Šutalo",
+          "id": "fwc26-915"
+        },
+        {
+          "number": "CRO 8",
+          "name": "Kristijan Jakić",
+          "id": "fwc26-916"
+        },
+        {
+          "number": "CRO 9",
+          "name": "Luka Modrić",
+          "id": "fwc26-917"
+        },
+        {
+          "number": "CRO 10",
+          "name": "Mateo Kovačić",
+          "id": "fwc26-918"
+        },
+        {
+          "number": "CRO 11",
+          "name": "Martin Baturina",
+          "id": "fwc26-919"
+        },
+        {
+          "number": "CRO 12",
+          "name": "Lovro Majer",
+          "id": "fwc26-920"
+        },
+        {
+          "number": "CRO 13",
+          "name": "Team",
+          "id": "fwc26-921"
+        },
+        {
+          "number": "CRO 14",
+          "name": "Mario Pašalić",
+          "id": "fwc26-922"
+        },
+        {
+          "number": "CRO 15",
+          "name": "Petar Sučić",
+          "id": "fwc26-923"
+        },
+        {
+          "number": "CRO 16",
+          "name": "Ivan Perišić",
+          "id": "fwc26-924"
+        },
+        {
+          "number": "CRO 17",
+          "name": "Marco Pašalić",
+          "id": "fwc26-925"
+        },
+        {
+          "number": "CRO 18",
+          "name": "Ante Budimir",
+          "id": "fwc26-926"
+        },
+        {
+          "number": "CRO 19",
+          "name": "Andrej Kramarić",
+          "id": "fwc26-927"
+        },
+        {
+          "number": "CRO 20",
+          "name": "Franjo Ivanović",
+          "id": "fwc26-928"
+        }
+      ]
+    },
+    {
+      "id": "ghana",
+      "name": "Ghana",
+      "stickers": [
+        {
+          "number": "GHA 1",
+          "name": "Logo",
+          "id": "fwc26-929"
+        },
+        {
+          "number": "GHA 2",
+          "name": "Lawrence Ati Zigi",
+          "id": "fwc26-930"
+        },
+        {
+          "number": "GHA 3",
+          "name": "Tariq Lamptey",
+          "id": "fwc26-931"
+        },
+        {
+          "number": "GHA 4",
+          "name": "Mohammed Salisu",
+          "id": "fwc26-932"
+        },
+        {
+          "number": "GHA 5",
+          "name": "Alidu Seidu",
+          "id": "fwc26-933"
+        },
+        {
+          "number": "GHA 6",
+          "name": "Alexander Djiku",
+          "id": "fwc26-934"
+        },
+        {
+          "number": "GHA 7",
+          "name": "Gideon Mensah",
+          "id": "fwc26-935"
+        },
+        {
+          "number": "GHA 8",
+          "name": "Caleb Yirenkyi",
+          "id": "fwc26-936"
+        },
+        {
+          "number": "GHA 9",
+          "name": "Abdul Issahaku Fatawu",
+          "id": "fwc26-937"
+        },
+        {
+          "number": "GHA 10",
+          "name": "Thomas Partey",
+          "id": "fwc26-938"
+        },
+        {
+          "number": "GHA 11",
+          "name": "Salis Abdul Samed",
+          "id": "fwc26-939"
+        },
+        {
+          "number": "GHA 12",
+          "name": "Kamaldeen Sulemana",
+          "id": "fwc26-940"
+        },
+        {
+          "number": "GHA 13",
+          "name": "Team",
+          "id": "fwc26-941"
+        },
+        {
+          "number": "GHA 14",
+          "name": "Mohammed Kudus",
+          "id": "fwc26-942"
+        },
+        {
+          "number": "GHA 15",
+          "name": "Iñaki Williams",
+          "id": "fwc26-943"
+        },
+        {
+          "number": "GHA 16",
+          "name": "Jordan Ayew",
+          "id": "fwc26-944"
+        },
+        {
+          "number": "GHA 17",
+          "name": "André Ayew",
+          "id": "fwc26-945"
+        },
+        {
+          "number": "GHA 18",
+          "name": "Joseph Paintsil",
+          "id": "fwc26-946"
+        },
+        {
+          "number": "GHA 19",
+          "name": "Osman Bukari",
+          "id": "fwc26-947"
+        },
+        {
+          "number": "GHA 20",
+          "name": "Antoine Semenyo",
+          "id": "fwc26-948"
+        }
+      ]
+    },
+    {
+      "id": "panama",
+      "name": "Panama",
+      "stickers": [
+        {
+          "number": "PAN 1",
+          "name": "Logo",
+          "id": "fwc26-949"
+        },
+        {
+          "number": "PAN 2",
+          "name": "Orlando Mosquera",
+          "id": "fwc26-950"
+        },
+        {
+          "number": "PAN 3",
+          "name": "Luis Mejía",
+          "id": "fwc26-951"
+        },
+        {
+          "number": "PAN 4",
+          "name": "Fidel Escobar",
+          "id": "fwc26-952"
+        },
+        {
+          "number": "PAN 5",
+          "name": "Andrés Andrade",
+          "id": "fwc26-953"
+        },
+        {
+          "number": "PAN 6",
+          "name": "Michael Amir Murillo",
+          "id": "fwc26-954"
+        },
+        {
+          "number": "PAN 7",
+          "name": "Eric Davis",
+          "id": "fwc26-955"
+        },
+        {
+          "number": "PAN 8",
+          "name": "José Córdoba",
+          "id": "fwc26-956"
+        },
+        {
+          "number": "PAN 9",
+          "name": "César Blackman",
+          "id": "fwc26-957"
+        },
+        {
+          "number": "PAN 10",
+          "name": "Cristian Martínez",
+          "id": "fwc26-958"
+        },
+        {
+          "number": "PAN 11",
+          "name": "Aníbal Godoy",
+          "id": "fwc26-959"
+        },
+        {
+          "number": "PAN 12",
+          "name": "Adalberto Carrasquilla",
+          "id": "fwc26-960"
+        },
+        {
+          "number": "PAN 13",
+          "name": "Team",
+          "id": "fwc26-961"
+        },
+        {
+          "number": "PAN 14",
+          "name": "Édgar Bárcenas",
+          "id": "fwc26-962"
+        },
+        {
+          "number": "PAN 15",
+          "name": "Carlos Harvey",
+          "id": "fwc26-963"
+        },
+        {
+          "number": "PAN 16",
+          "name": "Ismael Díaz",
+          "id": "fwc26-964"
+        },
+        {
+          "number": "PAN 17",
+          "name": "José Fajardo",
+          "id": "fwc26-965"
+        },
+        {
+          "number": "PAN 18",
+          "name": "Cecilio Waterman",
+          "id": "fwc26-966"
+        },
+        {
+          "number": "PAN 19",
+          "name": "José Luis Rodríguez",
+          "id": "fwc26-967"
+        },
+        {
+          "number": "PAN 20",
+          "name": "Alberto Quintero",
+          "id": "fwc26-968"
+        }
+      ]
+    },
+    {
+      "id": "world-cup-history",
+      "name": "World Cup History",
+      "stickers": [
+        {
+          "number": "FWC 9",
+          "name": "Italy 1934",
+          "id": "fwc26-969"
+        },
+        {
+          "number": "FWC 10",
+          "name": "Uruguay 1950",
+          "id": "fwc26-970"
+        },
+        {
+          "number": "FWC 11",
+          "name": "Germany FR 1954",
+          "id": "fwc26-971"
+        },
+        {
+          "number": "FWC 12",
+          "name": "Brazil 1962",
+          "id": "fwc26-972"
+        },
+        {
+          "number": "FWC 13",
+          "name": "Germany FR 1974",
+          "id": "fwc26-973"
+        },
+        {
+          "number": "FWC 14",
+          "name": "Argentina 1986",
+          "id": "fwc26-974"
+        },
+        {
+          "number": "FWC 15",
+          "name": "Brazil 1994",
+          "id": "fwc26-975"
+        },
+        {
+          "number": "FWC 16",
+          "name": "Brazil 2002",
+          "id": "fwc26-976"
+        },
+        {
+          "number": "FWC 17",
+          "name": "Italy 2006",
+          "id": "fwc26-977"
+        },
+        {
+          "number": "FWC 18",
+          "name": "Germany 2014",
+          "id": "fwc26-978"
+        },
+        {
+          "number": "FWC 19",
+          "name": "Argentina 2022",
+          "id": "fwc26-979"
+        }
+      ]
+    },
+    {
+      "id": "champions-cards",
+      "name": "Champions Cards",
+      "stickers": [
+        {
+          "number": "CC01",
+          "name": "Lamine Yamal",
+          "id": "fwc26-980"
+        },
+        {
+          "number": "CC02",
+          "name": "Joshua Kimmich",
+          "id": "fwc26-981"
+        },
+        {
+          "number": "CC03",
+          "name": "Eduardo Camavinga",
+          "id": "fwc26-982"
+        },
+        {
+          "number": "CC04",
+          "name": "Josko Gvardiol",
+          "id": "fwc26-983"
+        },
+        {
+          "number": "CC05",
+          "name": "Federico Valverde",
+          "id": "fwc26-984"
+        },
+        {
+          "number": "CC06",
+          "name": "Virgil van Dijk",
+          "id": "fwc26-985"
+        },
+        {
+          "number": "CC07",
+          "name": "Alphonso Davies",
+          "id": "fwc26-986"
+        },
+        {
+          "number": "CC08",
+          "name": "Raul Jimenez",
+          "id": "fwc26-987"
+        },
+        {
+          "number": "CC09",
+          "name": "William Saliba",
+          "id": "fwc26-988"
+        },
+        {
+          "number": "CC10",
+          "name": "Lautaro Martinez",
+          "id": "fwc26-989"
+        },
+        {
+          "number": "CC11",
+          "name": "Harry Kane",
+          "id": "fwc26-990"
+        },
+        {
+          "number": "CC12",
+          "name": "Antonee Robinson",
+          "id": "fwc26-991"
+        }
+      ]
+    }
+  ]
+}
