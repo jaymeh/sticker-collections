@@ -114,7 +114,7 @@ The image is only ever rendered at small sizes (max 110pt wide), so keep it ligh
 
 ## Collectable IDs
 
-Every collectable must have an `id` field in the format **`{prefix}-{zero-padded-3-digit-number}`**, e.g. `sa-001`, `nna-042`. The prefix is typically an abbreviation of the collection name.
+Every collectable must have an `id` field in the format **`{prefix}-{suffix}`**, e.g. `sa-001`, `fwc26-493`, `bfy-x01`. Both parts are lowercase alphanumeric; the suffix is at least three characters.
 
 IDs are **permanent**. Once a collection is published:
 

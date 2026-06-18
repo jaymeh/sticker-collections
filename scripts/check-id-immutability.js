@@ -12,7 +12,7 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
-const COLLECTABLE_ID_RE = /^[a-z]+-\d{3}$/;
+const COLLECTABLE_ID_RE = /^[a-z0-9]+-[a-z0-9]{3,}$/;
 
 const baseRef = process.argv[2] || process.env.BASE_SHA || 'HEAD~1';
 
@@ -117,7 +117,7 @@ for (const folder of folders) {
 
   for (const id of currentIds) {
     if (!COLLECTABLE_ID_RE.test(id)) {
-      fail(`[${folder}] Collectable id "${id}" does not match format {prefix}-{3-digit-number} (e.g. sa-001)`);
+      fail(`[${folder}] Collectable id "${id}" does not match format {prefix}-{suffix} (e.g. sa-001, fwc26-493, bfy-x01)`);
     }
   }
 

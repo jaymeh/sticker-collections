@@ -98,7 +98,7 @@ Optional `"type"` on individual items: `foil`, `figured`, `rainbow`, `circle`.
 
 ## Collectable IDs
 
-Format: `{prefix}-{zero-padded-3-digit-number}`, e.g. `fwc26-001`. **Immutable after publish.**
+Format: `{prefix}-{suffix}` (lowercase alphanumeric, suffix at least 3 chars), e.g. `fwc26-001`, `bfy-x01`. **Immutable after publish.**
 
 ## CI/CD
 
