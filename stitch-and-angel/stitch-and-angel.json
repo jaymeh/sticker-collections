@@ -11,7 +11,7 @@
       "name": "Stitch & Angel: Always Together",
       "startPage": 1,
       "endPage": 1,
-      "stickers": [
+      "collectables": [
         {
           "number": "001",
           "id": "sa-001"
@@ -27,7 +27,7 @@
       "name": "Stitch",
       "startPage": 2,
       "endPage": 2,
-      "stickers": [
+      "collectables": [
         {
           "number": "003",
           "id": "sa-003"
@@ -47,7 +47,7 @@
       "name": "Angel",
       "startPage": 3,
       "endPage": 3,
-      "stickers": [
+      "collectables": [
         {
           "number": "006",
           "id": "sa-006"
@@ -67,7 +67,7 @@
       "name": "Aloha from Hawaii",
       "startPage": 4,
       "endPage": 5,
-      "stickers": [
+      "collectables": [
         {
           "number": "009",
           "id": "sa-009"
@@ -122,7 +122,7 @@
       "name": "Summer Vibes",
       "startPage": 6,
       "endPage": 7,
-      "stickers": [
+      "collectables": [
         {
           "number": "020",
           "id": "sa-020"
@@ -180,7 +180,7 @@
       "name": "Yummy Times",
       "startPage": 8,
       "endPage": 9,
-      "stickers": [
+      "collectables": [
         {
           "number": "032",
           "id": "sa-032"
@@ -247,7 +247,7 @@
       "name": "New Music Idols in Town",
       "startPage": 10,
       "endPage": 11,
-      "stickers": [
+      "collectables": [
         {
           "number": "046",
           "id": "sa-046"
@@ -294,7 +294,7 @@
       "name": "Playing Together",
       "startPage": 12,
       "endPage": 13,
-      "stickers": [
+      "collectables": [
         {
           "number": "055",
           "id": "sa-055"
@@ -348,7 +348,7 @@
       "name": "Dressing up Fun",
       "startPage": 14,
       "endPage": 15,
-      "stickers": [
+      "collectables": [
         {
           "number": "066",
           "id": "sa-066"
@@ -398,7 +398,7 @@
       "name": "Love is in the Air",
       "startPage": 16,
       "endPage": 17,
-      "stickers": [
+      "collectables": [
         {
           "number": "075",
           "type": "rainbow",
@@ -446,7 +446,7 @@
       "name": "Be My Valentine",
       "startPage": 18,
       "endPage": 19,
-      "stickers": [
+      "collectables": [
         {
           "number": "084",
           "id": "sa-084"
@@ -497,7 +497,7 @@
       "name": "We've got the Rhythm!",
       "startPage": 20,
       "endPage": 21,
-      "stickers": [
+      "collectables": [
         {
           "number": "094",
           "id": "sa-094"
@@ -549,7 +549,7 @@
       "name": "Let's Chillax",
       "startPage": 22,
       "endPage": 23,
-      "stickers": [
+      "collectables": [
         {
           "number": "104",
           "id": "sa-104"
@@ -605,7 +605,7 @@
       "name": "Cosy Winter",
       "startPage": 24,
       "endPage": 25,
-      "stickers": [
+      "collectables": [
         {
           "number": "116",
           "type": "foil",
@@ -653,7 +653,7 @@
       "name": "Spooky Season",
       "startPage": 26,
       "endPage": 27,
-      "stickers": [
+      "collectables": [
         {
           "number": "125",
           "id": "sa-125"
@@ -720,7 +720,7 @@
       "name": "Let's Celebrate",
       "startPage": 28,
       "endPage": 29,
-      "stickers": [
+      "collectables": [
         {
           "number": "139",
           "type": "foil",
@@ -783,7 +783,7 @@
       "name": "Good Memories",
       "startPage": 30,
       "endPage": 31,
-      "stickers": [
+      "collectables": [
         {
           "number": "152",
           "type": "foil",
@@ -837,7 +837,7 @@
       "name": "Stitch & Angel: Always Be Happy!",
       "startPage": 32,
       "endPage": 32,
-      "stickers": [
+      "collectables": [
         {
           "number": "163",
           "type": "foil",
@@ -856,7 +856,7 @@
     {
       "id": "poster-and-games",
       "name": "Poster and Games",
-      "stickers": [
+      "collectables": [
         {
           "number": "X1",
           "type": "foil",
@@ -969,5 +969,6 @@
         }
       ]
     }
-  ]
+  ],
+  "collectableType": "sticker"
 }

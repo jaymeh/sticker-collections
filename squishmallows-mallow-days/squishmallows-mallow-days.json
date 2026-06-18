@@ -12,7 +12,7 @@
       "name": "Cover",
       "startPage": 1,
       "endPage": 1,
-      "stickers": [
+      "collectables": [
         {
           "number": "1",
           "type": "foil",
@@ -30,7 +30,7 @@
       "name": "I Love MOOOO!",
       "startPage": 2,
       "endPage": 3,
-      "stickers": [
+      "collectables": [
         {
           "number": "3",
           "type": "foil",
@@ -73,7 +73,7 @@
       "name": "Doodle Daze",
       "startPage": 4,
       "endPage": 7,
-      "stickers": [
+      "collectables": [
         {
           "number": "11",
           "id": "smd-011"
@@ -141,7 +141,7 @@
       "name": "Strike a Pose",
       "startPage": 8,
       "endPage": 9,
-      "stickers": [
+      "collectables": [
         {
           "number": "25",
           "type": "figured",
@@ -189,7 +189,7 @@
       "name": "Neon Vibes",
       "startPage": 10,
       "endPage": 13,
-      "stickers": [
+      "collectables": [
         {
           "number": "33",
           "type": "figured",
@@ -256,7 +256,7 @@
       "name": "Treat Yourself",
       "startPage": 14,
       "endPage": 15,
-      "stickers": [
+      "collectables": [
         {
           "number": "46",
           "type": "foil",
@@ -312,7 +312,7 @@
       "name": "Pastel Pop",
       "startPage": 16,
       "endPage": 19,
-      "stickers": [
+      "collectables": [
         {
           "number": "57",
           "id": "smd-057"
@@ -389,7 +389,7 @@
       "name": "Weekend Inspo",
       "startPage": 20,
       "endPage": 21,
-      "stickers": [
+      "collectables": [
         {
           "number": "73",
           "type": "foil",
@@ -438,7 +438,7 @@
       "name": "Street Style",
       "startPage": 22,
       "endPage": 25,
-      "stickers": [
+      "collectables": [
         {
           "number": "82",
           "type": "foil",
@@ -503,7 +503,7 @@
       "name": "Rock Out",
       "startPage": 26,
       "endPage": 27,
-      "stickers": [
+      "collectables": [
         {
           "number": "95",
           "id": "smd-095"
@@ -553,7 +553,7 @@
       "name": "All the Feels",
       "startPage": 28,
       "endPage": 31,
-      "stickers": [
+      "collectables": [
         {
           "number": "105",
           "id": "smd-105"
@@ -636,7 +636,7 @@
       "name": "Fancy Dress",
       "startPage": 32,
       "endPage": 33,
-      "stickers": [
+      "collectables": [
         {
           "number": "122",
           "id": "smd-122"
@@ -683,7 +683,7 @@
       "name": "Mono Mallows",
       "startPage": 34,
       "endPage": 37,
-      "stickers": [
+      "collectables": [
         {
           "number": "131",
           "id": "smd-131"
@@ -762,7 +762,7 @@
       "name": "It's Cold Outside",
       "startPage": 38,
       "endPage": 39,
-      "stickers": [
+      "collectables": [
         {
           "number": "148",
           "type": "foil",
@@ -808,7 +808,7 @@
       "name": "Stay Sweet Squad",
       "startPage": 40,
       "endPage": 40,
-      "stickers": [
+      "collectables": [
         {
           "number": "157",
           "id": "smd-157"
@@ -839,7 +839,7 @@
       "id": "d-series",
       "name": "D-Series",
       "category": "Extras",
-      "stickers": [
+      "collectables": [
         {
           "number": "D1",
           "type": "figured",
@@ -886,7 +886,7 @@
       "id": "s-series",
       "name": "S-Series",
       "category": "Extras",
-      "stickers": [
+      "collectables": [
         {
           "number": "S1",
           "type": "figured",
@@ -923,7 +923,7 @@
       "id": "limited-edition",
       "name": "Limited Edition",
       "category": "Extras",
-      "stickers": [
+      "collectables": [
         {
           "number": "LE1",
           "name": "Amelie",
@@ -951,5 +951,6 @@
         }
       ]
     }
-  ]
+  ],
+  "collectableType": "sticker"
 }

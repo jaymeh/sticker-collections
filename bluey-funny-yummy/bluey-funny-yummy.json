@@ -12,12 +12,32 @@
       "name": "Bluey and Bingo Foodie Fun",
       "startPage": 1,
       "endPage": 1,
-      "stickers": [
-        { "number": "1", "type": "figured", "id": "bfy-001" },
-        { "number": "2", "type": "foil", "id": "bfy-002" },
-        { "number": "3", "type": "foil", "id": "bfy-003" },
-        { "number": "4", "type": "foil", "id": "bfy-004" },
-        { "number": "5", "type": "foil", "id": "bfy-005" }
+      "collectables": [
+        {
+          "number": "1",
+          "type": "figured",
+          "id": "bfy-001"
+        },
+        {
+          "number": "2",
+          "type": "foil",
+          "id": "bfy-002"
+        },
+        {
+          "number": "3",
+          "type": "foil",
+          "id": "bfy-003"
+        },
+        {
+          "number": "4",
+          "type": "foil",
+          "id": "bfy-004"
+        },
+        {
+          "number": "5",
+          "type": "foil",
+          "id": "bfy-005"
+        }
       ]
     },
     {
@@ -25,20 +45,67 @@
       "name": "Food Shopping Time",
       "startPage": 2,
       "endPage": 3,
-      "stickers": [
-        { "number": "6", "id": "bfy-006" },
-        { "number": "7", "type": "foil", "id": "bfy-007" },
-        { "number": "8", "id": "bfy-008" },
-        { "number": "9", "id": "bfy-009" },
-        { "number": "10", "id": "bfy-010" },
-        { "number": "11", "type": "foil", "id": "bfy-011" },
-        { "number": "12", "id": "bfy-012" },
-        { "number": "13", "type": "figured", "id": "bfy-013" },
-        { "number": "14", "type": "figured", "id": "bfy-014" },
-        { "number": "15", "type": "figured", "id": "bfy-015" },
-        { "number": "16", "type": "figured", "id": "bfy-016" },
-        { "number": "17", "type": "figured", "id": "bfy-017" },
-        { "number": "18", "type": "figured", "id": "bfy-018" }
+      "collectables": [
+        {
+          "number": "6",
+          "id": "bfy-006"
+        },
+        {
+          "number": "7",
+          "type": "foil",
+          "id": "bfy-007"
+        },
+        {
+          "number": "8",
+          "id": "bfy-008"
+        },
+        {
+          "number": "9",
+          "id": "bfy-009"
+        },
+        {
+          "number": "10",
+          "id": "bfy-010"
+        },
+        {
+          "number": "11",
+          "type": "foil",
+          "id": "bfy-011"
+        },
+        {
+          "number": "12",
+          "id": "bfy-012"
+        },
+        {
+          "number": "13",
+          "type": "figured",
+          "id": "bfy-013"
+        },
+        {
+          "number": "14",
+          "type": "figured",
+          "id": "bfy-014"
+        },
+        {
+          "number": "15",
+          "type": "figured",
+          "id": "bfy-015"
+        },
+        {
+          "number": "16",
+          "type": "figured",
+          "id": "bfy-016"
+        },
+        {
+          "number": "17",
+          "type": "figured",
+          "id": "bfy-017"
+        },
+        {
+          "number": "18",
+          "type": "figured",
+          "id": "bfy-018"
+        }
       ]
     },
     {
@@ -46,17 +113,49 @@
       "name": "Manners Manners",
       "startPage": 4,
       "endPage": 5,
-      "stickers": [
-        { "number": "19", "type": "figured", "id": "bfy-019" },
-        { "number": "20", "id": "bfy-020" },
-        { "number": "21", "id": "bfy-021" },
-        { "number": "22", "id": "bfy-022" },
-        { "number": "23", "id": "bfy-023" },
-        { "number": "24", "id": "bfy-024" },
-        { "number": "25", "id": "bfy-025" },
-        { "number": "26", "id": "bfy-026" },
-        { "number": "27", "id": "bfy-027" },
-        { "number": "28", "type": "figured", "id": "bfy-028" }
+      "collectables": [
+        {
+          "number": "19",
+          "type": "figured",
+          "id": "bfy-019"
+        },
+        {
+          "number": "20",
+          "id": "bfy-020"
+        },
+        {
+          "number": "21",
+          "id": "bfy-021"
+        },
+        {
+          "number": "22",
+          "id": "bfy-022"
+        },
+        {
+          "number": "23",
+          "id": "bfy-023"
+        },
+        {
+          "number": "24",
+          "id": "bfy-024"
+        },
+        {
+          "number": "25",
+          "id": "bfy-025"
+        },
+        {
+          "number": "26",
+          "id": "bfy-026"
+        },
+        {
+          "number": "27",
+          "id": "bfy-027"
+        },
+        {
+          "number": "28",
+          "type": "figured",
+          "id": "bfy-028"
+        }
       ]
     },
     {
@@ -64,18 +163,55 @@
       "name": "Eggy Brekky",
       "startPage": 6,
       "endPage": 7,
-      "stickers": [
-        { "number": "29", "type": "figured", "id": "bfy-029" },
-        { "number": "30", "id": "bfy-030" },
-        { "number": "31", "id": "bfy-031" },
-        { "number": "32", "type": "foil", "id": "bfy-032" },
-        { "number": "33", "id": "bfy-033" },
-        { "number": "34", "id": "bfy-034" },
-        { "number": "35", "id": "bfy-035" },
-        { "number": "36", "id": "bfy-036" },
-        { "number": "37", "id": "bfy-037" },
-        { "number": "38", "type": "foil", "id": "bfy-038" },
-        { "number": "39", "type": "figured", "id": "bfy-039" }
+      "collectables": [
+        {
+          "number": "29",
+          "type": "figured",
+          "id": "bfy-029"
+        },
+        {
+          "number": "30",
+          "id": "bfy-030"
+        },
+        {
+          "number": "31",
+          "id": "bfy-031"
+        },
+        {
+          "number": "32",
+          "type": "foil",
+          "id": "bfy-032"
+        },
+        {
+          "number": "33",
+          "id": "bfy-033"
+        },
+        {
+          "number": "34",
+          "id": "bfy-034"
+        },
+        {
+          "number": "35",
+          "id": "bfy-035"
+        },
+        {
+          "number": "36",
+          "id": "bfy-036"
+        },
+        {
+          "number": "37",
+          "id": "bfy-037"
+        },
+        {
+          "number": "38",
+          "type": "foil",
+          "id": "bfy-038"
+        },
+        {
+          "number": "39",
+          "type": "figured",
+          "id": "bfy-039"
+        }
       ]
     },
     {
@@ -83,16 +219,52 @@
       "name": "Need a Hand?",
       "startPage": 8,
       "endPage": 9,
-      "stickers": [
-        { "number": "40", "type": "foil", "id": "bfy-040" },
-        { "number": "41", "type": "figured", "id": "bfy-041" },
-        { "number": "42", "type": "figured", "id": "bfy-042" },
-        { "number": "43", "type": "figured", "id": "bfy-043" },
-        { "number": "44", "type": "figured", "id": "bfy-044" },
-        { "number": "45", "type": "foil", "id": "bfy-045" },
-        { "number": "46", "type": "figured", "id": "bfy-046" },
-        { "number": "47", "type": "foil", "id": "bfy-047" },
-        { "number": "48", "type": "figured", "id": "bfy-048" }
+      "collectables": [
+        {
+          "number": "40",
+          "type": "foil",
+          "id": "bfy-040"
+        },
+        {
+          "number": "41",
+          "type": "figured",
+          "id": "bfy-041"
+        },
+        {
+          "number": "42",
+          "type": "figured",
+          "id": "bfy-042"
+        },
+        {
+          "number": "43",
+          "type": "figured",
+          "id": "bfy-043"
+        },
+        {
+          "number": "44",
+          "type": "figured",
+          "id": "bfy-044"
+        },
+        {
+          "number": "45",
+          "type": "foil",
+          "id": "bfy-045"
+        },
+        {
+          "number": "46",
+          "type": "figured",
+          "id": "bfy-046"
+        },
+        {
+          "number": "47",
+          "type": "foil",
+          "id": "bfy-047"
+        },
+        {
+          "number": "48",
+          "type": "figured",
+          "id": "bfy-048"
+        }
       ]
     },
     {
@@ -100,18 +272,55 @@
       "name": "Smooth as a Smoothie",
       "startPage": 10,
       "endPage": 11,
-      "stickers": [
-        { "number": "49", "type": "figured", "id": "bfy-049" },
-        { "number": "50", "id": "bfy-050" },
-        { "number": "51", "id": "bfy-051" },
-        { "number": "52", "id": "bfy-052" },
-        { "number": "53", "type": "figured", "id": "bfy-053" },
-        { "number": "54", "id": "bfy-054" },
-        { "number": "55", "type": "foil", "id": "bfy-055" },
-        { "number": "56", "id": "bfy-056" },
-        { "number": "57", "id": "bfy-057" },
-        { "number": "58", "id": "bfy-058" },
-        { "number": "59", "type": "figured", "id": "bfy-059" }
+      "collectables": [
+        {
+          "number": "49",
+          "type": "figured",
+          "id": "bfy-049"
+        },
+        {
+          "number": "50",
+          "id": "bfy-050"
+        },
+        {
+          "number": "51",
+          "id": "bfy-051"
+        },
+        {
+          "number": "52",
+          "id": "bfy-052"
+        },
+        {
+          "number": "53",
+          "type": "figured",
+          "id": "bfy-053"
+        },
+        {
+          "number": "54",
+          "id": "bfy-054"
+        },
+        {
+          "number": "55",
+          "type": "foil",
+          "id": "bfy-055"
+        },
+        {
+          "number": "56",
+          "id": "bfy-056"
+        },
+        {
+          "number": "57",
+          "id": "bfy-057"
+        },
+        {
+          "number": "58",
+          "id": "bfy-058"
+        },
+        {
+          "number": "59",
+          "type": "figured",
+          "id": "bfy-059"
+        }
       ]
     },
     {
@@ -119,16 +328,45 @@
       "name": "Curry Swap",
       "startPage": 12,
       "endPage": 13,
-      "stickers": [
-        { "number": "60", "id": "bfy-060" },
-        { "number": "61", "id": "bfy-061" },
-        { "number": "62", "id": "bfy-062" },
-        { "number": "63", "id": "bfy-063" },
-        { "number": "64", "id": "bfy-064" },
-        { "number": "65", "id": "bfy-065" },
-        { "number": "66", "type": "figured", "id": "bfy-066" },
-        { "number": "67", "type": "foil", "id": "bfy-067" },
-        { "number": "68", "id": "bfy-068" }
+      "collectables": [
+        {
+          "number": "60",
+          "id": "bfy-060"
+        },
+        {
+          "number": "61",
+          "id": "bfy-061"
+        },
+        {
+          "number": "62",
+          "id": "bfy-062"
+        },
+        {
+          "number": "63",
+          "id": "bfy-063"
+        },
+        {
+          "number": "64",
+          "id": "bfy-064"
+        },
+        {
+          "number": "65",
+          "id": "bfy-065"
+        },
+        {
+          "number": "66",
+          "type": "figured",
+          "id": "bfy-066"
+        },
+        {
+          "number": "67",
+          "type": "foil",
+          "id": "bfy-067"
+        },
+        {
+          "number": "68",
+          "id": "bfy-068"
+        }
       ]
     },
     {
@@ -136,18 +374,55 @@
       "name": "The Perfect Salad",
       "startPage": 14,
       "endPage": 15,
-      "stickers": [
-        { "number": "69", "type": "figured", "id": "bfy-069" },
-        { "number": "70", "id": "bfy-070" },
-        { "number": "71", "id": "bfy-071" },
-        { "number": "72", "id": "bfy-072" },
-        { "number": "73", "id": "bfy-073" },
-        { "number": "74", "id": "bfy-074" },
-        { "number": "75", "type": "foil", "id": "bfy-075" },
-        { "number": "76", "id": "bfy-076" },
-        { "number": "77", "id": "bfy-077" },
-        { "number": "78", "type": "foil", "id": "bfy-078" },
-        { "number": "79", "type": "foil", "id": "bfy-079" }
+      "collectables": [
+        {
+          "number": "69",
+          "type": "figured",
+          "id": "bfy-069"
+        },
+        {
+          "number": "70",
+          "id": "bfy-070"
+        },
+        {
+          "number": "71",
+          "id": "bfy-071"
+        },
+        {
+          "number": "72",
+          "id": "bfy-072"
+        },
+        {
+          "number": "73",
+          "id": "bfy-073"
+        },
+        {
+          "number": "74",
+          "id": "bfy-074"
+        },
+        {
+          "number": "75",
+          "type": "foil",
+          "id": "bfy-075"
+        },
+        {
+          "number": "76",
+          "id": "bfy-076"
+        },
+        {
+          "number": "77",
+          "id": "bfy-077"
+        },
+        {
+          "number": "78",
+          "type": "foil",
+          "id": "bfy-078"
+        },
+        {
+          "number": "79",
+          "type": "foil",
+          "id": "bfy-079"
+        }
       ]
     },
     {
@@ -155,20 +430,66 @@
       "name": "Takeaway",
       "startPage": 16,
       "endPage": 17,
-      "stickers": [
-        { "number": "80", "id": "bfy-080" },
-        { "number": "81", "type": "figured", "id": "bfy-081" },
-        { "number": "82", "id": "bfy-082" },
-        { "number": "83", "id": "bfy-083" },
-        { "number": "84", "id": "bfy-084" },
-        { "number": "85", "id": "bfy-085" },
-        { "number": "86", "id": "bfy-086" },
-        { "number": "87", "type": "figured", "id": "bfy-087" },
-        { "number": "88", "type": "figured", "id": "bfy-088" },
-        { "number": "89", "type": "figured", "id": "bfy-089" },
-        { "number": "90", "type": "figured", "id": "bfy-090" },
-        { "number": "91", "type": "figured", "id": "bfy-091" },
-        { "number": "92", "type": "foil", "id": "bfy-092" }
+      "collectables": [
+        {
+          "number": "80",
+          "id": "bfy-080"
+        },
+        {
+          "number": "81",
+          "type": "figured",
+          "id": "bfy-081"
+        },
+        {
+          "number": "82",
+          "id": "bfy-082"
+        },
+        {
+          "number": "83",
+          "id": "bfy-083"
+        },
+        {
+          "number": "84",
+          "id": "bfy-084"
+        },
+        {
+          "number": "85",
+          "id": "bfy-085"
+        },
+        {
+          "number": "86",
+          "id": "bfy-086"
+        },
+        {
+          "number": "87",
+          "type": "figured",
+          "id": "bfy-087"
+        },
+        {
+          "number": "88",
+          "type": "figured",
+          "id": "bfy-088"
+        },
+        {
+          "number": "89",
+          "type": "figured",
+          "id": "bfy-089"
+        },
+        {
+          "number": "90",
+          "type": "figured",
+          "id": "bfy-090"
+        },
+        {
+          "number": "91",
+          "type": "figured",
+          "id": "bfy-091"
+        },
+        {
+          "number": "92",
+          "type": "foil",
+          "id": "bfy-092"
+        }
       ]
     },
     {
@@ -176,17 +497,51 @@
       "name": "Ice Cream Time",
       "startPage": 18,
       "endPage": 19,
-      "stickers": [
-        { "number": "93", "type": "foil", "id": "bfy-093" },
-        { "number": "94", "type": "foil", "id": "bfy-094" },
-        { "number": "95", "id": "bfy-095" },
-        { "number": "96", "id": "bfy-096" },
-        { "number": "97", "id": "bfy-097" },
-        { "number": "98", "type": "figured", "id": "bfy-098" },
-        { "number": "99", "id": "bfy-099" },
-        { "number": "100", "type": "foil", "id": "bfy-100" },
-        { "number": "101", "id": "bfy-101" },
-        { "number": "102", "id": "bfy-102" }
+      "collectables": [
+        {
+          "number": "93",
+          "type": "foil",
+          "id": "bfy-093"
+        },
+        {
+          "number": "94",
+          "type": "foil",
+          "id": "bfy-094"
+        },
+        {
+          "number": "95",
+          "id": "bfy-095"
+        },
+        {
+          "number": "96",
+          "id": "bfy-096"
+        },
+        {
+          "number": "97",
+          "id": "bfy-097"
+        },
+        {
+          "number": "98",
+          "type": "figured",
+          "id": "bfy-098"
+        },
+        {
+          "number": "99",
+          "id": "bfy-099"
+        },
+        {
+          "number": "100",
+          "type": "foil",
+          "id": "bfy-100"
+        },
+        {
+          "number": "101",
+          "id": "bfy-101"
+        },
+        {
+          "number": "102",
+          "id": "bfy-102"
+        }
       ]
     },
     {
@@ -194,19 +549,58 @@
       "name": "Market Magic",
       "startPage": 20,
       "endPage": 21,
-      "stickers": [
-        { "number": "103", "id": "bfy-103" },
-        { "number": "104", "id": "bfy-104" },
-        { "number": "105", "id": "bfy-105" },
-        { "number": "106", "type": "figured", "id": "bfy-106" },
-        { "number": "107", "id": "bfy-107" },
-        { "number": "108", "id": "bfy-108" },
-        { "number": "109", "id": "bfy-109" },
-        { "number": "110", "type": "foil", "id": "bfy-110" },
-        { "number": "111", "type": "figured", "id": "bfy-111" },
-        { "number": "112", "id": "bfy-112" },
-        { "number": "113", "id": "bfy-113" },
-        { "number": "114", "id": "bfy-114" }
+      "collectables": [
+        {
+          "number": "103",
+          "id": "bfy-103"
+        },
+        {
+          "number": "104",
+          "id": "bfy-104"
+        },
+        {
+          "number": "105",
+          "id": "bfy-105"
+        },
+        {
+          "number": "106",
+          "type": "figured",
+          "id": "bfy-106"
+        },
+        {
+          "number": "107",
+          "id": "bfy-107"
+        },
+        {
+          "number": "108",
+          "id": "bfy-108"
+        },
+        {
+          "number": "109",
+          "id": "bfy-109"
+        },
+        {
+          "number": "110",
+          "type": "foil",
+          "id": "bfy-110"
+        },
+        {
+          "number": "111",
+          "type": "figured",
+          "id": "bfy-111"
+        },
+        {
+          "number": "112",
+          "id": "bfy-112"
+        },
+        {
+          "number": "113",
+          "id": "bfy-113"
+        },
+        {
+          "number": "114",
+          "id": "bfy-114"
+        }
       ]
     },
     {
@@ -214,18 +608,55 @@
       "name": "Making Pizza",
       "startPage": 22,
       "endPage": 23,
-      "stickers": [
-        { "number": "115", "type": "figured", "id": "bfy-115" },
-        { "number": "116", "id": "bfy-116" },
-        { "number": "117", "id": "bfy-117" },
-        { "number": "118", "id": "bfy-118" },
-        { "number": "119", "id": "bfy-119" },
-        { "number": "120", "id": "bfy-120" },
-        { "number": "121", "type": "foil", "id": "bfy-121" },
-        { "number": "122", "type": "foil", "id": "bfy-122" },
-        { "number": "123", "type": "figured", "id": "bfy-123" },
-        { "number": "124", "id": "bfy-124" },
-        { "number": "125", "id": "bfy-125" }
+      "collectables": [
+        {
+          "number": "115",
+          "type": "figured",
+          "id": "bfy-115"
+        },
+        {
+          "number": "116",
+          "id": "bfy-116"
+        },
+        {
+          "number": "117",
+          "id": "bfy-117"
+        },
+        {
+          "number": "118",
+          "id": "bfy-118"
+        },
+        {
+          "number": "119",
+          "id": "bfy-119"
+        },
+        {
+          "number": "120",
+          "id": "bfy-120"
+        },
+        {
+          "number": "121",
+          "type": "foil",
+          "id": "bfy-121"
+        },
+        {
+          "number": "122",
+          "type": "foil",
+          "id": "bfy-122"
+        },
+        {
+          "number": "123",
+          "type": "figured",
+          "id": "bfy-123"
+        },
+        {
+          "number": "124",
+          "id": "bfy-124"
+        },
+        {
+          "number": "125",
+          "id": "bfy-125"
+        }
       ]
     },
     {
@@ -233,22 +664,75 @@
       "name": "Fancy Dinner",
       "startPage": 24,
       "endPage": 25,
-      "stickers": [
-        { "number": "126", "id": "bfy-126" },
-        { "number": "127", "id": "bfy-127" },
-        { "number": "128", "id": "bfy-128" },
-        { "number": "129", "id": "bfy-129" },
-        { "number": "130", "id": "bfy-130" },
-        { "number": "131", "type": "foil", "id": "bfy-131" },
-        { "number": "132", "id": "bfy-132" },
-        { "number": "133", "id": "bfy-133" },
-        { "number": "134", "type": "figured", "id": "bfy-134" },
-        { "number": "135", "type": "figured", "id": "bfy-135" },
-        { "number": "136", "type": "figured", "id": "bfy-136" },
-        { "number": "137", "type": "figured", "id": "bfy-137" },
-        { "number": "138", "type": "figured", "id": "bfy-138" },
-        { "number": "139", "type": "figured", "id": "bfy-139" },
-        { "number": "140", "type": "figured", "id": "bfy-140" }
+      "collectables": [
+        {
+          "number": "126",
+          "id": "bfy-126"
+        },
+        {
+          "number": "127",
+          "id": "bfy-127"
+        },
+        {
+          "number": "128",
+          "id": "bfy-128"
+        },
+        {
+          "number": "129",
+          "id": "bfy-129"
+        },
+        {
+          "number": "130",
+          "id": "bfy-130"
+        },
+        {
+          "number": "131",
+          "type": "foil",
+          "id": "bfy-131"
+        },
+        {
+          "number": "132",
+          "id": "bfy-132"
+        },
+        {
+          "number": "133",
+          "id": "bfy-133"
+        },
+        {
+          "number": "134",
+          "type": "figured",
+          "id": "bfy-134"
+        },
+        {
+          "number": "135",
+          "type": "figured",
+          "id": "bfy-135"
+        },
+        {
+          "number": "136",
+          "type": "figured",
+          "id": "bfy-136"
+        },
+        {
+          "number": "137",
+          "type": "figured",
+          "id": "bfy-137"
+        },
+        {
+          "number": "138",
+          "type": "figured",
+          "id": "bfy-138"
+        },
+        {
+          "number": "139",
+          "type": "figured",
+          "id": "bfy-139"
+        },
+        {
+          "number": "140",
+          "type": "figured",
+          "id": "bfy-140"
+        }
       ]
     },
     {
@@ -256,17 +740,51 @@
       "name": "There's Always Room for Dessert",
       "startPage": 26,
       "endPage": 27,
-      "stickers": [
-        { "number": "141", "type": "figured", "id": "bfy-141" },
-        { "number": "142", "id": "bfy-142" },
-        { "number": "143", "id": "bfy-143" },
-        { "number": "144", "id": "bfy-144" },
-        { "number": "145", "type": "foil", "id": "bfy-145" },
-        { "number": "146", "id": "bfy-146" },
-        { "number": "147", "id": "bfy-147" },
-        { "number": "148", "id": "bfy-148" },
-        { "number": "149", "type": "foil", "id": "bfy-149" },
-        { "number": "150", "type": "figured", "id": "bfy-150" }
+      "collectables": [
+        {
+          "number": "141",
+          "type": "figured",
+          "id": "bfy-141"
+        },
+        {
+          "number": "142",
+          "id": "bfy-142"
+        },
+        {
+          "number": "143",
+          "id": "bfy-143"
+        },
+        {
+          "number": "144",
+          "id": "bfy-144"
+        },
+        {
+          "number": "145",
+          "type": "foil",
+          "id": "bfy-145"
+        },
+        {
+          "number": "146",
+          "id": "bfy-146"
+        },
+        {
+          "number": "147",
+          "id": "bfy-147"
+        },
+        {
+          "number": "148",
+          "id": "bfy-148"
+        },
+        {
+          "number": "149",
+          "type": "foil",
+          "id": "bfy-149"
+        },
+        {
+          "number": "150",
+          "type": "figured",
+          "id": "bfy-150"
+        }
       ]
     },
     {
@@ -274,16 +792,46 @@
       "name": "Stock up on Fruit",
       "startPage": 28,
       "endPage": 29,
-      "stickers": [
-        { "number": "151", "id": "bfy-151" },
-        { "number": "152", "type": "figured", "id": "bfy-152" },
-        { "number": "153", "id": "bfy-153" },
-        { "number": "154", "id": "bfy-154" },
-        { "number": "155", "id": "bfy-155" },
-        { "number": "156", "id": "bfy-156" },
-        { "number": "157", "type": "foil", "id": "bfy-157" },
-        { "number": "158", "type": "foil", "id": "bfy-158" },
-        { "number": "159", "id": "bfy-159" }
+      "collectables": [
+        {
+          "number": "151",
+          "id": "bfy-151"
+        },
+        {
+          "number": "152",
+          "type": "figured",
+          "id": "bfy-152"
+        },
+        {
+          "number": "153",
+          "id": "bfy-153"
+        },
+        {
+          "number": "154",
+          "id": "bfy-154"
+        },
+        {
+          "number": "155",
+          "id": "bfy-155"
+        },
+        {
+          "number": "156",
+          "id": "bfy-156"
+        },
+        {
+          "number": "157",
+          "type": "foil",
+          "id": "bfy-157"
+        },
+        {
+          "number": "158",
+          "type": "foil",
+          "id": "bfy-158"
+        },
+        {
+          "number": "159",
+          "id": "bfy-159"
+        }
       ]
     },
     {
@@ -291,22 +839,75 @@
       "name": "The Duck Cake",
       "startPage": 30,
       "endPage": 31,
-      "stickers": [
-        { "number": "160", "id": "bfy-160" },
-        { "number": "161", "id": "bfy-161" },
-        { "number": "162", "id": "bfy-162" },
-        { "number": "163", "id": "bfy-163" },
-        { "number": "164", "type": "figured", "id": "bfy-164" },
-        { "number": "165", "type": "figured", "id": "bfy-165" },
-        { "number": "166", "type": "figured", "id": "bfy-166" },
-        { "number": "167", "type": "figured", "id": "bfy-167" },
-        { "number": "168", "type": "figured", "id": "bfy-168" },
-        { "number": "169", "id": "bfy-169" },
-        { "number": "170", "type": "figured", "id": "bfy-170" },
-        { "number": "171", "type": "figured", "id": "bfy-171" },
-        { "number": "172", "id": "bfy-172" },
-        { "number": "173", "id": "bfy-173" },
-        { "number": "174", "type": "foil", "id": "bfy-174" }
+      "collectables": [
+        {
+          "number": "160",
+          "id": "bfy-160"
+        },
+        {
+          "number": "161",
+          "id": "bfy-161"
+        },
+        {
+          "number": "162",
+          "id": "bfy-162"
+        },
+        {
+          "number": "163",
+          "id": "bfy-163"
+        },
+        {
+          "number": "164",
+          "type": "figured",
+          "id": "bfy-164"
+        },
+        {
+          "number": "165",
+          "type": "figured",
+          "id": "bfy-165"
+        },
+        {
+          "number": "166",
+          "type": "figured",
+          "id": "bfy-166"
+        },
+        {
+          "number": "167",
+          "type": "figured",
+          "id": "bfy-167"
+        },
+        {
+          "number": "168",
+          "type": "figured",
+          "id": "bfy-168"
+        },
+        {
+          "number": "169",
+          "id": "bfy-169"
+        },
+        {
+          "number": "170",
+          "type": "figured",
+          "id": "bfy-170"
+        },
+        {
+          "number": "171",
+          "type": "figured",
+          "id": "bfy-171"
+        },
+        {
+          "number": "172",
+          "id": "bfy-172"
+        },
+        {
+          "number": "173",
+          "id": "bfy-173"
+        },
+        {
+          "number": "174",
+          "type": "foil",
+          "id": "bfy-174"
+        }
       ]
     },
     {
@@ -314,32 +915,100 @@
       "name": "I'm Full",
       "startPage": 32,
       "endPage": 32,
-      "stickers": [
-        { "number": "175", "id": "bfy-175" },
-        { "number": "176", "type": "foil", "id": "bfy-176" },
-        { "number": "177", "type": "foil", "id": "bfy-177" },
-        { "number": "178", "id": "bfy-178" },
-        { "number": "179", "id": "bfy-179" },
-        { "number": "180", "id": "bfy-180" },
-        { "number": "181", "id": "bfy-181" }
+      "collectables": [
+        {
+          "number": "175",
+          "id": "bfy-175"
+        },
+        {
+          "number": "176",
+          "type": "foil",
+          "id": "bfy-176"
+        },
+        {
+          "number": "177",
+          "type": "foil",
+          "id": "bfy-177"
+        },
+        {
+          "number": "178",
+          "id": "bfy-178"
+        },
+        {
+          "number": "179",
+          "id": "bfy-179"
+        },
+        {
+          "number": "180",
+          "id": "bfy-180"
+        },
+        {
+          "number": "181",
+          "id": "bfy-181"
+        }
       ]
     },
     {
       "id": "x-series",
       "name": "X Series",
-      "stickers": [
-        { "number": "X1", "type": "figured", "id": "bfy-x01" },
-        { "number": "X2", "type": "figured", "id": "bfy-x02" },
-        { "number": "X3", "type": "figured", "id": "bfy-x03" },
-        { "number": "X4", "type": "figured", "id": "bfy-x04" },
-        { "number": "X5", "type": "figured", "id": "bfy-x05" },
-        { "number": "X6", "type": "figured", "id": "bfy-x06" },
-        { "number": "X7", "type": "figured", "id": "bfy-x07" },
-        { "number": "X8", "type": "figured", "id": "bfy-x08" },
-        { "number": "X9", "type": "figured", "id": "bfy-x09" },
-        { "number": "X10", "type": "figured", "id": "bfy-x10" },
-        { "number": "X11", "type": "foil", "id": "bfy-x11" }
+      "collectables": [
+        {
+          "number": "X1",
+          "type": "figured",
+          "id": "bfy-x01"
+        },
+        {
+          "number": "X2",
+          "type": "figured",
+          "id": "bfy-x02"
+        },
+        {
+          "number": "X3",
+          "type": "figured",
+          "id": "bfy-x03"
+        },
+        {
+          "number": "X4",
+          "type": "figured",
+          "id": "bfy-x04"
+        },
+        {
+          "number": "X5",
+          "type": "figured",
+          "id": "bfy-x05"
+        },
+        {
+          "number": "X6",
+          "type": "figured",
+          "id": "bfy-x06"
+        },
+        {
+          "number": "X7",
+          "type": "figured",
+          "id": "bfy-x07"
+        },
+        {
+          "number": "X8",
+          "type": "figured",
+          "id": "bfy-x08"
+        },
+        {
+          "number": "X9",
+          "type": "figured",
+          "id": "bfy-x09"
+        },
+        {
+          "number": "X10",
+          "type": "figured",
+          "id": "bfy-x10"
+        },
+        {
+          "number": "X11",
+          "type": "foil",
+          "id": "bfy-x11"
+        }
       ]
     }
-  ]
+  ],
+  "collectableType": "sticker"
 }

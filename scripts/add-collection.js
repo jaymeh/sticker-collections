@@ -44,14 +44,15 @@ function hexToRgb(hex) {
 }
 
 async function main() {
-  console.log('\n📋 Sticker Collection Creator\n');
+  console.log('\n📋 Collectable Collection Creator\n');
 
-  // Gather metadata
   const brand = await prompt('Brand (e.g., Panini, Topps, Merlin): ');
   const year = await prompt('Release year (e.g., 2026): ');
   const name = await prompt('Collection name (e.g., FIFA World Cup 2026™): ');
   const description = await prompt('Short description (1–2 sentences): ');
   const coverColorInput = await prompt('Cover color hex (e.g., #003087): ');
+  const typeInput = await prompt('Collectable type (sticker/card/coin/stamp/figure/pin) [sticker]: ');
+  const collectableType = typeInput || 'sticker';
 
   // Validate hex
   if (!/^#[0-9A-Fa-f]{6}$/.test(coverColorInput)) {
@@ -79,9 +80,9 @@ async function main() {
     const sectionName = await prompt(`Section ${sectionCount} name (or press Enter to finish): `);
     if (!sectionName) break;
 
-    const stickerCountStr = await prompt(`Number of stickers in this section: `);
-    const stickerCount = parseInt(stickerCountStr, 10);
-    if (isNaN(stickerCount) || stickerCount < 1) {
+    const itemCountStr = await prompt(`Number of collectables in this section: `);
+    const itemCount = parseInt(itemCountStr, 10);
+    if (isNaN(itemCount) || itemCount < 1) {
       console.log('⚠️  Invalid count. Skipping.');
       continue;
     }
@@ -89,19 +90,19 @@ async function main() {
     sections.push({
       id: slugify(sectionName),
       name: sectionName,
-      stickerCount,
+      itemCount,
     });
 
     sectionCount++;
   }
 
   // Special: offer Coca-Cola section for CC stickers
-  const addCCSection = await prompt('\nInclude Coca-Cola promotional stickers section? (y/n): ');
+  const addCCSection = await prompt('\nInclude Coca-Cola promotional items section? (y/n): ');
   if (addCCSection.toLowerCase() === 'y') {
     sections.push({
       id: 'coca-cola',
-      name: 'Coca-Cola Promotional Stickers',
-      stickerCount: 12,
+      name: 'Coca-Cola Promotional Items',
+      itemCount: 12,
       note: 'Available July 15 – Dec 31, 2026',
     });
   }
@@ -113,21 +114,25 @@ async function main() {
   }
 
   // Generate collection JSON
-  const totalStickers = sections.reduce((sum, s) => sum + s.stickerCount, 0);
-  const stickers = [];
-  let stickerIndex = 0;
+  const totalItems = sections.reduce((sum, s) => sum + s.itemCount, 0);
+  const builtSections = [];
+  let itemIndex = 0;
 
-  sections.forEach((section, sectionIdx) => {
-    const sectionStickers = [];
-    for (let i = 0; i < section.stickerCount; i++) {
-      const num = String(stickerIndex + 1).padStart(3, '0');
-      sectionStickers.push({
-        number: String(stickerIndex + 1),
+  sections.forEach((section) => {
+    const collectables = [];
+    for (let i = 0; i < section.itemCount; i++) {
+      const num = String(itemIndex + 1).padStart(3, '0');
+      collectables.push({
+        number: String(itemIndex + 1),
         id: `${slug.substring(0, 4).toUpperCase()}-${num}`,
       });
-      stickerIndex++;
+      itemIndex++;
     }
-    stickers.push({ ...section, stickers: sectionStickers });
+    builtSections.push({
+      id: section.id,
+      name: section.name,
+      collectables,
+    });
   });
 
   const collection = {
@@ -137,7 +142,8 @@ async function main() {
     year: parseInt(year, 10),
     description,
     coverColor: coverColorInput,
-    sections: stickers,
+    collectableType,
+    sections: builtSections,
   };
 
   // Write JSON
@@ -147,10 +153,10 @@ async function main() {
 
   console.log(`\n✅ Created collection JSON: ${jsonPath}`);
   console.log(`📁 Folder: ${collectionPath}`);
-  console.log(`📊 Total stickers: ${totalStickers} across ${sections.length} sections\n`);
+  console.log(`📊 Total collectables: ${totalItems} across ${sections.length} sections\n`);
   console.log('Next steps:');
   console.log(`  1. Add cover image: ${slug}.jpg (max 400px wide, under 100KB)`);
-  console.log(`  2. Edit sticker names/details in the JSON as needed`);
+  console.log(`  2. Edit collectable names/details in the JSON as needed`);
   console.log(`  3. Run: node scripts/validate.js\n`);
 
   rl.close();
