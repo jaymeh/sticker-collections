@@ -55,7 +55,9 @@
           "name": "Host Country Emblem - USA",
           "id": "fwc26-008"
         }
-      ]
+      ],
+      "startPage": 1,
+      "endPage": 3
     },
     {
       "id": "mexico",
@@ -161,7 +163,9 @@
           "name": "César Huerta",
           "id": "fwc26-028"
         }
-      ]
+      ],
+      "startPage": 8,
+      "endPage": 9
     },
     {
       "id": "south-africa",
@@ -267,7 +271,9 @@
           "name": "Oswin Appollis",
           "id": "fwc26-048"
         }
-      ]
+      ],
+      "startPage": 10,
+      "endPage": 11
     },
     {
       "id": "korea-republic",
@@ -373,7 +379,9 @@
           "name": "Hyeongyu Oh",
           "id": "fwc26-068"
         }
-      ]
+      ],
+      "startPage": 12,
+      "endPage": 13
     },
     {
       "id": "czechia",
@@ -479,7 +487,9 @@
           "name": "Patrik Schick",
           "id": "fwc26-088"
         }
-      ]
+      ],
+      "startPage": 14,
+      "endPage": 15
     },
     {
       "id": "canada",
@@ -585,7 +595,9 @@
           "name": "Jonathan David",
           "id": "fwc26-108"
         }
-      ]
+      ],
+      "startPage": 16,
+      "endPage": 17
     },
     {
       "id": "bosnia-herzegovina",
@@ -691,7 +703,9 @@
           "name": "Haris Tabaković",
           "id": "fwc26-128"
         }
-      ]
+      ],
+      "startPage": 18,
+      "endPage": 19
     },
     {
       "id": "qatar",
@@ -797,7 +811,9 @@
           "name": "Almoez Ali",
           "id": "fwc26-148"
         }
-      ]
+      ],
+      "startPage": 20,
+      "endPage": 21
     },
     {
       "id": "switzerland",
@@ -903,7 +919,9 @@
           "name": "Zeki Amdouni",
           "id": "fwc26-168"
         }
-      ]
+      ],
+      "startPage": 22,
+      "endPage": 23
     },
     {
       "id": "brazil",
@@ -1009,7 +1027,9 @@
           "name": "Estêvão",
           "id": "fwc26-188"
         }
-      ]
+      ],
+      "startPage": 24,
+      "endPage": 25
     },
     {
       "id": "morocco",
@@ -1115,7 +1135,9 @@
           "name": "Ayoub El Kaabi",
           "id": "fwc26-208"
         }
-      ]
+      ],
+      "startPage": 26,
+      "endPage": 27
     },
     {
       "id": "haiti",
@@ -1221,7 +1243,9 @@
           "name": "Frantzdy Pierrot",
           "id": "fwc26-228"
         }
-      ]
+      ],
+      "startPage": 28,
+      "endPage": 29
     },
     {
       "id": "scotland",
@@ -1327,7 +1351,9 @@
           "name": "Ben Gannon-Doak",
           "id": "fwc26-248"
         }
-      ]
+      ],
+      "startPage": 30,
+      "endPage": 31
     },
     {
       "id": "usa",
@@ -1433,7 +1459,9 @@
           "name": "Folarin Balogun",
           "id": "fwc26-268"
         }
-      ]
+      ],
+      "startPage": 32,
+      "endPage": 33
     },
     {
       "id": "paraguay",
@@ -1539,7 +1567,9 @@
           "name": "Antonio Sanabria",
           "id": "fwc26-288"
         }
-      ]
+      ],
+      "startPage": 34,
+      "endPage": 35
     },
     {
       "id": "australia",
@@ -1645,7 +1675,9 @@
           "name": "Mohamed Touré",
           "id": "fwc26-308"
         }
-      ]
+      ],
+      "startPage": 36,
+      "endPage": 37
     },
     {
       "id": "turkiye",
@@ -1751,7 +1783,9 @@
           "name": "Kenan Yıldız",
           "id": "fwc26-328"
         }
-      ]
+      ],
+      "startPage": 38,
+      "endPage": 39
     },
     {
       "id": "germany",
@@ -1857,7 +1891,9 @@
           "name": "Nick Woltemade",
           "id": "fwc26-348"
         }
-      ]
+      ],
+      "startPage": 40,
+      "endPage": 41
     },
     {
       "id": "curacao",
@@ -1963,7 +1999,9 @@
           "name": "Sontje Hansen",
           "id": "fwc26-368"
         }
-      ]
+      ],
+      "startPage": 42,
+      "endPage": 43
     },
     {
       "id": "cote-divoire",
@@ -2069,7 +2107,9 @@
           "name": "Oumar Diakité",
           "id": "fwc26-388"
         }
-      ]
+      ],
+      "startPage": 44,
+      "endPage": 45
     },
     {
       "id": "ecuador",
@@ -2175,7 +2215,9 @@
           "name": "Enner Valencia",
           "id": "fwc26-408"
         }
-      ]
+      ],
+      "startPage": 46,
+      "endPage": 47
     },
     {
       "id": "netherlands",
@@ -2281,7 +2323,9 @@
           "name": "Cody Gakpo",
           "id": "fwc26-428"
         }
-      ]
+      ],
+      "startPage": 48,
+      "endPage": 49
     },
     {
       "id": "japan",
@@ -2387,7 +2431,9 @@
           "name": "Ayase Ueda",
           "id": "fwc26-448"
         }
-      ]
+      ],
+      "startPage": 50,
+      "endPage": 51
     },
     {
       "id": "sweden",
@@ -2493,7 +2539,9 @@
           "name": "Viktor Gyökeres",
           "id": "fwc26-468"
         }
-      ]
+      ],
+      "startPage": 52,
+      "endPage": 53
     },
     {
       "id": "tunisia",
@@ -2599,7 +2647,9 @@
           "name": "Naïm Sliti",
           "id": "fwc26-488"
         }
-      ]
+      ],
+      "startPage": 54,
+      "endPage": 55
     },
     {
       "id": "belgium",
@@ -2705,7 +2755,9 @@
           "name": "Romelu Lukaku",
           "id": "fwc26-508"
         }
-      ]
+      ],
+      "startPage": 58,
+      "endPage": 59
     },
     {
       "id": "egypt",
@@ -2811,7 +2863,9 @@
           "name": "Omar Marmoush",
           "id": "fwc26-528"
         }
-      ]
+      ],
+      "startPage": 60,
+      "endPage": 61
     },
     {
       "id": "ir-iran",
@@ -2917,7 +2971,9 @@
           "name": "Ali Gholizadeh",
           "id": "fwc26-548"
         }
-      ]
+      ],
+      "startPage": 62,
+      "endPage": 63
     },
     {
       "id": "new-zealand",
@@ -3023,7 +3079,9 @@
           "name": "Kosta Barbarouses",
           "id": "fwc26-568"
         }
-      ]
+      ],
+      "startPage": 64,
+      "endPage": 65
     },
     {
       "id": "spain",
@@ -3129,7 +3187,9 @@
           "name": "Mikel Oyarzabal",
           "id": "fwc26-588"
         }
-      ]
+      ],
+      "startPage": 66,
+      "endPage": 67
     },
     {
       "id": "cabo-verde",
@@ -3235,7 +3295,9 @@
           "name": "Bebé",
           "id": "fwc26-608"
         }
-      ]
+      ],
+      "startPage": 68,
+      "endPage": 69
     },
     {
       "id": "saudi-arabia",
@@ -3341,7 +3403,9 @@
           "name": "Abdullah Alhamdan",
           "id": "fwc26-628"
         }
-      ]
+      ],
+      "startPage": 70,
+      "endPage": 71
     },
     {
       "id": "uruguay",
@@ -3447,7 +3511,9 @@
           "name": "Facundo Pellistri",
           "id": "fwc26-648"
         }
-      ]
+      ],
+      "startPage": 72,
+      "endPage": 73
     },
     {
       "id": "france",
@@ -3553,7 +3619,9 @@
           "name": "Kylian Mbappé",
           "id": "fwc26-668"
         }
-      ]
+      ],
+      "startPage": 74,
+      "endPage": 75
     },
     {
       "id": "senegal",
@@ -3659,7 +3727,9 @@
           "name": "Krépin Diatta",
           "id": "fwc26-688"
         }
-      ]
+      ],
+      "startPage": 76,
+      "endPage": 77
     },
     {
       "id": "iraq",
@@ -3765,7 +3835,9 @@
           "name": "Mohanad Ali",
           "id": "fwc26-708"
         }
-      ]
+      ],
+      "startPage": 78,
+      "endPage": 79
     },
     {
       "id": "norway",
@@ -3871,7 +3943,9 @@
           "name": "Oscar Bobb",
           "id": "fwc26-728"
         }
-      ]
+      ],
+      "startPage": 80,
+      "endPage": 81
     },
     {
       "id": "argentina",
@@ -3977,7 +4051,9 @@
           "name": "Giuliano Simeone",
           "id": "fwc26-748"
         }
-      ]
+      ],
+      "startPage": 82,
+      "endPage": 83
     },
     {
       "id": "algeria",
@@ -4083,7 +4159,9 @@
           "name": "Mohammed Amoura",
           "id": "fwc26-768"
         }
-      ]
+      ],
+      "startPage": 84,
+      "endPage": 85
     },
     {
       "id": "austria",
@@ -4189,7 +4267,9 @@
           "name": "Marko Arnautović",
           "id": "fwc26-788"
         }
-      ]
+      ],
+      "startPage": 86,
+      "endPage": 87
     },
     {
       "id": "jordan",
@@ -4295,7 +4375,9 @@
           "name": "Ibrahim Sabra",
           "id": "fwc26-808"
         }
-      ]
+      ],
+      "startPage": 88,
+      "endPage": 89
     },
     {
       "id": "portugal",
@@ -4401,7 +4483,9 @@
           "name": "Rafael Leão",
           "id": "fwc26-828"
         }
-      ]
+      ],
+      "startPage": 90,
+      "endPage": 91
     },
     {
       "id": "congo-dr",
@@ -4507,7 +4591,9 @@
           "name": "Nathanaël Mbuku",
           "id": "fwc26-848"
         }
-      ]
+      ],
+      "startPage": 92,
+      "endPage": 93
     },
     {
       "id": "uzbekistan",
@@ -4613,7 +4699,9 @@
           "name": "Abbosbek Fayzullaev",
           "id": "fwc26-868"
         }
-      ]
+      ],
+      "startPage": 94,
+      "endPage": 95
     },
     {
       "id": "colombia",
@@ -4719,7 +4807,9 @@
           "name": "Luis Díaz",
           "id": "fwc26-888"
         }
-      ]
+      ],
+      "startPage": 96,
+      "endPage": 97
     },
     {
       "id": "england",
@@ -4825,7 +4915,9 @@
           "name": "Ollie Watkins",
           "id": "fwc26-908"
         }
-      ]
+      ],
+      "startPage": 98,
+      "endPage": 99
     },
     {
       "id": "croatia",
@@ -4931,7 +5023,9 @@
           "name": "Franjo Ivanović",
           "id": "fwc26-928"
         }
-      ]
+      ],
+      "startPage": 100,
+      "endPage": 101
     },
     {
       "id": "ghana",
@@ -5037,7 +5131,9 @@
           "name": "Antoine Semenyo",
           "id": "fwc26-948"
         }
-      ]
+      ],
+      "startPage": 102,
+      "endPage": 103
     },
     {
       "id": "panama",
@@ -5143,7 +5239,9 @@
           "name": "Alberto Quintero",
           "id": "fwc26-968"
         }
-      ]
+      ],
+      "startPage": 104,
+      "endPage": 105
     },
     {
       "id": "world-cup-history",
@@ -5204,7 +5302,9 @@
           "name": "Argentina 2022",
           "id": "fwc26-979"
         }
-      ]
+      ],
+      "startPage": 106,
+      "endPage": 109
     },
     {
       "id": "champions-cards",
@@ -5270,7 +5370,9 @@
           "name": "Antonee Robinson",
           "id": "fwc26-991"
         }
-      ]
+      ],
+      "startPage": 112,
+      "endPage": 113
     }
   ],
   "collectableType": "sticker"
