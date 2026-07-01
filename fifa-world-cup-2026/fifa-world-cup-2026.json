@@ -13,47 +13,56 @@
         {
           "number": "00",
           "name": "Panini",
-          "id": "fwc26-000"
+          "id": "fwc26-000",
+          "type": "foil"
         },
         {
           "number": "FWC 1",
           "name": "Official Emblem",
-          "id": "fwc26-001"
+          "id": "fwc26-001",
+          "type": "foil"
         },
         {
           "number": "FWC 2",
           "name": "Official Emblem",
-          "id": "fwc26-002"
+          "id": "fwc26-002",
+          "type": "foil"
         },
         {
           "number": "FWC 3",
           "name": "Official Mascots",
-          "id": "fwc26-003"
+          "id": "fwc26-003",
+          "type": "foil"
         },
         {
           "number": "FWC 4",
           "name": "Official Slogan",
-          "id": "fwc26-004"
+          "id": "fwc26-004",
+          "type": "foil"
         },
         {
           "number": "FWC 5",
           "name": "Official Ball",
-          "id": "fwc26-005"
+          "id": "fwc26-005",
+          "type": "foil"
         },
         {
           "number": "FWC 6",
           "name": "Host Country Emblem - CAN",
-          "id": "fwc26-006"
+          "id": "fwc26-006",
+          "type": "foil"
         },
         {
           "number": "FWC 7",
           "name": "Host Country Emblem - MEX",
-          "id": "fwc26-007"
+          "id": "fwc26-007",
+          "type": "foil"
         },
         {
           "number": "FWC 8",
           "name": "Host Country Emblem - USA",
-          "id": "fwc26-008"
+          "id": "fwc26-008",
+          "type": "foil"
         }
       ],
       "startPage": 1,
@@ -66,7 +75,8 @@
         {
           "number": "MEX 1",
           "name": "Logo",
-          "id": "fwc26-009"
+          "id": "fwc26-009",
+          "type": "foil"
         },
         {
           "number": "MEX 2",
@@ -174,7 +184,8 @@
         {
           "number": "RSA 1",
           "name": "Logo",
-          "id": "fwc26-029"
+          "id": "fwc26-029",
+          "type": "foil"
         },
         {
           "number": "RSA 2",
@@ -282,7 +293,8 @@
         {
           "number": "KOR 1",
           "name": "Logo",
-          "id": "fwc26-049"
+          "id": "fwc26-049",
+          "type": "foil"
         },
         {
           "number": "KOR 2",
@@ -390,7 +402,8 @@
         {
           "number": "CZE 1",
           "name": "Logo",
-          "id": "fwc26-069"
+          "id": "fwc26-069",
+          "type": "foil"
         },
         {
           "number": "CZE 2",
@@ -498,7 +511,8 @@
         {
           "number": "CAN 1",
           "name": "Logo",
-          "id": "fwc26-089"
+          "id": "fwc26-089",
+          "type": "foil"
         },
         {
           "number": "CAN 2",
@@ -606,7 +620,8 @@
         {
           "number": "BIH 1",
           "name": "Logo",
-          "id": "fwc26-109"
+          "id": "fwc26-109",
+          "type": "foil"
         },
         {
           "number": "BIH 2",
@@ -714,7 +729,8 @@
         {
           "number": "QAT 1",
           "name": "Logo",
-          "id": "fwc26-129"
+          "id": "fwc26-129",
+          "type": "foil"
         },
         {
           "number": "QAT 2",
@@ -822,7 +838,8 @@
         {
           "number": "SUI 1",
           "name": "Logo",
-          "id": "fwc26-149"
+          "id": "fwc26-149",
+          "type": "foil"
         },
         {
           "number": "SUI 2",
@@ -930,7 +947,8 @@
         {
           "number": "BRA 1",
           "name": "Logo",
-          "id": "fwc26-169"
+          "id": "fwc26-169",
+          "type": "foil"
         },
         {
           "number": "BRA 2",
@@ -1038,7 +1056,8 @@
         {
           "number": "MAR 1",
           "name": "Logo",
-          "id": "fwc26-189"
+          "id": "fwc26-189",
+          "type": "foil"
         },
         {
           "number": "MAR 2",
@@ -1146,7 +1165,8 @@
         {
           "number": "HAI 1",
           "name": "Logo",
-          "id": "fwc26-209"
+          "id": "fwc26-209",
+          "type": "foil"
         },
         {
           "number": "HAI 2",
@@ -1254,7 +1274,8 @@
         {
           "number": "SCO 1",
           "name": "Logo",
-          "id": "fwc26-229"
+          "id": "fwc26-229",
+          "type": "foil"
         },
         {
           "number": "SCO 2",
@@ -1362,7 +1383,8 @@
         {
           "number": "USA 1",
           "name": "Logo",
-          "id": "fwc26-249"
+          "id": "fwc26-249",
+          "type": "foil"
         },
         {
           "number": "USA 2",
@@ -1470,7 +1492,8 @@
         {
           "number": "PAR 1",
           "name": "Logo",
-          "id": "fwc26-269"
+          "id": "fwc26-269",
+          "type": "foil"
         },
         {
           "number": "PAR 2",
@@ -1578,7 +1601,8 @@
         {
           "number": "AUS 1",
           "name": "Logo",
-          "id": "fwc26-289"
+          "id": "fwc26-289",
+          "type": "foil"
         },
         {
           "number": "AUS 2",
@@ -1686,7 +1710,8 @@
         {
           "number": "TUR 1",
           "name": "Logo",
-          "id": "fwc26-309"
+          "id": "fwc26-309",
+          "type": "foil"
         },
         {
           "number": "TUR 2",
@@ -1794,7 +1819,8 @@
         {
           "number": "GER 1",
           "name": "Logo",
-          "id": "fwc26-329"
+          "id": "fwc26-329",
+          "type": "foil"
         },
         {
           "number": "GER 2",
@@ -1902,7 +1928,8 @@
         {
           "number": "CUW 1",
           "name": "Logo",
-          "id": "fwc26-349"
+          "id": "fwc26-349",
+          "type": "foil"
         },
         {
           "number": "CUW 2",
@@ -2010,7 +2037,8 @@
         {
           "number": "CIV 1",
           "name": "Logo",
-          "id": "fwc26-369"
+          "id": "fwc26-369",
+          "type": "foil"
         },
         {
           "number": "CIV 2",
@@ -2118,7 +2146,8 @@
         {
           "number": "ECU 1",
           "name": "Logo",
-          "id": "fwc26-389"
+          "id": "fwc26-389",
+          "type": "foil"
         },
         {
           "number": "ECU 2",
@@ -2226,7 +2255,8 @@
         {
           "number": "NED 1",
           "name": "Logo",
-          "id": "fwc26-409"
+          "id": "fwc26-409",
+          "type": "foil"
         },
         {
           "number": "NED 2",
@@ -2334,7 +2364,8 @@
         {
           "number": "JPN 1",
           "name": "Logo",
-          "id": "fwc26-429"
+          "id": "fwc26-429",
+          "type": "foil"
         },
         {
           "number": "JPN 2",
@@ -2442,7 +2473,8 @@
         {
           "number": "SWE 1",
           "name": "Logo",
-          "id": "fwc26-449"
+          "id": "fwc26-449",
+          "type": "foil"
         },
         {
           "number": "SWE 2",
@@ -2550,7 +2582,8 @@
         {
           "number": "TUN 1",
           "name": "Logo",
-          "id": "fwc26-469"
+          "id": "fwc26-469",
+          "type": "foil"
         },
         {
           "number": "TUN 2",
@@ -2658,7 +2691,8 @@
         {
           "number": "BEL 1",
           "name": "Logo",
-          "id": "fwc26-489"
+          "id": "fwc26-489",
+          "type": "foil"
         },
         {
           "number": "BEL 2",
@@ -2766,7 +2800,8 @@
         {
           "number": "EGY 1",
           "name": "Logo",
-          "id": "fwc26-509"
+          "id": "fwc26-509",
+          "type": "foil"
         },
         {
           "number": "EGY 2",
@@ -2874,7 +2909,8 @@
         {
           "number": "IRN 1",
           "name": "Logo",
-          "id": "fwc26-529"
+          "id": "fwc26-529",
+          "type": "foil"
         },
         {
           "number": "IRN 2",
@@ -2982,7 +3018,8 @@
         {
           "number": "NZL 1",
           "name": "Logo",
-          "id": "fwc26-549"
+          "id": "fwc26-549",
+          "type": "foil"
         },
         {
           "number": "NZL 2",
@@ -3090,7 +3127,8 @@
         {
           "number": "ESP 1",
           "name": "Logo",
-          "id": "fwc26-569"
+          "id": "fwc26-569",
+          "type": "foil"
         },
         {
           "number": "ESP 2",
@@ -3198,7 +3236,8 @@
         {
           "number": "CPV 1",
           "name": "Logo",
-          "id": "fwc26-589"
+          "id": "fwc26-589",
+          "type": "foil"
         },
         {
           "number": "CPV 2",
@@ -3306,7 +3345,8 @@
         {
           "number": "KSA 1",
           "name": "Logo",
-          "id": "fwc26-609"
+          "id": "fwc26-609",
+          "type": "foil"
         },
         {
           "number": "KSA 2",
@@ -3414,7 +3454,8 @@
         {
           "number": "URU 1",
           "name": "Logo",
-          "id": "fwc26-629"
+          "id": "fwc26-629",
+          "type": "foil"
         },
         {
           "number": "URU 2",
@@ -3522,7 +3563,8 @@
         {
           "number": "FRA 1",
           "name": "Logo",
-          "id": "fwc26-649"
+          "id": "fwc26-649",
+          "type": "foil"
         },
         {
           "number": "FRA 2",
@@ -3630,7 +3672,8 @@
         {
           "number": "SEN 1",
           "name": "Logo",
-          "id": "fwc26-669"
+          "id": "fwc26-669",
+          "type": "foil"
         },
         {
           "number": "SEN 2",
@@ -3738,7 +3781,8 @@
         {
           "number": "IRQ 1",
           "name": "Logo",
-          "id": "fwc26-689"
+          "id": "fwc26-689",
+          "type": "foil"
         },
         {
           "number": "IRQ 2",
@@ -3846,7 +3890,8 @@
         {
           "number": "NOR 1",
           "name": "Logo",
-          "id": "fwc26-709"
+          "id": "fwc26-709",
+          "type": "foil"
         },
         {
           "number": "NOR 2",
@@ -3954,7 +3999,8 @@
         {
           "number": "ARG 1",
           "name": "Logo",
-          "id": "fwc26-729"
+          "id": "fwc26-729",
+          "type": "foil"
         },
         {
           "number": "ARG 2",
@@ -4062,7 +4108,8 @@
         {
           "number": "ALG 1",
           "name": "Logo",
-          "id": "fwc26-749"
+          "id": "fwc26-749",
+          "type": "foil"
         },
         {
           "number": "ALG 2",
@@ -4170,7 +4217,8 @@
         {
           "number": "AUT 1",
           "name": "Logo",
-          "id": "fwc26-769"
+          "id": "fwc26-769",
+          "type": "foil"
         },
         {
           "number": "AUT 2",
@@ -4278,7 +4326,8 @@
         {
           "number": "JOR 1",
           "name": "Logo",
-          "id": "fwc26-789"
+          "id": "fwc26-789",
+          "type": "foil"
         },
         {
           "number": "JOR 2",
@@ -4386,7 +4435,8 @@
         {
           "number": "POR 1",
           "name": "Logo",
-          "id": "fwc26-809"
+          "id": "fwc26-809",
+          "type": "foil"
         },
         {
           "number": "POR 2",
@@ -4494,7 +4544,8 @@
         {
           "number": "COD 1",
           "name": "Logo",
-          "id": "fwc26-829"
+          "id": "fwc26-829",
+          "type": "foil"
         },
         {
           "number": "COD 2",
@@ -4602,7 +4653,8 @@
         {
           "number": "UZB 1",
           "name": "Logo",
-          "id": "fwc26-849"
+          "id": "fwc26-849",
+          "type": "foil"
         },
         {
           "number": "UZB 2",
@@ -4710,7 +4762,8 @@
         {
           "number": "COL 1",
           "name": "Logo",
-          "id": "fwc26-869"
+          "id": "fwc26-869",
+          "type": "foil"
         },
         {
           "number": "COL 2",
@@ -4818,7 +4871,8 @@
         {
           "number": "ENG 1",
           "name": "Logo",
-          "id": "fwc26-889"
+          "id": "fwc26-889",
+          "type": "foil"
         },
         {
           "number": "ENG 2",
@@ -4926,7 +4980,8 @@
         {
           "number": "CRO 1",
           "name": "Logo",
-          "id": "fwc26-909"
+          "id": "fwc26-909",
+          "type": "foil"
         },
         {
           "number": "CRO 2",
@@ -5034,7 +5089,8 @@
         {
           "number": "GHA 1",
           "name": "Logo",
-          "id": "fwc26-929"
+          "id": "fwc26-929",
+          "type": "foil"
         },
         {
           "number": "GHA 2",
@@ -5142,7 +5198,8 @@
         {
           "number": "PAN 1",
           "name": "Logo",
-          "id": "fwc26-949"
+          "id": "fwc26-949",
+          "type": "foil"
         },
         {
           "number": "PAN 2",
@@ -5250,57 +5307,68 @@
         {
           "number": "FWC 9",
           "name": "Italy 1934",
-          "id": "fwc26-969"
+          "id": "fwc26-969",
+          "type": "foil"
         },
         {
           "number": "FWC 10",
           "name": "Uruguay 1950",
-          "id": "fwc26-970"
+          "id": "fwc26-970",
+          "type": "foil"
         },
         {
           "number": "FWC 11",
           "name": "Germany FR 1954",
-          "id": "fwc26-971"
+          "id": "fwc26-971",
+          "type": "foil"
         },
         {
           "number": "FWC 12",
           "name": "Brazil 1962",
-          "id": "fwc26-972"
+          "id": "fwc26-972",
+          "type": "foil"
         },
         {
           "number": "FWC 13",
           "name": "Germany FR 1974",
-          "id": "fwc26-973"
+          "id": "fwc26-973",
+          "type": "foil"
         },
         {
           "number": "FWC 14",
           "name": "Argentina 1986",
-          "id": "fwc26-974"
+          "id": "fwc26-974",
+          "type": "foil"
         },
         {
           "number": "FWC 15",
           "name": "Brazil 1994",
-          "id": "fwc26-975"
+          "id": "fwc26-975",
+          "type": "foil"
         },
         {
           "number": "FWC 16",
           "name": "Brazil 2002",
-          "id": "fwc26-976"
+          "id": "fwc26-976",
+          "type": "foil"
         },
         {
           "number": "FWC 17",
           "name": "Italy 2006",
-          "id": "fwc26-977"
+          "id": "fwc26-977",
+          "type": "foil"
         },
         {
           "number": "FWC 18",
           "name": "Germany 2014",
-          "id": "fwc26-978"
+          "id": "fwc26-978",
+          "type": "foil"
         },
         {
           "number": "FWC 19",
           "name": "Argentina 2022",
-          "id": "fwc26-979"
+          "id": "fwc26-979",
+          "type": "foil"
         }
       ],
       "startPage": 106,
