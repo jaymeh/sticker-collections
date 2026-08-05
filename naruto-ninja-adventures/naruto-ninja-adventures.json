@@ -844,27 +844,27 @@
       "category": "Extras",
       "collectables": [
         {
-          "number": "X01",
+          "number": "X1",
           "id": "nna-171"
         },
         {
-          "number": "X02",
+          "number": "X2",
           "id": "nna-172"
         },
         {
-          "number": "X03",
+          "number": "X3",
           "id": "nna-173"
         },
         {
-          "number": "X04",
+          "number": "X4",
           "id": "nna-174"
         },
         {
-          "number": "X05",
+          "number": "X5",
           "id": "nna-175"
         },
         {
-          "number": "X06",
+          "number": "X6",
           "id": "nna-176"
         }
       ]

@@ -13,49 +13,60 @@
         {
           "number": "00",
           "name": "Panini",
-          "id": "fwc26-000"
+          "id": "fwc26-000",
+          "type": "foil"
         },
         {
           "number": "FWC 1",
           "name": "Official Emblem",
-          "id": "fwc26-001"
+          "id": "fwc26-001",
+          "type": "foil"
         },
         {
           "number": "FWC 2",
           "name": "Official Emblem",
-          "id": "fwc26-002"
+          "id": "fwc26-002",
+          "type": "foil"
         },
         {
           "number": "FWC 3",
           "name": "Official Mascots",
-          "id": "fwc26-003"
+          "id": "fwc26-003",
+          "type": "foil"
         },
         {
           "number": "FWC 4",
           "name": "Official Slogan",
-          "id": "fwc26-004"
+          "id": "fwc26-004",
+          "type": "foil"
         },
         {
           "number": "FWC 5",
           "name": "Official Ball",
-          "id": "fwc26-005"
+          "id": "fwc26-005",
+          "type": "foil"
         },
         {
           "number": "FWC 6",
           "name": "Host Country Emblem - CAN",
-          "id": "fwc26-006"
+          "id": "fwc26-006",
+          "type": "foil"
         },
         {
           "number": "FWC 7",
           "name": "Host Country Emblem - MEX",
-          "id": "fwc26-007"
+          "id": "fwc26-007",
+          "type": "foil"
         },
         {
           "number": "FWC 8",
           "name": "Host Country Emblem - USA",
-          "id": "fwc26-008"
+          "id": "fwc26-008",
+          "type": "foil"
         }
-      ]
+      ],
+      "startPage": 1,
+      "endPage": 3
     },
     {
       "id": "mexico",
@@ -64,7 +75,8 @@
         {
           "number": "MEX 1",
           "name": "Logo",
-          "id": "fwc26-009"
+          "id": "fwc26-009",
+          "type": "foil"
         },
         {
           "number": "MEX 2",
@@ -161,7 +173,9 @@
           "name": "César Huerta",
           "id": "fwc26-028"
         }
-      ]
+      ],
+      "startPage": 8,
+      "endPage": 9
     },
     {
       "id": "south-africa",
@@ -170,7 +184,8 @@
         {
           "number": "RSA 1",
           "name": "Logo",
-          "id": "fwc26-029"
+          "id": "fwc26-029",
+          "type": "foil"
         },
         {
           "number": "RSA 2",
@@ -267,7 +282,9 @@
           "name": "Oswin Appollis",
           "id": "fwc26-048"
         }
-      ]
+      ],
+      "startPage": 10,
+      "endPage": 11
     },
     {
       "id": "korea-republic",
@@ -276,7 +293,8 @@
         {
           "number": "KOR 1",
           "name": "Logo",
-          "id": "fwc26-049"
+          "id": "fwc26-049",
+          "type": "foil"
         },
         {
           "number": "KOR 2",
@@ -373,7 +391,9 @@
           "name": "Hyeongyu Oh",
           "id": "fwc26-068"
         }
-      ]
+      ],
+      "startPage": 12,
+      "endPage": 13
     },
     {
       "id": "czechia",
@@ -382,7 +402,8 @@
         {
           "number": "CZE 1",
           "name": "Logo",
-          "id": "fwc26-069"
+          "id": "fwc26-069",
+          "type": "foil"
         },
         {
           "number": "CZE 2",
@@ -479,7 +500,9 @@
           "name": "Patrik Schick",
           "id": "fwc26-088"
         }
-      ]
+      ],
+      "startPage": 14,
+      "endPage": 15
     },
     {
       "id": "canada",
@@ -488,7 +511,8 @@
         {
           "number": "CAN 1",
           "name": "Logo",
-          "id": "fwc26-089"
+          "id": "fwc26-089",
+          "type": "foil"
         },
         {
           "number": "CAN 2",
@@ -585,7 +609,9 @@
           "name": "Jonathan David",
           "id": "fwc26-108"
         }
-      ]
+      ],
+      "startPage": 16,
+      "endPage": 17
     },
     {
       "id": "bosnia-herzegovina",
@@ -594,7 +620,8 @@
         {
           "number": "BIH 1",
           "name": "Logo",
-          "id": "fwc26-109"
+          "id": "fwc26-109",
+          "type": "foil"
         },
         {
           "number": "BIH 2",
@@ -691,7 +718,9 @@
           "name": "Haris Tabaković",
           "id": "fwc26-128"
         }
-      ]
+      ],
+      "startPage": 18,
+      "endPage": 19
     },
     {
       "id": "qatar",
@@ -700,7 +729,8 @@
         {
           "number": "QAT 1",
           "name": "Logo",
-          "id": "fwc26-129"
+          "id": "fwc26-129",
+          "type": "foil"
         },
         {
           "number": "QAT 2",
@@ -797,7 +827,9 @@
           "name": "Almoez Ali",
           "id": "fwc26-148"
         }
-      ]
+      ],
+      "startPage": 20,
+      "endPage": 21
     },
     {
       "id": "switzerland",
@@ -806,7 +838,8 @@
         {
           "number": "SUI 1",
           "name": "Logo",
-          "id": "fwc26-149"
+          "id": "fwc26-149",
+          "type": "foil"
         },
         {
           "number": "SUI 2",
@@ -903,7 +936,9 @@
           "name": "Zeki Amdouni",
           "id": "fwc26-168"
         }
-      ]
+      ],
+      "startPage": 22,
+      "endPage": 23
     },
     {
       "id": "brazil",
@@ -912,7 +947,8 @@
         {
           "number": "BRA 1",
           "name": "Logo",
-          "id": "fwc26-169"
+          "id": "fwc26-169",
+          "type": "foil"
         },
         {
           "number": "BRA 2",
@@ -1009,7 +1045,9 @@
           "name": "Estêvão",
           "id": "fwc26-188"
         }
-      ]
+      ],
+      "startPage": 24,
+      "endPage": 25
     },
     {
       "id": "morocco",
@@ -1018,7 +1056,8 @@
         {
           "number": "MAR 1",
           "name": "Logo",
-          "id": "fwc26-189"
+          "id": "fwc26-189",
+          "type": "foil"
         },
         {
           "number": "MAR 2",
@@ -1115,7 +1154,9 @@
           "name": "Ayoub El Kaabi",
           "id": "fwc26-208"
         }
-      ]
+      ],
+      "startPage": 26,
+      "endPage": 27
     },
     {
       "id": "haiti",
@@ -1124,7 +1165,8 @@
         {
           "number": "HAI 1",
           "name": "Logo",
-          "id": "fwc26-209"
+          "id": "fwc26-209",
+          "type": "foil"
         },
         {
           "number": "HAI 2",
@@ -1221,7 +1263,9 @@
           "name": "Frantzdy Pierrot",
           "id": "fwc26-228"
         }
-      ]
+      ],
+      "startPage": 28,
+      "endPage": 29
     },
     {
       "id": "scotland",
@@ -1230,7 +1274,8 @@
         {
           "number": "SCO 1",
           "name": "Logo",
-          "id": "fwc26-229"
+          "id": "fwc26-229",
+          "type": "foil"
         },
         {
           "number": "SCO 2",
@@ -1327,7 +1372,9 @@
           "name": "Ben Gannon-Doak",
           "id": "fwc26-248"
         }
-      ]
+      ],
+      "startPage": 30,
+      "endPage": 31
     },
     {
       "id": "usa",
@@ -1336,7 +1383,8 @@
         {
           "number": "USA 1",
           "name": "Logo",
-          "id": "fwc26-249"
+          "id": "fwc26-249",
+          "type": "foil"
         },
         {
           "number": "USA 2",
@@ -1433,7 +1481,9 @@
           "name": "Folarin Balogun",
           "id": "fwc26-268"
         }
-      ]
+      ],
+      "startPage": 32,
+      "endPage": 33
     },
     {
       "id": "paraguay",
@@ -1442,7 +1492,8 @@
         {
           "number": "PAR 1",
           "name": "Logo",
-          "id": "fwc26-269"
+          "id": "fwc26-269",
+          "type": "foil"
         },
         {
           "number": "PAR 2",
@@ -1539,7 +1590,9 @@
           "name": "Antonio Sanabria",
           "id": "fwc26-288"
         }
-      ]
+      ],
+      "startPage": 34,
+      "endPage": 35
     },
     {
       "id": "australia",
@@ -1548,7 +1601,8 @@
         {
           "number": "AUS 1",
           "name": "Logo",
-          "id": "fwc26-289"
+          "id": "fwc26-289",
+          "type": "foil"
         },
         {
           "number": "AUS 2",
@@ -1645,7 +1699,9 @@
           "name": "Mohamed Touré",
           "id": "fwc26-308"
         }
-      ]
+      ],
+      "startPage": 36,
+      "endPage": 37
     },
     {
       "id": "turkiye",
@@ -1654,7 +1710,8 @@
         {
           "number": "TUR 1",
           "name": "Logo",
-          "id": "fwc26-309"
+          "id": "fwc26-309",
+          "type": "foil"
         },
         {
           "number": "TUR 2",
@@ -1751,7 +1808,9 @@
           "name": "Kenan Yıldız",
           "id": "fwc26-328"
         }
-      ]
+      ],
+      "startPage": 38,
+      "endPage": 39
     },
     {
       "id": "germany",
@@ -1760,7 +1819,8 @@
         {
           "number": "GER 1",
           "name": "Logo",
-          "id": "fwc26-329"
+          "id": "fwc26-329",
+          "type": "foil"
         },
         {
           "number": "GER 2",
@@ -1857,7 +1917,9 @@
           "name": "Nick Woltemade",
           "id": "fwc26-348"
         }
-      ]
+      ],
+      "startPage": 40,
+      "endPage": 41
     },
     {
       "id": "curacao",
@@ -1866,7 +1928,8 @@
         {
           "number": "CUW 1",
           "name": "Logo",
-          "id": "fwc26-349"
+          "id": "fwc26-349",
+          "type": "foil"
         },
         {
           "number": "CUW 2",
@@ -1963,7 +2026,9 @@
           "name": "Sontje Hansen",
           "id": "fwc26-368"
         }
-      ]
+      ],
+      "startPage": 42,
+      "endPage": 43
     },
     {
       "id": "cote-divoire",
@@ -1972,7 +2037,8 @@
         {
           "number": "CIV 1",
           "name": "Logo",
-          "id": "fwc26-369"
+          "id": "fwc26-369",
+          "type": "foil"
         },
         {
           "number": "CIV 2",
@@ -2069,7 +2135,9 @@
           "name": "Oumar Diakité",
           "id": "fwc26-388"
         }
-      ]
+      ],
+      "startPage": 44,
+      "endPage": 45
     },
     {
       "id": "ecuador",
@@ -2078,7 +2146,8 @@
         {
           "number": "ECU 1",
           "name": "Logo",
-          "id": "fwc26-389"
+          "id": "fwc26-389",
+          "type": "foil"
         },
         {
           "number": "ECU 2",
@@ -2175,7 +2244,9 @@
           "name": "Enner Valencia",
           "id": "fwc26-408"
         }
-      ]
+      ],
+      "startPage": 46,
+      "endPage": 47
     },
     {
       "id": "netherlands",
@@ -2184,7 +2255,8 @@
         {
           "number": "NED 1",
           "name": "Logo",
-          "id": "fwc26-409"
+          "id": "fwc26-409",
+          "type": "foil"
         },
         {
           "number": "NED 2",
@@ -2281,7 +2353,9 @@
           "name": "Cody Gakpo",
           "id": "fwc26-428"
         }
-      ]
+      ],
+      "startPage": 48,
+      "endPage": 49
     },
     {
       "id": "japan",
@@ -2290,7 +2364,8 @@
         {
           "number": "JPN 1",
           "name": "Logo",
-          "id": "fwc26-429"
+          "id": "fwc26-429",
+          "type": "foil"
         },
         {
           "number": "JPN 2",
@@ -2387,7 +2462,9 @@
           "name": "Ayase Ueda",
           "id": "fwc26-448"
         }
-      ]
+      ],
+      "startPage": 50,
+      "endPage": 51
     },
     {
       "id": "sweden",
@@ -2396,7 +2473,8 @@
         {
           "number": "SWE 1",
           "name": "Logo",
-          "id": "fwc26-449"
+          "id": "fwc26-449",
+          "type": "foil"
         },
         {
           "number": "SWE 2",
@@ -2493,7 +2571,9 @@
           "name": "Viktor Gyökeres",
           "id": "fwc26-468"
         }
-      ]
+      ],
+      "startPage": 52,
+      "endPage": 53
     },
     {
       "id": "tunisia",
@@ -2502,7 +2582,8 @@
         {
           "number": "TUN 1",
           "name": "Logo",
-          "id": "fwc26-469"
+          "id": "fwc26-469",
+          "type": "foil"
         },
         {
           "number": "TUN 2",
@@ -2599,7 +2680,9 @@
           "name": "Naïm Sliti",
           "id": "fwc26-488"
         }
-      ]
+      ],
+      "startPage": 54,
+      "endPage": 55
     },
     {
       "id": "belgium",
@@ -2608,7 +2691,8 @@
         {
           "number": "BEL 1",
           "name": "Logo",
-          "id": "fwc26-489"
+          "id": "fwc26-489",
+          "type": "foil"
         },
         {
           "number": "BEL 2",
@@ -2705,7 +2789,9 @@
           "name": "Romelu Lukaku",
           "id": "fwc26-508"
         }
-      ]
+      ],
+      "startPage": 58,
+      "endPage": 59
     },
     {
       "id": "egypt",
@@ -2714,7 +2800,8 @@
         {
           "number": "EGY 1",
           "name": "Logo",
-          "id": "fwc26-509"
+          "id": "fwc26-509",
+          "type": "foil"
         },
         {
           "number": "EGY 2",
@@ -2811,7 +2898,9 @@
           "name": "Omar Marmoush",
           "id": "fwc26-528"
         }
-      ]
+      ],
+      "startPage": 60,
+      "endPage": 61
     },
     {
       "id": "ir-iran",
@@ -2820,7 +2909,8 @@
         {
           "number": "IRN 1",
           "name": "Logo",
-          "id": "fwc26-529"
+          "id": "fwc26-529",
+          "type": "foil"
         },
         {
           "number": "IRN 2",
@@ -2917,7 +3007,9 @@
           "name": "Ali Gholizadeh",
           "id": "fwc26-548"
         }
-      ]
+      ],
+      "startPage": 62,
+      "endPage": 63
     },
     {
       "id": "new-zealand",
@@ -2926,7 +3018,8 @@
         {
           "number": "NZL 1",
           "name": "Logo",
-          "id": "fwc26-549"
+          "id": "fwc26-549",
+          "type": "foil"
         },
         {
           "number": "NZL 2",
@@ -3023,7 +3116,9 @@
           "name": "Kosta Barbarouses",
           "id": "fwc26-568"
         }
-      ]
+      ],
+      "startPage": 64,
+      "endPage": 65
     },
     {
       "id": "spain",
@@ -3032,7 +3127,8 @@
         {
           "number": "ESP 1",
           "name": "Logo",
-          "id": "fwc26-569"
+          "id": "fwc26-569",
+          "type": "foil"
         },
         {
           "number": "ESP 2",
@@ -3129,7 +3225,9 @@
           "name": "Mikel Oyarzabal",
           "id": "fwc26-588"
         }
-      ]
+      ],
+      "startPage": 66,
+      "endPage": 67
     },
     {
       "id": "cabo-verde",
@@ -3138,7 +3236,8 @@
         {
           "number": "CPV 1",
           "name": "Logo",
-          "id": "fwc26-589"
+          "id": "fwc26-589",
+          "type": "foil"
         },
         {
           "number": "CPV 2",
@@ -3235,7 +3334,9 @@
           "name": "Bebé",
           "id": "fwc26-608"
         }
-      ]
+      ],
+      "startPage": 68,
+      "endPage": 69
     },
     {
       "id": "saudi-arabia",
@@ -3244,7 +3345,8 @@
         {
           "number": "KSA 1",
           "name": "Logo",
-          "id": "fwc26-609"
+          "id": "fwc26-609",
+          "type": "foil"
         },
         {
           "number": "KSA 2",
@@ -3341,7 +3443,9 @@
           "name": "Abdullah Alhamdan",
           "id": "fwc26-628"
         }
-      ]
+      ],
+      "startPage": 70,
+      "endPage": 71
     },
     {
       "id": "uruguay",
@@ -3350,7 +3454,8 @@
         {
           "number": "URU 1",
           "name": "Logo",
-          "id": "fwc26-629"
+          "id": "fwc26-629",
+          "type": "foil"
         },
         {
           "number": "URU 2",
@@ -3447,7 +3552,9 @@
           "name": "Facundo Pellistri",
           "id": "fwc26-648"
         }
-      ]
+      ],
+      "startPage": 72,
+      "endPage": 73
     },
     {
       "id": "france",
@@ -3456,7 +3563,8 @@
         {
           "number": "FRA 1",
           "name": "Logo",
-          "id": "fwc26-649"
+          "id": "fwc26-649",
+          "type": "foil"
         },
         {
           "number": "FRA 2",
@@ -3553,7 +3661,9 @@
           "name": "Kylian Mbappé",
           "id": "fwc26-668"
         }
-      ]
+      ],
+      "startPage": 74,
+      "endPage": 75
     },
     {
       "id": "senegal",
@@ -3562,7 +3672,8 @@
         {
           "number": "SEN 1",
           "name": "Logo",
-          "id": "fwc26-669"
+          "id": "fwc26-669",
+          "type": "foil"
         },
         {
           "number": "SEN 2",
@@ -3659,7 +3770,9 @@
           "name": "Krépin Diatta",
           "id": "fwc26-688"
         }
-      ]
+      ],
+      "startPage": 76,
+      "endPage": 77
     },
     {
       "id": "iraq",
@@ -3668,7 +3781,8 @@
         {
           "number": "IRQ 1",
           "name": "Logo",
-          "id": "fwc26-689"
+          "id": "fwc26-689",
+          "type": "foil"
         },
         {
           "number": "IRQ 2",
@@ -3765,7 +3879,9 @@
           "name": "Mohanad Ali",
           "id": "fwc26-708"
         }
-      ]
+      ],
+      "startPage": 78,
+      "endPage": 79
     },
     {
       "id": "norway",
@@ -3774,7 +3890,8 @@
         {
           "number": "NOR 1",
           "name": "Logo",
-          "id": "fwc26-709"
+          "id": "fwc26-709",
+          "type": "foil"
         },
         {
           "number": "NOR 2",
@@ -3871,7 +3988,9 @@
           "name": "Oscar Bobb",
           "id": "fwc26-728"
         }
-      ]
+      ],
+      "startPage": 80,
+      "endPage": 81
     },
     {
       "id": "argentina",
@@ -3880,7 +3999,8 @@
         {
           "number": "ARG 1",
           "name": "Logo",
-          "id": "fwc26-729"
+          "id": "fwc26-729",
+          "type": "foil"
         },
         {
           "number": "ARG 2",
@@ -3977,7 +4097,9 @@
           "name": "Giuliano Simeone",
           "id": "fwc26-748"
         }
-      ]
+      ],
+      "startPage": 82,
+      "endPage": 83
     },
     {
       "id": "algeria",
@@ -3986,7 +4108,8 @@
         {
           "number": "ALG 1",
           "name": "Logo",
-          "id": "fwc26-749"
+          "id": "fwc26-749",
+          "type": "foil"
         },
         {
           "number": "ALG 2",
@@ -4083,7 +4206,9 @@
           "name": "Mohammed Amoura",
           "id": "fwc26-768"
         }
-      ]
+      ],
+      "startPage": 84,
+      "endPage": 85
     },
     {
       "id": "austria",
@@ -4092,7 +4217,8 @@
         {
           "number": "AUT 1",
           "name": "Logo",
-          "id": "fwc26-769"
+          "id": "fwc26-769",
+          "type": "foil"
         },
         {
           "number": "AUT 2",
@@ -4189,7 +4315,9 @@
           "name": "Marko Arnautović",
           "id": "fwc26-788"
         }
-      ]
+      ],
+      "startPage": 86,
+      "endPage": 87
     },
     {
       "id": "jordan",
@@ -4198,7 +4326,8 @@
         {
           "number": "JOR 1",
           "name": "Logo",
-          "id": "fwc26-789"
+          "id": "fwc26-789",
+          "type": "foil"
         },
         {
           "number": "JOR 2",
@@ -4295,7 +4424,9 @@
           "name": "Ibrahim Sabra",
           "id": "fwc26-808"
         }
-      ]
+      ],
+      "startPage": 88,
+      "endPage": 89
     },
     {
       "id": "portugal",
@@ -4304,7 +4435,8 @@
         {
           "number": "POR 1",
           "name": "Logo",
-          "id": "fwc26-809"
+          "id": "fwc26-809",
+          "type": "foil"
         },
         {
           "number": "POR 2",
@@ -4401,7 +4533,9 @@
           "name": "Rafael Leão",
           "id": "fwc26-828"
         }
-      ]
+      ],
+      "startPage": 90,
+      "endPage": 91
     },
     {
       "id": "congo-dr",
@@ -4410,7 +4544,8 @@
         {
           "number": "COD 1",
           "name": "Logo",
-          "id": "fwc26-829"
+          "id": "fwc26-829",
+          "type": "foil"
         },
         {
           "number": "COD 2",
@@ -4507,7 +4642,9 @@
           "name": "Nathanaël Mbuku",
           "id": "fwc26-848"
         }
-      ]
+      ],
+      "startPage": 92,
+      "endPage": 93
     },
     {
       "id": "uzbekistan",
@@ -4516,7 +4653,8 @@
         {
           "number": "UZB 1",
           "name": "Logo",
-          "id": "fwc26-849"
+          "id": "fwc26-849",
+          "type": "foil"
         },
         {
           "number": "UZB 2",
@@ -4613,7 +4751,9 @@
           "name": "Abbosbek Fayzullaev",
           "id": "fwc26-868"
         }
-      ]
+      ],
+      "startPage": 94,
+      "endPage": 95
     },
     {
       "id": "colombia",
@@ -4622,7 +4762,8 @@
         {
           "number": "COL 1",
           "name": "Logo",
-          "id": "fwc26-869"
+          "id": "fwc26-869",
+          "type": "foil"
         },
         {
           "number": "COL 2",
@@ -4719,7 +4860,9 @@
           "name": "Luis Díaz",
           "id": "fwc26-888"
         }
-      ]
+      ],
+      "startPage": 96,
+      "endPage": 97
     },
     {
       "id": "england",
@@ -4728,7 +4871,8 @@
         {
           "number": "ENG 1",
           "name": "Logo",
-          "id": "fwc26-889"
+          "id": "fwc26-889",
+          "type": "foil"
         },
         {
           "number": "ENG 2",
@@ -4825,7 +4969,9 @@
           "name": "Ollie Watkins",
           "id": "fwc26-908"
         }
-      ]
+      ],
+      "startPage": 98,
+      "endPage": 99
     },
     {
       "id": "croatia",
@@ -4834,7 +4980,8 @@
         {
           "number": "CRO 1",
           "name": "Logo",
-          "id": "fwc26-909"
+          "id": "fwc26-909",
+          "type": "foil"
         },
         {
           "number": "CRO 2",
@@ -4931,7 +5078,9 @@
           "name": "Franjo Ivanović",
           "id": "fwc26-928"
         }
-      ]
+      ],
+      "startPage": 100,
+      "endPage": 101
     },
     {
       "id": "ghana",
@@ -4940,7 +5089,8 @@
         {
           "number": "GHA 1",
           "name": "Logo",
-          "id": "fwc26-929"
+          "id": "fwc26-929",
+          "type": "foil"
         },
         {
           "number": "GHA 2",
@@ -5037,7 +5187,9 @@
           "name": "Antoine Semenyo",
           "id": "fwc26-948"
         }
-      ]
+      ],
+      "startPage": 102,
+      "endPage": 103
     },
     {
       "id": "panama",
@@ -5046,7 +5198,8 @@
         {
           "number": "PAN 1",
           "name": "Logo",
-          "id": "fwc26-949"
+          "id": "fwc26-949",
+          "type": "foil"
         },
         {
           "number": "PAN 2",
@@ -5143,7 +5296,9 @@
           "name": "Alberto Quintero",
           "id": "fwc26-968"
         }
-      ]
+      ],
+      "startPage": 104,
+      "endPage": 105
     },
     {
       "id": "world-cup-history",
@@ -5152,59 +5307,72 @@
         {
           "number": "FWC 9",
           "name": "Italy 1934",
-          "id": "fwc26-969"
+          "id": "fwc26-969",
+          "type": "foil"
         },
         {
           "number": "FWC 10",
           "name": "Uruguay 1950",
-          "id": "fwc26-970"
+          "id": "fwc26-970",
+          "type": "foil"
         },
         {
           "number": "FWC 11",
           "name": "Germany FR 1954",
-          "id": "fwc26-971"
+          "id": "fwc26-971",
+          "type": "foil"
         },
         {
           "number": "FWC 12",
           "name": "Brazil 1962",
-          "id": "fwc26-972"
+          "id": "fwc26-972",
+          "type": "foil"
         },
         {
           "number": "FWC 13",
           "name": "Germany FR 1974",
-          "id": "fwc26-973"
+          "id": "fwc26-973",
+          "type": "foil"
         },
         {
           "number": "FWC 14",
           "name": "Argentina 1986",
-          "id": "fwc26-974"
+          "id": "fwc26-974",
+          "type": "foil"
         },
         {
           "number": "FWC 15",
           "name": "Brazil 1994",
-          "id": "fwc26-975"
+          "id": "fwc26-975",
+          "type": "foil"
         },
         {
           "number": "FWC 16",
           "name": "Brazil 2002",
-          "id": "fwc26-976"
+          "id": "fwc26-976",
+          "type": "foil"
         },
         {
           "number": "FWC 17",
           "name": "Italy 2006",
-          "id": "fwc26-977"
+          "id": "fwc26-977",
+          "type": "foil"
         },
         {
           "number": "FWC 18",
           "name": "Germany 2014",
-          "id": "fwc26-978"
+          "id": "fwc26-978",
+          "type": "foil"
         },
         {
           "number": "FWC 19",
           "name": "Argentina 2022",
-          "id": "fwc26-979"
+          "id": "fwc26-979",
+          "type": "foil"
         }
-      ]
+      ],
+      "startPage": 106,
+      "endPage": 109
     },
     {
       "id": "champions-cards",
@@ -5270,7 +5438,9 @@
           "name": "Antonee Robinson",
           "id": "fwc26-991"
         }
-      ]
+      ],
+      "startPage": 112,
+      "endPage": 113
     }
   ],
   "collectableType": "sticker"
