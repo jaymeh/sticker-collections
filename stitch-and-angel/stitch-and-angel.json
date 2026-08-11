@@ -8,7 +8,7 @@
   "sections": [
     {
       "id": "always-together",
-      "name": "Stitch & Angel: Always Together",
+      "name": "Always Together",
       "startPage": 1,
       "endPage": 1,
       "collectables": [
@@ -24,7 +24,7 @@
     },
     {
       "id": "stitch",
-      "name": "Stitch",
+      "name": "Alien Buddy",
       "startPage": 2,
       "endPage": 2,
       "collectables": [
@@ -834,7 +834,7 @@
     },
     {
       "id": "always-be-happy",
-      "name": "Stitch & Angel: Always Be Happy!",
+      "name": "Always Be Happy!",
       "startPage": 32,
       "endPage": 32,
       "collectables": [
