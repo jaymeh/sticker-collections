@@ -1,0 +1,871 @@
+{
+  "id": "retro-arcade-heroes",
+  "name": "Retro Arcade Heroes",
+  "publisher": "Starlight Editions",
+  "year": 2026,
+  "description": "Insert coin — Retro Arcade Heroes celebrates the golden age of pixel-perfect gaming.",
+  "coverColor": "#1F1F3B",
+  "coverImage": "retro-arcade-heroes.jpg",
+  "sections": [
+    {
+      "id": "coin-drop",
+      "name": "Coin Drop",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "001",
+          "id": "rah-001"
+        },
+        {
+          "number": "002",
+          "id": "rah-002"
+        },
+        {
+          "number": "003",
+          "id": "rah-003"
+        },
+        {
+          "number": "004",
+          "id": "rah-004"
+        },
+        {
+          "number": "005",
+          "id": "rah-005"
+        },
+        {
+          "number": "006",
+          "id": "rah-006"
+        },
+        {
+          "number": "007",
+          "id": "rah-007",
+          "type": "figured"
+        },
+        {
+          "number": "008",
+          "id": "rah-008"
+        },
+        {
+          "number": "009",
+          "id": "rah-009"
+        },
+        {
+          "number": "010",
+          "id": "rah-010"
+        },
+        {
+          "number": "011",
+          "id": "rah-011"
+        },
+        {
+          "number": "012",
+          "id": "rah-012"
+        },
+        {
+          "number": "013",
+          "id": "rah-013"
+        },
+        {
+          "number": "014",
+          "id": "rah-014",
+          "type": "rainbow"
+        },
+        {
+          "number": "015",
+          "id": "rah-015"
+        },
+        {
+          "number": "016",
+          "id": "rah-016"
+        },
+        {
+          "number": "017",
+          "id": "rah-017"
+        },
+        {
+          "number": "018",
+          "id": "rah-018"
+        },
+        {
+          "number": "019",
+          "id": "rah-019"
+        },
+        {
+          "number": "020",
+          "id": "rah-020"
+        },
+        {
+          "number": "021",
+          "id": "rah-021",
+          "type": "foil"
+        },
+        {
+          "number": "022",
+          "id": "rah-022"
+        },
+        {
+          "number": "023",
+          "id": "rah-023"
+        },
+        {
+          "number": "024",
+          "id": "rah-024"
+        }
+      ]
+    },
+    {
+      "id": "pixel-pals",
+      "name": "Pixel Pals",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "025",
+          "id": "rah-025"
+        },
+        {
+          "number": "026",
+          "id": "rah-026"
+        },
+        {
+          "number": "027",
+          "id": "rah-027"
+        },
+        {
+          "number": "028",
+          "id": "rah-028",
+          "type": "figured"
+        },
+        {
+          "number": "029",
+          "id": "rah-029"
+        },
+        {
+          "number": "030",
+          "id": "rah-030"
+        },
+        {
+          "number": "031",
+          "id": "rah-031"
+        },
+        {
+          "number": "032",
+          "id": "rah-032"
+        },
+        {
+          "number": "033",
+          "id": "rah-033"
+        },
+        {
+          "number": "034",
+          "id": "rah-034"
+        },
+        {
+          "number": "035",
+          "id": "rah-035",
+          "type": "rainbow"
+        },
+        {
+          "number": "036",
+          "id": "rah-036"
+        },
+        {
+          "number": "037",
+          "id": "rah-037"
+        },
+        {
+          "number": "038",
+          "id": "rah-038"
+        },
+        {
+          "number": "039",
+          "id": "rah-039"
+        },
+        {
+          "number": "040",
+          "id": "rah-040"
+        },
+        {
+          "number": "041",
+          "id": "rah-041"
+        },
+        {
+          "number": "042",
+          "id": "rah-042",
+          "type": "foil"
+        },
+        {
+          "number": "043",
+          "id": "rah-043"
+        },
+        {
+          "number": "044",
+          "id": "rah-044"
+        },
+        {
+          "number": "045",
+          "id": "rah-045"
+        },
+        {
+          "number": "046",
+          "id": "rah-046"
+        },
+        {
+          "number": "047",
+          "id": "rah-047"
+        },
+        {
+          "number": "048",
+          "id": "rah-048"
+        }
+      ]
+    },
+    {
+      "id": "high-scores",
+      "name": "High Scores",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "049",
+          "id": "rah-049",
+          "type": "figured"
+        },
+        {
+          "number": "050",
+          "id": "rah-050"
+        },
+        {
+          "number": "051",
+          "id": "rah-051"
+        },
+        {
+          "number": "052",
+          "id": "rah-052"
+        },
+        {
+          "number": "053",
+          "id": "rah-053"
+        },
+        {
+          "number": "054",
+          "id": "rah-054"
+        },
+        {
+          "number": "055",
+          "id": "rah-055"
+        },
+        {
+          "number": "056",
+          "id": "rah-056",
+          "type": "rainbow"
+        },
+        {
+          "number": "057",
+          "id": "rah-057"
+        },
+        {
+          "number": "058",
+          "id": "rah-058"
+        },
+        {
+          "number": "059",
+          "id": "rah-059"
+        },
+        {
+          "number": "060",
+          "id": "rah-060"
+        },
+        {
+          "number": "061",
+          "id": "rah-061"
+        },
+        {
+          "number": "062",
+          "id": "rah-062"
+        },
+        {
+          "number": "063",
+          "id": "rah-063",
+          "type": "foil"
+        },
+        {
+          "number": "064",
+          "id": "rah-064"
+        },
+        {
+          "number": "065",
+          "id": "rah-065"
+        },
+        {
+          "number": "066",
+          "id": "rah-066"
+        },
+        {
+          "number": "067",
+          "id": "rah-067"
+        },
+        {
+          "number": "068",
+          "id": "rah-068"
+        },
+        {
+          "number": "069",
+          "id": "rah-069"
+        },
+        {
+          "number": "070",
+          "id": "rah-070",
+          "type": "figured"
+        },
+        {
+          "number": "071",
+          "id": "rah-071"
+        },
+        {
+          "number": "072",
+          "id": "rah-072"
+        }
+      ]
+    },
+    {
+      "id": "level-one",
+      "name": "Level One",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "073",
+          "id": "rah-073"
+        },
+        {
+          "number": "074",
+          "id": "rah-074"
+        },
+        {
+          "number": "075",
+          "id": "rah-075"
+        },
+        {
+          "number": "076",
+          "id": "rah-076"
+        },
+        {
+          "number": "077",
+          "id": "rah-077",
+          "type": "rainbow"
+        },
+        {
+          "number": "078",
+          "id": "rah-078"
+        },
+        {
+          "number": "079",
+          "id": "rah-079"
+        },
+        {
+          "number": "080",
+          "id": "rah-080"
+        },
+        {
+          "number": "081",
+          "id": "rah-081"
+        },
+        {
+          "number": "082",
+          "id": "rah-082"
+        },
+        {
+          "number": "083",
+          "id": "rah-083"
+        },
+        {
+          "number": "084",
+          "id": "rah-084",
+          "type": "foil"
+        },
+        {
+          "number": "085",
+          "id": "rah-085"
+        },
+        {
+          "number": "086",
+          "id": "rah-086"
+        },
+        {
+          "number": "087",
+          "id": "rah-087"
+        },
+        {
+          "number": "088",
+          "id": "rah-088"
+        },
+        {
+          "number": "089",
+          "id": "rah-089"
+        },
+        {
+          "number": "090",
+          "id": "rah-090"
+        },
+        {
+          "number": "091",
+          "id": "rah-091",
+          "type": "figured"
+        },
+        {
+          "number": "092",
+          "id": "rah-092"
+        },
+        {
+          "number": "093",
+          "id": "rah-093"
+        },
+        {
+          "number": "094",
+          "id": "rah-094"
+        },
+        {
+          "number": "095",
+          "id": "rah-095"
+        },
+        {
+          "number": "096",
+          "id": "rah-096"
+        }
+      ]
+    },
+    {
+      "id": "boss-battle",
+      "name": "Boss Battle",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "097",
+          "id": "rah-097"
+        },
+        {
+          "number": "098",
+          "id": "rah-098",
+          "type": "rainbow"
+        },
+        {
+          "number": "099",
+          "id": "rah-099"
+        },
+        {
+          "number": "100",
+          "id": "rah-100"
+        },
+        {
+          "number": "101",
+          "id": "rah-101"
+        },
+        {
+          "number": "102",
+          "id": "rah-102"
+        },
+        {
+          "number": "103",
+          "id": "rah-103"
+        },
+        {
+          "number": "104",
+          "id": "rah-104"
+        },
+        {
+          "number": "105",
+          "id": "rah-105",
+          "type": "foil"
+        },
+        {
+          "number": "106",
+          "id": "rah-106"
+        },
+        {
+          "number": "107",
+          "id": "rah-107"
+        },
+        {
+          "number": "108",
+          "id": "rah-108"
+        },
+        {
+          "number": "109",
+          "id": "rah-109"
+        },
+        {
+          "number": "110",
+          "id": "rah-110"
+        },
+        {
+          "number": "111",
+          "id": "rah-111"
+        },
+        {
+          "number": "112",
+          "id": "rah-112",
+          "type": "figured"
+        },
+        {
+          "number": "113",
+          "id": "rah-113"
+        },
+        {
+          "number": "114",
+          "id": "rah-114"
+        },
+        {
+          "number": "115",
+          "id": "rah-115"
+        },
+        {
+          "number": "116",
+          "id": "rah-116"
+        },
+        {
+          "number": "117",
+          "id": "rah-117"
+        },
+        {
+          "number": "118",
+          "id": "rah-118"
+        },
+        {
+          "number": "119",
+          "id": "rah-119",
+          "type": "rainbow"
+        },
+        {
+          "number": "120",
+          "id": "rah-120"
+        }
+      ]
+    },
+    {
+      "id": "extra-life",
+      "name": "Extra Life",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "121",
+          "id": "rah-121"
+        },
+        {
+          "number": "122",
+          "id": "rah-122"
+        },
+        {
+          "number": "123",
+          "id": "rah-123"
+        },
+        {
+          "number": "124",
+          "id": "rah-124"
+        },
+        {
+          "number": "125",
+          "id": "rah-125"
+        },
+        {
+          "number": "126",
+          "id": "rah-126",
+          "type": "foil"
+        },
+        {
+          "number": "127",
+          "id": "rah-127"
+        },
+        {
+          "number": "128",
+          "id": "rah-128"
+        },
+        {
+          "number": "129",
+          "id": "rah-129"
+        },
+        {
+          "number": "130",
+          "id": "rah-130"
+        },
+        {
+          "number": "131",
+          "id": "rah-131"
+        },
+        {
+          "number": "132",
+          "id": "rah-132"
+        },
+        {
+          "number": "133",
+          "id": "rah-133",
+          "type": "figured"
+        },
+        {
+          "number": "134",
+          "id": "rah-134"
+        },
+        {
+          "number": "135",
+          "id": "rah-135"
+        },
+        {
+          "number": "136",
+          "id": "rah-136"
+        },
+        {
+          "number": "137",
+          "id": "rah-137"
+        },
+        {
+          "number": "138",
+          "id": "rah-138"
+        },
+        {
+          "number": "139",
+          "id": "rah-139"
+        },
+        {
+          "number": "140",
+          "id": "rah-140",
+          "type": "rainbow"
+        },
+        {
+          "number": "141",
+          "id": "rah-141"
+        },
+        {
+          "number": "142",
+          "id": "rah-142"
+        },
+        {
+          "number": "143",
+          "id": "rah-143"
+        },
+        {
+          "number": "144",
+          "id": "rah-144"
+        }
+      ]
+    },
+    {
+      "id": "game-over",
+      "name": "Game Over?",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "145",
+          "id": "rah-145"
+        },
+        {
+          "number": "146",
+          "id": "rah-146"
+        },
+        {
+          "number": "147",
+          "id": "rah-147",
+          "type": "foil"
+        },
+        {
+          "number": "148",
+          "id": "rah-148"
+        },
+        {
+          "number": "149",
+          "id": "rah-149"
+        },
+        {
+          "number": "150",
+          "id": "rah-150"
+        },
+        {
+          "number": "151",
+          "id": "rah-151"
+        },
+        {
+          "number": "152",
+          "id": "rah-152"
+        },
+        {
+          "number": "153",
+          "id": "rah-153"
+        },
+        {
+          "number": "154",
+          "id": "rah-154",
+          "type": "figured"
+        },
+        {
+          "number": "155",
+          "id": "rah-155"
+        },
+        {
+          "number": "156",
+          "id": "rah-156"
+        },
+        {
+          "number": "157",
+          "id": "rah-157"
+        },
+        {
+          "number": "158",
+          "id": "rah-158"
+        },
+        {
+          "number": "159",
+          "id": "rah-159"
+        },
+        {
+          "number": "160",
+          "id": "rah-160"
+        },
+        {
+          "number": "161",
+          "id": "rah-161",
+          "type": "rainbow"
+        },
+        {
+          "number": "162",
+          "id": "rah-162"
+        },
+        {
+          "number": "163",
+          "id": "rah-163"
+        },
+        {
+          "number": "164",
+          "id": "rah-164"
+        },
+        {
+          "number": "165",
+          "id": "rah-165"
+        },
+        {
+          "number": "166",
+          "id": "rah-166"
+        },
+        {
+          "number": "167",
+          "id": "rah-167"
+        },
+        {
+          "number": "168",
+          "id": "rah-168",
+          "type": "foil"
+        }
+      ]
+    },
+    {
+      "id": "hall-of-fame",
+      "name": "Hall of Fame",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "169",
+          "id": "rah-169"
+        },
+        {
+          "number": "170",
+          "id": "rah-170"
+        },
+        {
+          "number": "171",
+          "id": "rah-171"
+        },
+        {
+          "number": "172",
+          "id": "rah-172"
+        },
+        {
+          "number": "173",
+          "id": "rah-173"
+        },
+        {
+          "number": "174",
+          "id": "rah-174"
+        },
+        {
+          "number": "175",
+          "id": "rah-175",
+          "type": "figured"
+        },
+        {
+          "number": "176",
+          "id": "rah-176"
+        },
+        {
+          "number": "177",
+          "id": "rah-177"
+        },
+        {
+          "number": "178",
+          "id": "rah-178"
+        },
+        {
+          "number": "179",
+          "id": "rah-179"
+        },
+        {
+          "number": "180",
+          "id": "rah-180"
+        },
+        {
+          "number": "181",
+          "id": "rah-181"
+        },
+        {
+          "number": "182",
+          "id": "rah-182",
+          "type": "rainbow"
+        },
+        {
+          "number": "183",
+          "id": "rah-183"
+        },
+        {
+          "number": "184",
+          "id": "rah-184"
+        },
+        {
+          "number": "185",
+          "id": "rah-185"
+        },
+        {
+          "number": "186",
+          "id": "rah-186"
+        },
+        {
+          "number": "187",
+          "id": "rah-187"
+        },
+        {
+          "number": "188",
+          "id": "rah-188"
+        },
+        {
+          "number": "189",
+          "id": "rah-189",
+          "type": "foil"
+        },
+        {
+          "number": "190",
+          "id": "rah-190"
+        },
+        {
+          "number": "191",
+          "id": "rah-191"
+        },
+        {
+          "number": "192",
+          "id": "rah-192"
+        }
+      ]
+    }
+  ],
+  "collectableType": "sticker"
+}

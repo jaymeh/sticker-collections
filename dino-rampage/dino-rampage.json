@@ -1,0 +1,871 @@
+{
+  "id": "dino-rampage",
+  "name": "Dino Rampage",
+  "publisher": "Starlight Editions",
+  "year": 2026,
+  "description": "Stomp back in time with Dino Rampage — giants, hunters and tiny terrors of every era.",
+  "coverColor": "#4A3B1F",
+  "coverImage": "dino-rampage.jpg",
+  "sections": [
+    {
+      "id": "triassic-dawn",
+      "name": "Triassic Dawn",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "001",
+          "id": "dr-001"
+        },
+        {
+          "number": "002",
+          "id": "dr-002"
+        },
+        {
+          "number": "003",
+          "id": "dr-003"
+        },
+        {
+          "number": "004",
+          "id": "dr-004"
+        },
+        {
+          "number": "005",
+          "id": "dr-005"
+        },
+        {
+          "number": "006",
+          "id": "dr-006"
+        },
+        {
+          "number": "007",
+          "id": "dr-007",
+          "type": "figured"
+        },
+        {
+          "number": "008",
+          "id": "dr-008"
+        },
+        {
+          "number": "009",
+          "id": "dr-009"
+        },
+        {
+          "number": "010",
+          "id": "dr-010"
+        },
+        {
+          "number": "011",
+          "id": "dr-011"
+        },
+        {
+          "number": "012",
+          "id": "dr-012"
+        },
+        {
+          "number": "013",
+          "id": "dr-013"
+        },
+        {
+          "number": "014",
+          "id": "dr-014",
+          "type": "rainbow"
+        },
+        {
+          "number": "015",
+          "id": "dr-015"
+        },
+        {
+          "number": "016",
+          "id": "dr-016"
+        },
+        {
+          "number": "017",
+          "id": "dr-017"
+        },
+        {
+          "number": "018",
+          "id": "dr-018"
+        },
+        {
+          "number": "019",
+          "id": "dr-019"
+        },
+        {
+          "number": "020",
+          "id": "dr-020"
+        },
+        {
+          "number": "021",
+          "id": "dr-021",
+          "type": "foil"
+        },
+        {
+          "number": "022",
+          "id": "dr-022"
+        },
+        {
+          "number": "023",
+          "id": "dr-023"
+        },
+        {
+          "number": "024",
+          "id": "dr-024"
+        }
+      ]
+    },
+    {
+      "id": "jurassic-giants",
+      "name": "Jurassic Giants",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "025",
+          "id": "dr-025"
+        },
+        {
+          "number": "026",
+          "id": "dr-026"
+        },
+        {
+          "number": "027",
+          "id": "dr-027"
+        },
+        {
+          "number": "028",
+          "id": "dr-028",
+          "type": "figured"
+        },
+        {
+          "number": "029",
+          "id": "dr-029"
+        },
+        {
+          "number": "030",
+          "id": "dr-030"
+        },
+        {
+          "number": "031",
+          "id": "dr-031"
+        },
+        {
+          "number": "032",
+          "id": "dr-032"
+        },
+        {
+          "number": "033",
+          "id": "dr-033"
+        },
+        {
+          "number": "034",
+          "id": "dr-034"
+        },
+        {
+          "number": "035",
+          "id": "dr-035",
+          "type": "rainbow"
+        },
+        {
+          "number": "036",
+          "id": "dr-036"
+        },
+        {
+          "number": "037",
+          "id": "dr-037"
+        },
+        {
+          "number": "038",
+          "id": "dr-038"
+        },
+        {
+          "number": "039",
+          "id": "dr-039"
+        },
+        {
+          "number": "040",
+          "id": "dr-040"
+        },
+        {
+          "number": "041",
+          "id": "dr-041"
+        },
+        {
+          "number": "042",
+          "id": "dr-042",
+          "type": "foil"
+        },
+        {
+          "number": "043",
+          "id": "dr-043"
+        },
+        {
+          "number": "044",
+          "id": "dr-044"
+        },
+        {
+          "number": "045",
+          "id": "dr-045"
+        },
+        {
+          "number": "046",
+          "id": "dr-046"
+        },
+        {
+          "number": "047",
+          "id": "dr-047"
+        },
+        {
+          "number": "048",
+          "id": "dr-048"
+        }
+      ]
+    },
+    {
+      "id": "cretaceous-kings",
+      "name": "Cretaceous Kings",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "049",
+          "id": "dr-049",
+          "type": "figured"
+        },
+        {
+          "number": "050",
+          "id": "dr-050"
+        },
+        {
+          "number": "051",
+          "id": "dr-051"
+        },
+        {
+          "number": "052",
+          "id": "dr-052"
+        },
+        {
+          "number": "053",
+          "id": "dr-053"
+        },
+        {
+          "number": "054",
+          "id": "dr-054"
+        },
+        {
+          "number": "055",
+          "id": "dr-055"
+        },
+        {
+          "number": "056",
+          "id": "dr-056",
+          "type": "rainbow"
+        },
+        {
+          "number": "057",
+          "id": "dr-057"
+        },
+        {
+          "number": "058",
+          "id": "dr-058"
+        },
+        {
+          "number": "059",
+          "id": "dr-059"
+        },
+        {
+          "number": "060",
+          "id": "dr-060"
+        },
+        {
+          "number": "061",
+          "id": "dr-061"
+        },
+        {
+          "number": "062",
+          "id": "dr-062"
+        },
+        {
+          "number": "063",
+          "id": "dr-063",
+          "type": "foil"
+        },
+        {
+          "number": "064",
+          "id": "dr-064"
+        },
+        {
+          "number": "065",
+          "id": "dr-065"
+        },
+        {
+          "number": "066",
+          "id": "dr-066"
+        },
+        {
+          "number": "067",
+          "id": "dr-067"
+        },
+        {
+          "number": "068",
+          "id": "dr-068"
+        },
+        {
+          "number": "069",
+          "id": "dr-069"
+        },
+        {
+          "number": "070",
+          "id": "dr-070",
+          "type": "figured"
+        },
+        {
+          "number": "071",
+          "id": "dr-071"
+        },
+        {
+          "number": "072",
+          "id": "dr-072"
+        }
+      ]
+    },
+    {
+      "id": "sky-hunters",
+      "name": "Sky Hunters",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "073",
+          "id": "dr-073"
+        },
+        {
+          "number": "074",
+          "id": "dr-074"
+        },
+        {
+          "number": "075",
+          "id": "dr-075"
+        },
+        {
+          "number": "076",
+          "id": "dr-076"
+        },
+        {
+          "number": "077",
+          "id": "dr-077",
+          "type": "rainbow"
+        },
+        {
+          "number": "078",
+          "id": "dr-078"
+        },
+        {
+          "number": "079",
+          "id": "dr-079"
+        },
+        {
+          "number": "080",
+          "id": "dr-080"
+        },
+        {
+          "number": "081",
+          "id": "dr-081"
+        },
+        {
+          "number": "082",
+          "id": "dr-082"
+        },
+        {
+          "number": "083",
+          "id": "dr-083"
+        },
+        {
+          "number": "084",
+          "id": "dr-084",
+          "type": "foil"
+        },
+        {
+          "number": "085",
+          "id": "dr-085"
+        },
+        {
+          "number": "086",
+          "id": "dr-086"
+        },
+        {
+          "number": "087",
+          "id": "dr-087"
+        },
+        {
+          "number": "088",
+          "id": "dr-088"
+        },
+        {
+          "number": "089",
+          "id": "dr-089"
+        },
+        {
+          "number": "090",
+          "id": "dr-090"
+        },
+        {
+          "number": "091",
+          "id": "dr-091",
+          "type": "figured"
+        },
+        {
+          "number": "092",
+          "id": "dr-092"
+        },
+        {
+          "number": "093",
+          "id": "dr-093"
+        },
+        {
+          "number": "094",
+          "id": "dr-094"
+        },
+        {
+          "number": "095",
+          "id": "dr-095"
+        },
+        {
+          "number": "096",
+          "id": "dr-096"
+        }
+      ]
+    },
+    {
+      "id": "sea-monsters",
+      "name": "Sea Monsters",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "097",
+          "id": "dr-097"
+        },
+        {
+          "number": "098",
+          "id": "dr-098",
+          "type": "rainbow"
+        },
+        {
+          "number": "099",
+          "id": "dr-099"
+        },
+        {
+          "number": "100",
+          "id": "dr-100"
+        },
+        {
+          "number": "101",
+          "id": "dr-101"
+        },
+        {
+          "number": "102",
+          "id": "dr-102"
+        },
+        {
+          "number": "103",
+          "id": "dr-103"
+        },
+        {
+          "number": "104",
+          "id": "dr-104"
+        },
+        {
+          "number": "105",
+          "id": "dr-105",
+          "type": "foil"
+        },
+        {
+          "number": "106",
+          "id": "dr-106"
+        },
+        {
+          "number": "107",
+          "id": "dr-107"
+        },
+        {
+          "number": "108",
+          "id": "dr-108"
+        },
+        {
+          "number": "109",
+          "id": "dr-109"
+        },
+        {
+          "number": "110",
+          "id": "dr-110"
+        },
+        {
+          "number": "111",
+          "id": "dr-111"
+        },
+        {
+          "number": "112",
+          "id": "dr-112",
+          "type": "figured"
+        },
+        {
+          "number": "113",
+          "id": "dr-113"
+        },
+        {
+          "number": "114",
+          "id": "dr-114"
+        },
+        {
+          "number": "115",
+          "id": "dr-115"
+        },
+        {
+          "number": "116",
+          "id": "dr-116"
+        },
+        {
+          "number": "117",
+          "id": "dr-117"
+        },
+        {
+          "number": "118",
+          "id": "dr-118"
+        },
+        {
+          "number": "119",
+          "id": "dr-119",
+          "type": "rainbow"
+        },
+        {
+          "number": "120",
+          "id": "dr-120"
+        }
+      ]
+    },
+    {
+      "id": "tiny-terrors",
+      "name": "Tiny Terrors",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "121",
+          "id": "dr-121"
+        },
+        {
+          "number": "122",
+          "id": "dr-122"
+        },
+        {
+          "number": "123",
+          "id": "dr-123"
+        },
+        {
+          "number": "124",
+          "id": "dr-124"
+        },
+        {
+          "number": "125",
+          "id": "dr-125"
+        },
+        {
+          "number": "126",
+          "id": "dr-126",
+          "type": "foil"
+        },
+        {
+          "number": "127",
+          "id": "dr-127"
+        },
+        {
+          "number": "128",
+          "id": "dr-128"
+        },
+        {
+          "number": "129",
+          "id": "dr-129"
+        },
+        {
+          "number": "130",
+          "id": "dr-130"
+        },
+        {
+          "number": "131",
+          "id": "dr-131"
+        },
+        {
+          "number": "132",
+          "id": "dr-132"
+        },
+        {
+          "number": "133",
+          "id": "dr-133",
+          "type": "figured"
+        },
+        {
+          "number": "134",
+          "id": "dr-134"
+        },
+        {
+          "number": "135",
+          "id": "dr-135"
+        },
+        {
+          "number": "136",
+          "id": "dr-136"
+        },
+        {
+          "number": "137",
+          "id": "dr-137"
+        },
+        {
+          "number": "138",
+          "id": "dr-138"
+        },
+        {
+          "number": "139",
+          "id": "dr-139"
+        },
+        {
+          "number": "140",
+          "id": "dr-140",
+          "type": "rainbow"
+        },
+        {
+          "number": "141",
+          "id": "dr-141"
+        },
+        {
+          "number": "142",
+          "id": "dr-142"
+        },
+        {
+          "number": "143",
+          "id": "dr-143"
+        },
+        {
+          "number": "144",
+          "id": "dr-144"
+        }
+      ]
+    },
+    {
+      "id": "ice-age",
+      "name": "Ice Age",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "145",
+          "id": "dr-145"
+        },
+        {
+          "number": "146",
+          "id": "dr-146"
+        },
+        {
+          "number": "147",
+          "id": "dr-147",
+          "type": "foil"
+        },
+        {
+          "number": "148",
+          "id": "dr-148"
+        },
+        {
+          "number": "149",
+          "id": "dr-149"
+        },
+        {
+          "number": "150",
+          "id": "dr-150"
+        },
+        {
+          "number": "151",
+          "id": "dr-151"
+        },
+        {
+          "number": "152",
+          "id": "dr-152"
+        },
+        {
+          "number": "153",
+          "id": "dr-153"
+        },
+        {
+          "number": "154",
+          "id": "dr-154",
+          "type": "figured"
+        },
+        {
+          "number": "155",
+          "id": "dr-155"
+        },
+        {
+          "number": "156",
+          "id": "dr-156"
+        },
+        {
+          "number": "157",
+          "id": "dr-157"
+        },
+        {
+          "number": "158",
+          "id": "dr-158"
+        },
+        {
+          "number": "159",
+          "id": "dr-159"
+        },
+        {
+          "number": "160",
+          "id": "dr-160"
+        },
+        {
+          "number": "161",
+          "id": "dr-161",
+          "type": "rainbow"
+        },
+        {
+          "number": "162",
+          "id": "dr-162"
+        },
+        {
+          "number": "163",
+          "id": "dr-163"
+        },
+        {
+          "number": "164",
+          "id": "dr-164"
+        },
+        {
+          "number": "165",
+          "id": "dr-165"
+        },
+        {
+          "number": "166",
+          "id": "dr-166"
+        },
+        {
+          "number": "167",
+          "id": "dr-167"
+        },
+        {
+          "number": "168",
+          "id": "dr-168",
+          "type": "foil"
+        }
+      ]
+    },
+    {
+      "id": "fossils",
+      "name": "Fossils",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "169",
+          "id": "dr-169"
+        },
+        {
+          "number": "170",
+          "id": "dr-170"
+        },
+        {
+          "number": "171",
+          "id": "dr-171"
+        },
+        {
+          "number": "172",
+          "id": "dr-172"
+        },
+        {
+          "number": "173",
+          "id": "dr-173"
+        },
+        {
+          "number": "174",
+          "id": "dr-174"
+        },
+        {
+          "number": "175",
+          "id": "dr-175",
+          "type": "figured"
+        },
+        {
+          "number": "176",
+          "id": "dr-176"
+        },
+        {
+          "number": "177",
+          "id": "dr-177"
+        },
+        {
+          "number": "178",
+          "id": "dr-178"
+        },
+        {
+          "number": "179",
+          "id": "dr-179"
+        },
+        {
+          "number": "180",
+          "id": "dr-180"
+        },
+        {
+          "number": "181",
+          "id": "dr-181"
+        },
+        {
+          "number": "182",
+          "id": "dr-182",
+          "type": "rainbow"
+        },
+        {
+          "number": "183",
+          "id": "dr-183"
+        },
+        {
+          "number": "184",
+          "id": "dr-184"
+        },
+        {
+          "number": "185",
+          "id": "dr-185"
+        },
+        {
+          "number": "186",
+          "id": "dr-186"
+        },
+        {
+          "number": "187",
+          "id": "dr-187"
+        },
+        {
+          "number": "188",
+          "id": "dr-188"
+        },
+        {
+          "number": "189",
+          "id": "dr-189",
+          "type": "foil"
+        },
+        {
+          "number": "190",
+          "id": "dr-190"
+        },
+        {
+          "number": "191",
+          "id": "dr-191"
+        },
+        {
+          "number": "192",
+          "id": "dr-192"
+        }
+      ]
+    }
+  ],
+  "collectableType": "sticker"
+}

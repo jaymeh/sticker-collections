@@ -952,5 +952,6 @@
       ]
     }
   ],
-  "collectableType": "sticker"
+  "collectableType": "sticker",
+  "hidden": true
 }
