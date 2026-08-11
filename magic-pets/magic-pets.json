@@ -1,0 +1,764 @@
+{
+  "id": "magic-pets",
+  "name": "Magic Pets",
+  "publisher": "Starlight Editions",
+  "year": 2026,
+  "description": "Hatch, train and collect Magic Pets \u2014 enchanted companions from every corner of the realm.",
+  "coverColor": "#3B1F4A",
+  "coverImage": "magic-pets.jpg",
+  "sections": [
+    {
+      "id": "eggs-and-hatchlings",
+      "name": "Eggs & Hatchlings",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "001",
+          "id": "magic-pets-001"
+        },
+        {
+          "number": "002",
+          "id": "magic-pets-002"
+        },
+        {
+          "number": "003",
+          "id": "magic-pets-003"
+        },
+        {
+          "number": "004",
+          "id": "magic-pets-004"
+        },
+        {
+          "number": "005",
+          "id": "magic-pets-005"
+        },
+        {
+          "number": "006",
+          "id": "magic-pets-006"
+        },
+        {
+          "number": "007",
+          "id": "magic-pets-007",
+          "type": "figured"
+        },
+        {
+          "number": "008",
+          "id": "magic-pets-008"
+        },
+        {
+          "number": "009",
+          "id": "magic-pets-009"
+        },
+        {
+          "number": "010",
+          "id": "magic-pets-010"
+        },
+        {
+          "number": "011",
+          "id": "magic-pets-011"
+        },
+        {
+          "number": "012",
+          "id": "magic-pets-012"
+        },
+        {
+          "number": "013",
+          "id": "magic-pets-013"
+        },
+        {
+          "number": "014",
+          "id": "magic-pets-014",
+          "type": "rainbow"
+        },
+        {
+          "number": "015",
+          "id": "magic-pets-015"
+        },
+        {
+          "number": "016",
+          "id": "magic-pets-016"
+        },
+        {
+          "number": "017",
+          "id": "magic-pets-017"
+        },
+        {
+          "number": "018",
+          "id": "magic-pets-018"
+        },
+        {
+          "number": "019",
+          "id": "magic-pets-019"
+        },
+        {
+          "number": "020",
+          "id": "magic-pets-020"
+        },
+        {
+          "number": "021",
+          "id": "magic-pets-021",
+          "type": "foil"
+        },
+        {
+          "number": "022",
+          "id": "magic-pets-022"
+        },
+        {
+          "number": "023",
+          "id": "magic-pets-023"
+        },
+        {
+          "number": "024",
+          "id": "magic-pets-024"
+        }
+      ]
+    },
+    {
+      "id": "forest-spirits",
+      "name": "Forest Spirits",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "025",
+          "id": "magic-pets-025"
+        },
+        {
+          "number": "026",
+          "id": "magic-pets-026"
+        },
+        {
+          "number": "027",
+          "id": "magic-pets-027"
+        },
+        {
+          "number": "028",
+          "id": "magic-pets-028",
+          "type": "figured"
+        },
+        {
+          "number": "029",
+          "id": "magic-pets-029"
+        },
+        {
+          "number": "030",
+          "id": "magic-pets-030"
+        },
+        {
+          "number": "031",
+          "id": "magic-pets-031"
+        },
+        {
+          "number": "032",
+          "id": "magic-pets-032"
+        },
+        {
+          "number": "033",
+          "id": "magic-pets-033"
+        },
+        {
+          "number": "034",
+          "id": "magic-pets-034"
+        },
+        {
+          "number": "035",
+          "id": "magic-pets-035",
+          "type": "rainbow"
+        },
+        {
+          "number": "036",
+          "id": "magic-pets-036"
+        },
+        {
+          "number": "037",
+          "id": "magic-pets-037"
+        },
+        {
+          "number": "038",
+          "id": "magic-pets-038"
+        },
+        {
+          "number": "039",
+          "id": "magic-pets-039"
+        },
+        {
+          "number": "040",
+          "id": "magic-pets-040"
+        },
+        {
+          "number": "041",
+          "id": "magic-pets-041"
+        },
+        {
+          "number": "042",
+          "id": "magic-pets-042",
+          "type": "foil"
+        },
+        {
+          "number": "043",
+          "id": "magic-pets-043"
+        },
+        {
+          "number": "044",
+          "id": "magic-pets-044"
+        },
+        {
+          "number": "045",
+          "id": "magic-pets-045"
+        },
+        {
+          "number": "046",
+          "id": "magic-pets-046"
+        },
+        {
+          "number": "047",
+          "id": "magic-pets-047"
+        },
+        {
+          "number": "048",
+          "id": "magic-pets-048"
+        }
+      ]
+    },
+    {
+      "id": "sky-guardians",
+      "name": "Sky Guardians",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "049",
+          "id": "magic-pets-049",
+          "type": "figured"
+        },
+        {
+          "number": "050",
+          "id": "magic-pets-050"
+        },
+        {
+          "number": "051",
+          "id": "magic-pets-051"
+        },
+        {
+          "number": "052",
+          "id": "magic-pets-052"
+        },
+        {
+          "number": "053",
+          "id": "magic-pets-053"
+        },
+        {
+          "number": "054",
+          "id": "magic-pets-054"
+        },
+        {
+          "number": "055",
+          "id": "magic-pets-055"
+        },
+        {
+          "number": "056",
+          "id": "magic-pets-056",
+          "type": "rainbow"
+        },
+        {
+          "number": "057",
+          "id": "magic-pets-057"
+        },
+        {
+          "number": "058",
+          "id": "magic-pets-058"
+        },
+        {
+          "number": "059",
+          "id": "magic-pets-059"
+        },
+        {
+          "number": "060",
+          "id": "magic-pets-060"
+        },
+        {
+          "number": "061",
+          "id": "magic-pets-061"
+        },
+        {
+          "number": "062",
+          "id": "magic-pets-062"
+        },
+        {
+          "number": "063",
+          "id": "magic-pets-063",
+          "type": "foil"
+        },
+        {
+          "number": "064",
+          "id": "magic-pets-064"
+        },
+        {
+          "number": "065",
+          "id": "magic-pets-065"
+        },
+        {
+          "number": "066",
+          "id": "magic-pets-066"
+        },
+        {
+          "number": "067",
+          "id": "magic-pets-067"
+        },
+        {
+          "number": "068",
+          "id": "magic-pets-068"
+        },
+        {
+          "number": "069",
+          "id": "magic-pets-069"
+        },
+        {
+          "number": "070",
+          "id": "magic-pets-070",
+          "type": "figured"
+        },
+        {
+          "number": "071",
+          "id": "magic-pets-071"
+        },
+        {
+          "number": "072",
+          "id": "magic-pets-072"
+        }
+      ]
+    },
+    {
+      "id": "crystal-caves",
+      "name": "Crystal Caves",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "073",
+          "id": "magic-pets-073"
+        },
+        {
+          "number": "074",
+          "id": "magic-pets-074"
+        },
+        {
+          "number": "075",
+          "id": "magic-pets-075"
+        },
+        {
+          "number": "076",
+          "id": "magic-pets-076"
+        },
+        {
+          "number": "077",
+          "id": "magic-pets-077",
+          "type": "rainbow"
+        },
+        {
+          "number": "078",
+          "id": "magic-pets-078"
+        },
+        {
+          "number": "079",
+          "id": "magic-pets-079"
+        },
+        {
+          "number": "080",
+          "id": "magic-pets-080"
+        },
+        {
+          "number": "081",
+          "id": "magic-pets-081"
+        },
+        {
+          "number": "082",
+          "id": "magic-pets-082"
+        },
+        {
+          "number": "083",
+          "id": "magic-pets-083"
+        },
+        {
+          "number": "084",
+          "id": "magic-pets-084",
+          "type": "foil"
+        },
+        {
+          "number": "085",
+          "id": "magic-pets-085"
+        },
+        {
+          "number": "086",
+          "id": "magic-pets-086"
+        },
+        {
+          "number": "087",
+          "id": "magic-pets-087"
+        },
+        {
+          "number": "088",
+          "id": "magic-pets-088"
+        },
+        {
+          "number": "089",
+          "id": "magic-pets-089"
+        },
+        {
+          "number": "090",
+          "id": "magic-pets-090"
+        },
+        {
+          "number": "091",
+          "id": "magic-pets-091",
+          "type": "figured"
+        },
+        {
+          "number": "092",
+          "id": "magic-pets-092"
+        },
+        {
+          "number": "093",
+          "id": "magic-pets-093"
+        },
+        {
+          "number": "094",
+          "id": "magic-pets-094"
+        },
+        {
+          "number": "095",
+          "id": "magic-pets-095"
+        },
+        {
+          "number": "096",
+          "id": "magic-pets-096"
+        }
+      ]
+    },
+    {
+      "id": "moonlight-beasts",
+      "name": "Moonlight Beasts",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "097",
+          "id": "magic-pets-097"
+        },
+        {
+          "number": "098",
+          "id": "magic-pets-098",
+          "type": "rainbow"
+        },
+        {
+          "number": "099",
+          "id": "magic-pets-099"
+        },
+        {
+          "number": "100",
+          "id": "magic-pets-100"
+        },
+        {
+          "number": "101",
+          "id": "magic-pets-101"
+        },
+        {
+          "number": "102",
+          "id": "magic-pets-102"
+        },
+        {
+          "number": "103",
+          "id": "magic-pets-103"
+        },
+        {
+          "number": "104",
+          "id": "magic-pets-104"
+        },
+        {
+          "number": "105",
+          "id": "magic-pets-105",
+          "type": "foil"
+        },
+        {
+          "number": "106",
+          "id": "magic-pets-106"
+        },
+        {
+          "number": "107",
+          "id": "magic-pets-107"
+        },
+        {
+          "number": "108",
+          "id": "magic-pets-108"
+        },
+        {
+          "number": "109",
+          "id": "magic-pets-109"
+        },
+        {
+          "number": "110",
+          "id": "magic-pets-110"
+        },
+        {
+          "number": "111",
+          "id": "magic-pets-111"
+        },
+        {
+          "number": "112",
+          "id": "magic-pets-112",
+          "type": "figured"
+        },
+        {
+          "number": "113",
+          "id": "magic-pets-113"
+        },
+        {
+          "number": "114",
+          "id": "magic-pets-114"
+        },
+        {
+          "number": "115",
+          "id": "magic-pets-115"
+        },
+        {
+          "number": "116",
+          "id": "magic-pets-116"
+        },
+        {
+          "number": "117",
+          "id": "magic-pets-117"
+        },
+        {
+          "number": "118",
+          "id": "magic-pets-118"
+        },
+        {
+          "number": "119",
+          "id": "magic-pets-119",
+          "type": "rainbow"
+        },
+        {
+          "number": "120",
+          "id": "magic-pets-120"
+        }
+      ]
+    },
+    {
+      "id": "ember-realm",
+      "name": "Ember Realm",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "121",
+          "id": "magic-pets-121"
+        },
+        {
+          "number": "122",
+          "id": "magic-pets-122"
+        },
+        {
+          "number": "123",
+          "id": "magic-pets-123"
+        },
+        {
+          "number": "124",
+          "id": "magic-pets-124"
+        },
+        {
+          "number": "125",
+          "id": "magic-pets-125"
+        },
+        {
+          "number": "126",
+          "id": "magic-pets-126",
+          "type": "foil"
+        },
+        {
+          "number": "127",
+          "id": "magic-pets-127"
+        },
+        {
+          "number": "128",
+          "id": "magic-pets-128"
+        },
+        {
+          "number": "129",
+          "id": "magic-pets-129"
+        },
+        {
+          "number": "130",
+          "id": "magic-pets-130"
+        },
+        {
+          "number": "131",
+          "id": "magic-pets-131"
+        },
+        {
+          "number": "132",
+          "id": "magic-pets-132"
+        },
+        {
+          "number": "133",
+          "id": "magic-pets-133",
+          "type": "figured"
+        },
+        {
+          "number": "134",
+          "id": "magic-pets-134"
+        },
+        {
+          "number": "135",
+          "id": "magic-pets-135"
+        },
+        {
+          "number": "136",
+          "id": "magic-pets-136"
+        },
+        {
+          "number": "137",
+          "id": "magic-pets-137"
+        },
+        {
+          "number": "138",
+          "id": "magic-pets-138"
+        },
+        {
+          "number": "139",
+          "id": "magic-pets-139"
+        },
+        {
+          "number": "140",
+          "id": "magic-pets-140",
+          "type": "rainbow"
+        },
+        {
+          "number": "141",
+          "id": "magic-pets-141"
+        },
+        {
+          "number": "142",
+          "id": "magic-pets-142"
+        },
+        {
+          "number": "143",
+          "id": "magic-pets-143"
+        },
+        {
+          "number": "144",
+          "id": "magic-pets-144"
+        }
+      ]
+    },
+    {
+      "id": "ancient-ones",
+      "name": "Ancient Ones",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "145",
+          "id": "magic-pets-145"
+        },
+        {
+          "number": "146",
+          "id": "magic-pets-146"
+        },
+        {
+          "number": "147",
+          "id": "magic-pets-147",
+          "type": "foil"
+        },
+        {
+          "number": "148",
+          "id": "magic-pets-148"
+        },
+        {
+          "number": "149",
+          "id": "magic-pets-149"
+        },
+        {
+          "number": "150",
+          "id": "magic-pets-150"
+        },
+        {
+          "number": "151",
+          "id": "magic-pets-151"
+        },
+        {
+          "number": "152",
+          "id": "magic-pets-152"
+        },
+        {
+          "number": "153",
+          "id": "magic-pets-153"
+        },
+        {
+          "number": "154",
+          "id": "magic-pets-154",
+          "type": "figured"
+        },
+        {
+          "number": "155",
+          "id": "magic-pets-155"
+        },
+        {
+          "number": "156",
+          "id": "magic-pets-156"
+        },
+        {
+          "number": "157",
+          "id": "magic-pets-157"
+        },
+        {
+          "number": "158",
+          "id": "magic-pets-158"
+        },
+        {
+          "number": "159",
+          "id": "magic-pets-159"
+        },
+        {
+          "number": "160",
+          "id": "magic-pets-160"
+        },
+        {
+          "number": "161",
+          "id": "magic-pets-161",
+          "type": "rainbow"
+        },
+        {
+          "number": "162",
+          "id": "magic-pets-162"
+        },
+        {
+          "number": "163",
+          "id": "magic-pets-163"
+        },
+        {
+          "number": "164",
+          "id": "magic-pets-164"
+        },
+        {
+          "number": "165",
+          "id": "magic-pets-165"
+        },
+        {
+          "number": "166",
+          "id": "magic-pets-166"
+        },
+        {
+          "number": "167",
+          "id": "magic-pets-167"
+        },
+        {
+          "number": "168",
+          "id": "magic-pets-168",
+          "type": "foil"
+        }
+      ]
+    }
+  ],
+  "collectableType": "sticker"
+}

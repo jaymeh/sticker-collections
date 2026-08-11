@@ -1,0 +1,871 @@
+{
+  "id": "retro-arcade-heroes",
+  "name": "Retro Arcade Heroes",
+  "publisher": "Starlight Editions",
+  "year": 2026,
+  "description": "Insert coin \u2014 Retro Arcade Heroes celebrates the golden age of pixel-perfect gaming.",
+  "coverColor": "#1F1F3B",
+  "coverImage": "retro-arcade-heroes.jpg",
+  "sections": [
+    {
+      "id": "coin-drop",
+      "name": "Coin Drop",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "001",
+          "id": "retro-arcade-heroes-001"
+        },
+        {
+          "number": "002",
+          "id": "retro-arcade-heroes-002"
+        },
+        {
+          "number": "003",
+          "id": "retro-arcade-heroes-003"
+        },
+        {
+          "number": "004",
+          "id": "retro-arcade-heroes-004"
+        },
+        {
+          "number": "005",
+          "id": "retro-arcade-heroes-005"
+        },
+        {
+          "number": "006",
+          "id": "retro-arcade-heroes-006"
+        },
+        {
+          "number": "007",
+          "id": "retro-arcade-heroes-007",
+          "type": "figured"
+        },
+        {
+          "number": "008",
+          "id": "retro-arcade-heroes-008"
+        },
+        {
+          "number": "009",
+          "id": "retro-arcade-heroes-009"
+        },
+        {
+          "number": "010",
+          "id": "retro-arcade-heroes-010"
+        },
+        {
+          "number": "011",
+          "id": "retro-arcade-heroes-011"
+        },
+        {
+          "number": "012",
+          "id": "retro-arcade-heroes-012"
+        },
+        {
+          "number": "013",
+          "id": "retro-arcade-heroes-013"
+        },
+        {
+          "number": "014",
+          "id": "retro-arcade-heroes-014",
+          "type": "rainbow"
+        },
+        {
+          "number": "015",
+          "id": "retro-arcade-heroes-015"
+        },
+        {
+          "number": "016",
+          "id": "retro-arcade-heroes-016"
+        },
+        {
+          "number": "017",
+          "id": "retro-arcade-heroes-017"
+        },
+        {
+          "number": "018",
+          "id": "retro-arcade-heroes-018"
+        },
+        {
+          "number": "019",
+          "id": "retro-arcade-heroes-019"
+        },
+        {
+          "number": "020",
+          "id": "retro-arcade-heroes-020"
+        },
+        {
+          "number": "021",
+          "id": "retro-arcade-heroes-021",
+          "type": "foil"
+        },
+        {
+          "number": "022",
+          "id": "retro-arcade-heroes-022"
+        },
+        {
+          "number": "023",
+          "id": "retro-arcade-heroes-023"
+        },
+        {
+          "number": "024",
+          "id": "retro-arcade-heroes-024"
+        }
+      ]
+    },
+    {
+      "id": "pixel-pals",
+      "name": "Pixel Pals",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "025",
+          "id": "retro-arcade-heroes-025"
+        },
+        {
+          "number": "026",
+          "id": "retro-arcade-heroes-026"
+        },
+        {
+          "number": "027",
+          "id": "retro-arcade-heroes-027"
+        },
+        {
+          "number": "028",
+          "id": "retro-arcade-heroes-028",
+          "type": "figured"
+        },
+        {
+          "number": "029",
+          "id": "retro-arcade-heroes-029"
+        },
+        {
+          "number": "030",
+          "id": "retro-arcade-heroes-030"
+        },
+        {
+          "number": "031",
+          "id": "retro-arcade-heroes-031"
+        },
+        {
+          "number": "032",
+          "id": "retro-arcade-heroes-032"
+        },
+        {
+          "number": "033",
+          "id": "retro-arcade-heroes-033"
+        },
+        {
+          "number": "034",
+          "id": "retro-arcade-heroes-034"
+        },
+        {
+          "number": "035",
+          "id": "retro-arcade-heroes-035",
+          "type": "rainbow"
+        },
+        {
+          "number": "036",
+          "id": "retro-arcade-heroes-036"
+        },
+        {
+          "number": "037",
+          "id": "retro-arcade-heroes-037"
+        },
+        {
+          "number": "038",
+          "id": "retro-arcade-heroes-038"
+        },
+        {
+          "number": "039",
+          "id": "retro-arcade-heroes-039"
+        },
+        {
+          "number": "040",
+          "id": "retro-arcade-heroes-040"
+        },
+        {
+          "number": "041",
+          "id": "retro-arcade-heroes-041"
+        },
+        {
+          "number": "042",
+          "id": "retro-arcade-heroes-042",
+          "type": "foil"
+        },
+        {
+          "number": "043",
+          "id": "retro-arcade-heroes-043"
+        },
+        {
+          "number": "044",
+          "id": "retro-arcade-heroes-044"
+        },
+        {
+          "number": "045",
+          "id": "retro-arcade-heroes-045"
+        },
+        {
+          "number": "046",
+          "id": "retro-arcade-heroes-046"
+        },
+        {
+          "number": "047",
+          "id": "retro-arcade-heroes-047"
+        },
+        {
+          "number": "048",
+          "id": "retro-arcade-heroes-048"
+        }
+      ]
+    },
+    {
+      "id": "high-scores",
+      "name": "High Scores",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "049",
+          "id": "retro-arcade-heroes-049",
+          "type": "figured"
+        },
+        {
+          "number": "050",
+          "id": "retro-arcade-heroes-050"
+        },
+        {
+          "number": "051",
+          "id": "retro-arcade-heroes-051"
+        },
+        {
+          "number": "052",
+          "id": "retro-arcade-heroes-052"
+        },
+        {
+          "number": "053",
+          "id": "retro-arcade-heroes-053"
+        },
+        {
+          "number": "054",
+          "id": "retro-arcade-heroes-054"
+        },
+        {
+          "number": "055",
+          "id": "retro-arcade-heroes-055"
+        },
+        {
+          "number": "056",
+          "id": "retro-arcade-heroes-056",
+          "type": "rainbow"
+        },
+        {
+          "number": "057",
+          "id": "retro-arcade-heroes-057"
+        },
+        {
+          "number": "058",
+          "id": "retro-arcade-heroes-058"
+        },
+        {
+          "number": "059",
+          "id": "retro-arcade-heroes-059"
+        },
+        {
+          "number": "060",
+          "id": "retro-arcade-heroes-060"
+        },
+        {
+          "number": "061",
+          "id": "retro-arcade-heroes-061"
+        },
+        {
+          "number": "062",
+          "id": "retro-arcade-heroes-062"
+        },
+        {
+          "number": "063",
+          "id": "retro-arcade-heroes-063",
+          "type": "foil"
+        },
+        {
+          "number": "064",
+          "id": "retro-arcade-heroes-064"
+        },
+        {
+          "number": "065",
+          "id": "retro-arcade-heroes-065"
+        },
+        {
+          "number": "066",
+          "id": "retro-arcade-heroes-066"
+        },
+        {
+          "number": "067",
+          "id": "retro-arcade-heroes-067"
+        },
+        {
+          "number": "068",
+          "id": "retro-arcade-heroes-068"
+        },
+        {
+          "number": "069",
+          "id": "retro-arcade-heroes-069"
+        },
+        {
+          "number": "070",
+          "id": "retro-arcade-heroes-070",
+          "type": "figured"
+        },
+        {
+          "number": "071",
+          "id": "retro-arcade-heroes-071"
+        },
+        {
+          "number": "072",
+          "id": "retro-arcade-heroes-072"
+        }
+      ]
+    },
+    {
+      "id": "level-one",
+      "name": "Level One",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "073",
+          "id": "retro-arcade-heroes-073"
+        },
+        {
+          "number": "074",
+          "id": "retro-arcade-heroes-074"
+        },
+        {
+          "number": "075",
+          "id": "retro-arcade-heroes-075"
+        },
+        {
+          "number": "076",
+          "id": "retro-arcade-heroes-076"
+        },
+        {
+          "number": "077",
+          "id": "retro-arcade-heroes-077",
+          "type": "rainbow"
+        },
+        {
+          "number": "078",
+          "id": "retro-arcade-heroes-078"
+        },
+        {
+          "number": "079",
+          "id": "retro-arcade-heroes-079"
+        },
+        {
+          "number": "080",
+          "id": "retro-arcade-heroes-080"
+        },
+        {
+          "number": "081",
+          "id": "retro-arcade-heroes-081"
+        },
+        {
+          "number": "082",
+          "id": "retro-arcade-heroes-082"
+        },
+        {
+          "number": "083",
+          "id": "retro-arcade-heroes-083"
+        },
+        {
+          "number": "084",
+          "id": "retro-arcade-heroes-084",
+          "type": "foil"
+        },
+        {
+          "number": "085",
+          "id": "retro-arcade-heroes-085"
+        },
+        {
+          "number": "086",
+          "id": "retro-arcade-heroes-086"
+        },
+        {
+          "number": "087",
+          "id": "retro-arcade-heroes-087"
+        },
+        {
+          "number": "088",
+          "id": "retro-arcade-heroes-088"
+        },
+        {
+          "number": "089",
+          "id": "retro-arcade-heroes-089"
+        },
+        {
+          "number": "090",
+          "id": "retro-arcade-heroes-090"
+        },
+        {
+          "number": "091",
+          "id": "retro-arcade-heroes-091",
+          "type": "figured"
+        },
+        {
+          "number": "092",
+          "id": "retro-arcade-heroes-092"
+        },
+        {
+          "number": "093",
+          "id": "retro-arcade-heroes-093"
+        },
+        {
+          "number": "094",
+          "id": "retro-arcade-heroes-094"
+        },
+        {
+          "number": "095",
+          "id": "retro-arcade-heroes-095"
+        },
+        {
+          "number": "096",
+          "id": "retro-arcade-heroes-096"
+        }
+      ]
+    },
+    {
+      "id": "boss-battle",
+      "name": "Boss Battle",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "097",
+          "id": "retro-arcade-heroes-097"
+        },
+        {
+          "number": "098",
+          "id": "retro-arcade-heroes-098",
+          "type": "rainbow"
+        },
+        {
+          "number": "099",
+          "id": "retro-arcade-heroes-099"
+        },
+        {
+          "number": "100",
+          "id": "retro-arcade-heroes-100"
+        },
+        {
+          "number": "101",
+          "id": "retro-arcade-heroes-101"
+        },
+        {
+          "number": "102",
+          "id": "retro-arcade-heroes-102"
+        },
+        {
+          "number": "103",
+          "id": "retro-arcade-heroes-103"
+        },
+        {
+          "number": "104",
+          "id": "retro-arcade-heroes-104"
+        },
+        {
+          "number": "105",
+          "id": "retro-arcade-heroes-105",
+          "type": "foil"
+        },
+        {
+          "number": "106",
+          "id": "retro-arcade-heroes-106"
+        },
+        {
+          "number": "107",
+          "id": "retro-arcade-heroes-107"
+        },
+        {
+          "number": "108",
+          "id": "retro-arcade-heroes-108"
+        },
+        {
+          "number": "109",
+          "id": "retro-arcade-heroes-109"
+        },
+        {
+          "number": "110",
+          "id": "retro-arcade-heroes-110"
+        },
+        {
+          "number": "111",
+          "id": "retro-arcade-heroes-111"
+        },
+        {
+          "number": "112",
+          "id": "retro-arcade-heroes-112",
+          "type": "figured"
+        },
+        {
+          "number": "113",
+          "id": "retro-arcade-heroes-113"
+        },
+        {
+          "number": "114",
+          "id": "retro-arcade-heroes-114"
+        },
+        {
+          "number": "115",
+          "id": "retro-arcade-heroes-115"
+        },
+        {
+          "number": "116",
+          "id": "retro-arcade-heroes-116"
+        },
+        {
+          "number": "117",
+          "id": "retro-arcade-heroes-117"
+        },
+        {
+          "number": "118",
+          "id": "retro-arcade-heroes-118"
+        },
+        {
+          "number": "119",
+          "id": "retro-arcade-heroes-119",
+          "type": "rainbow"
+        },
+        {
+          "number": "120",
+          "id": "retro-arcade-heroes-120"
+        }
+      ]
+    },
+    {
+      "id": "extra-life",
+      "name": "Extra Life",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "121",
+          "id": "retro-arcade-heroes-121"
+        },
+        {
+          "number": "122",
+          "id": "retro-arcade-heroes-122"
+        },
+        {
+          "number": "123",
+          "id": "retro-arcade-heroes-123"
+        },
+        {
+          "number": "124",
+          "id": "retro-arcade-heroes-124"
+        },
+        {
+          "number": "125",
+          "id": "retro-arcade-heroes-125"
+        },
+        {
+          "number": "126",
+          "id": "retro-arcade-heroes-126",
+          "type": "foil"
+        },
+        {
+          "number": "127",
+          "id": "retro-arcade-heroes-127"
+        },
+        {
+          "number": "128",
+          "id": "retro-arcade-heroes-128"
+        },
+        {
+          "number": "129",
+          "id": "retro-arcade-heroes-129"
+        },
+        {
+          "number": "130",
+          "id": "retro-arcade-heroes-130"
+        },
+        {
+          "number": "131",
+          "id": "retro-arcade-heroes-131"
+        },
+        {
+          "number": "132",
+          "id": "retro-arcade-heroes-132"
+        },
+        {
+          "number": "133",
+          "id": "retro-arcade-heroes-133",
+          "type": "figured"
+        },
+        {
+          "number": "134",
+          "id": "retro-arcade-heroes-134"
+        },
+        {
+          "number": "135",
+          "id": "retro-arcade-heroes-135"
+        },
+        {
+          "number": "136",
+          "id": "retro-arcade-heroes-136"
+        },
+        {
+          "number": "137",
+          "id": "retro-arcade-heroes-137"
+        },
+        {
+          "number": "138",
+          "id": "retro-arcade-heroes-138"
+        },
+        {
+          "number": "139",
+          "id": "retro-arcade-heroes-139"
+        },
+        {
+          "number": "140",
+          "id": "retro-arcade-heroes-140",
+          "type": "rainbow"
+        },
+        {
+          "number": "141",
+          "id": "retro-arcade-heroes-141"
+        },
+        {
+          "number": "142",
+          "id": "retro-arcade-heroes-142"
+        },
+        {
+          "number": "143",
+          "id": "retro-arcade-heroes-143"
+        },
+        {
+          "number": "144",
+          "id": "retro-arcade-heroes-144"
+        }
+      ]
+    },
+    {
+      "id": "game-over",
+      "name": "Game Over?",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "145",
+          "id": "retro-arcade-heroes-145"
+        },
+        {
+          "number": "146",
+          "id": "retro-arcade-heroes-146"
+        },
+        {
+          "number": "147",
+          "id": "retro-arcade-heroes-147",
+          "type": "foil"
+        },
+        {
+          "number": "148",
+          "id": "retro-arcade-heroes-148"
+        },
+        {
+          "number": "149",
+          "id": "retro-arcade-heroes-149"
+        },
+        {
+          "number": "150",
+          "id": "retro-arcade-heroes-150"
+        },
+        {
+          "number": "151",
+          "id": "retro-arcade-heroes-151"
+        },
+        {
+          "number": "152",
+          "id": "retro-arcade-heroes-152"
+        },
+        {
+          "number": "153",
+          "id": "retro-arcade-heroes-153"
+        },
+        {
+          "number": "154",
+          "id": "retro-arcade-heroes-154",
+          "type": "figured"
+        },
+        {
+          "number": "155",
+          "id": "retro-arcade-heroes-155"
+        },
+        {
+          "number": "156",
+          "id": "retro-arcade-heroes-156"
+        },
+        {
+          "number": "157",
+          "id": "retro-arcade-heroes-157"
+        },
+        {
+          "number": "158",
+          "id": "retro-arcade-heroes-158"
+        },
+        {
+          "number": "159",
+          "id": "retro-arcade-heroes-159"
+        },
+        {
+          "number": "160",
+          "id": "retro-arcade-heroes-160"
+        },
+        {
+          "number": "161",
+          "id": "retro-arcade-heroes-161",
+          "type": "rainbow"
+        },
+        {
+          "number": "162",
+          "id": "retro-arcade-heroes-162"
+        },
+        {
+          "number": "163",
+          "id": "retro-arcade-heroes-163"
+        },
+        {
+          "number": "164",
+          "id": "retro-arcade-heroes-164"
+        },
+        {
+          "number": "165",
+          "id": "retro-arcade-heroes-165"
+        },
+        {
+          "number": "166",
+          "id": "retro-arcade-heroes-166"
+        },
+        {
+          "number": "167",
+          "id": "retro-arcade-heroes-167"
+        },
+        {
+          "number": "168",
+          "id": "retro-arcade-heroes-168",
+          "type": "foil"
+        }
+      ]
+    },
+    {
+      "id": "hall-of-fame",
+      "name": "Hall of Fame",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "169",
+          "id": "retro-arcade-heroes-169"
+        },
+        {
+          "number": "170",
+          "id": "retro-arcade-heroes-170"
+        },
+        {
+          "number": "171",
+          "id": "retro-arcade-heroes-171"
+        },
+        {
+          "number": "172",
+          "id": "retro-arcade-heroes-172"
+        },
+        {
+          "number": "173",
+          "id": "retro-arcade-heroes-173"
+        },
+        {
+          "number": "174",
+          "id": "retro-arcade-heroes-174"
+        },
+        {
+          "number": "175",
+          "id": "retro-arcade-heroes-175",
+          "type": "figured"
+        },
+        {
+          "number": "176",
+          "id": "retro-arcade-heroes-176"
+        },
+        {
+          "number": "177",
+          "id": "retro-arcade-heroes-177"
+        },
+        {
+          "number": "178",
+          "id": "retro-arcade-heroes-178"
+        },
+        {
+          "number": "179",
+          "id": "retro-arcade-heroes-179"
+        },
+        {
+          "number": "180",
+          "id": "retro-arcade-heroes-180"
+        },
+        {
+          "number": "181",
+          "id": "retro-arcade-heroes-181"
+        },
+        {
+          "number": "182",
+          "id": "retro-arcade-heroes-182",
+          "type": "rainbow"
+        },
+        {
+          "number": "183",
+          "id": "retro-arcade-heroes-183"
+        },
+        {
+          "number": "184",
+          "id": "retro-arcade-heroes-184"
+        },
+        {
+          "number": "185",
+          "id": "retro-arcade-heroes-185"
+        },
+        {
+          "number": "186",
+          "id": "retro-arcade-heroes-186"
+        },
+        {
+          "number": "187",
+          "id": "retro-arcade-heroes-187"
+        },
+        {
+          "number": "188",
+          "id": "retro-arcade-heroes-188"
+        },
+        {
+          "number": "189",
+          "id": "retro-arcade-heroes-189",
+          "type": "foil"
+        },
+        {
+          "number": "190",
+          "id": "retro-arcade-heroes-190"
+        },
+        {
+          "number": "191",
+          "id": "retro-arcade-heroes-191"
+        },
+        {
+          "number": "192",
+          "id": "retro-arcade-heroes-192"
+        }
+      ]
+    }
+  ],
+  "collectableType": "sticker"
+}

@@ -1,0 +1,871 @@
+{
+  "id": "ocean-pals",
+  "name": "Ocean Pals",
+  "publisher": "Starlight Editions",
+  "year": 2026,
+  "description": "Dive in with Ocean Pals \u2014 friendly sea creatures from the shallows to the deep blue.",
+  "coverColor": "#0E4C6E",
+  "coverImage": "ocean-pals.jpg",
+  "sections": [
+    {
+      "id": "shallow-reefs",
+      "name": "Shallow Reefs",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "001",
+          "id": "ocean-pals-001"
+        },
+        {
+          "number": "002",
+          "id": "ocean-pals-002"
+        },
+        {
+          "number": "003",
+          "id": "ocean-pals-003"
+        },
+        {
+          "number": "004",
+          "id": "ocean-pals-004"
+        },
+        {
+          "number": "005",
+          "id": "ocean-pals-005"
+        },
+        {
+          "number": "006",
+          "id": "ocean-pals-006"
+        },
+        {
+          "number": "007",
+          "id": "ocean-pals-007",
+          "type": "figured"
+        },
+        {
+          "number": "008",
+          "id": "ocean-pals-008"
+        },
+        {
+          "number": "009",
+          "id": "ocean-pals-009"
+        },
+        {
+          "number": "010",
+          "id": "ocean-pals-010"
+        },
+        {
+          "number": "011",
+          "id": "ocean-pals-011"
+        },
+        {
+          "number": "012",
+          "id": "ocean-pals-012"
+        },
+        {
+          "number": "013",
+          "id": "ocean-pals-013"
+        },
+        {
+          "number": "014",
+          "id": "ocean-pals-014",
+          "type": "rainbow"
+        },
+        {
+          "number": "015",
+          "id": "ocean-pals-015"
+        },
+        {
+          "number": "016",
+          "id": "ocean-pals-016"
+        },
+        {
+          "number": "017",
+          "id": "ocean-pals-017"
+        },
+        {
+          "number": "018",
+          "id": "ocean-pals-018"
+        },
+        {
+          "number": "019",
+          "id": "ocean-pals-019"
+        },
+        {
+          "number": "020",
+          "id": "ocean-pals-020"
+        },
+        {
+          "number": "021",
+          "id": "ocean-pals-021",
+          "type": "foil"
+        },
+        {
+          "number": "022",
+          "id": "ocean-pals-022"
+        },
+        {
+          "number": "023",
+          "id": "ocean-pals-023"
+        },
+        {
+          "number": "024",
+          "id": "ocean-pals-024"
+        }
+      ]
+    },
+    {
+      "id": "tide-pools",
+      "name": "Tide Pools",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "025",
+          "id": "ocean-pals-025"
+        },
+        {
+          "number": "026",
+          "id": "ocean-pals-026"
+        },
+        {
+          "number": "027",
+          "id": "ocean-pals-027"
+        },
+        {
+          "number": "028",
+          "id": "ocean-pals-028",
+          "type": "figured"
+        },
+        {
+          "number": "029",
+          "id": "ocean-pals-029"
+        },
+        {
+          "number": "030",
+          "id": "ocean-pals-030"
+        },
+        {
+          "number": "031",
+          "id": "ocean-pals-031"
+        },
+        {
+          "number": "032",
+          "id": "ocean-pals-032"
+        },
+        {
+          "number": "033",
+          "id": "ocean-pals-033"
+        },
+        {
+          "number": "034",
+          "id": "ocean-pals-034"
+        },
+        {
+          "number": "035",
+          "id": "ocean-pals-035",
+          "type": "rainbow"
+        },
+        {
+          "number": "036",
+          "id": "ocean-pals-036"
+        },
+        {
+          "number": "037",
+          "id": "ocean-pals-037"
+        },
+        {
+          "number": "038",
+          "id": "ocean-pals-038"
+        },
+        {
+          "number": "039",
+          "id": "ocean-pals-039"
+        },
+        {
+          "number": "040",
+          "id": "ocean-pals-040"
+        },
+        {
+          "number": "041",
+          "id": "ocean-pals-041"
+        },
+        {
+          "number": "042",
+          "id": "ocean-pals-042",
+          "type": "foil"
+        },
+        {
+          "number": "043",
+          "id": "ocean-pals-043"
+        },
+        {
+          "number": "044",
+          "id": "ocean-pals-044"
+        },
+        {
+          "number": "045",
+          "id": "ocean-pals-045"
+        },
+        {
+          "number": "046",
+          "id": "ocean-pals-046"
+        },
+        {
+          "number": "047",
+          "id": "ocean-pals-047"
+        },
+        {
+          "number": "048",
+          "id": "ocean-pals-048"
+        }
+      ]
+    },
+    {
+      "id": "the-deep-blue",
+      "name": "The Deep Blue",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "049",
+          "id": "ocean-pals-049",
+          "type": "figured"
+        },
+        {
+          "number": "050",
+          "id": "ocean-pals-050"
+        },
+        {
+          "number": "051",
+          "id": "ocean-pals-051"
+        },
+        {
+          "number": "052",
+          "id": "ocean-pals-052"
+        },
+        {
+          "number": "053",
+          "id": "ocean-pals-053"
+        },
+        {
+          "number": "054",
+          "id": "ocean-pals-054"
+        },
+        {
+          "number": "055",
+          "id": "ocean-pals-055"
+        },
+        {
+          "number": "056",
+          "id": "ocean-pals-056",
+          "type": "rainbow"
+        },
+        {
+          "number": "057",
+          "id": "ocean-pals-057"
+        },
+        {
+          "number": "058",
+          "id": "ocean-pals-058"
+        },
+        {
+          "number": "059",
+          "id": "ocean-pals-059"
+        },
+        {
+          "number": "060",
+          "id": "ocean-pals-060"
+        },
+        {
+          "number": "061",
+          "id": "ocean-pals-061"
+        },
+        {
+          "number": "062",
+          "id": "ocean-pals-062"
+        },
+        {
+          "number": "063",
+          "id": "ocean-pals-063",
+          "type": "foil"
+        },
+        {
+          "number": "064",
+          "id": "ocean-pals-064"
+        },
+        {
+          "number": "065",
+          "id": "ocean-pals-065"
+        },
+        {
+          "number": "066",
+          "id": "ocean-pals-066"
+        },
+        {
+          "number": "067",
+          "id": "ocean-pals-067"
+        },
+        {
+          "number": "068",
+          "id": "ocean-pals-068"
+        },
+        {
+          "number": "069",
+          "id": "ocean-pals-069"
+        },
+        {
+          "number": "070",
+          "id": "ocean-pals-070",
+          "type": "figured"
+        },
+        {
+          "number": "071",
+          "id": "ocean-pals-071"
+        },
+        {
+          "number": "072",
+          "id": "ocean-pals-072"
+        }
+      ]
+    },
+    {
+      "id": "coral-gardens",
+      "name": "Coral Gardens",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "073",
+          "id": "ocean-pals-073"
+        },
+        {
+          "number": "074",
+          "id": "ocean-pals-074"
+        },
+        {
+          "number": "075",
+          "id": "ocean-pals-075"
+        },
+        {
+          "number": "076",
+          "id": "ocean-pals-076"
+        },
+        {
+          "number": "077",
+          "id": "ocean-pals-077",
+          "type": "rainbow"
+        },
+        {
+          "number": "078",
+          "id": "ocean-pals-078"
+        },
+        {
+          "number": "079",
+          "id": "ocean-pals-079"
+        },
+        {
+          "number": "080",
+          "id": "ocean-pals-080"
+        },
+        {
+          "number": "081",
+          "id": "ocean-pals-081"
+        },
+        {
+          "number": "082",
+          "id": "ocean-pals-082"
+        },
+        {
+          "number": "083",
+          "id": "ocean-pals-083"
+        },
+        {
+          "number": "084",
+          "id": "ocean-pals-084",
+          "type": "foil"
+        },
+        {
+          "number": "085",
+          "id": "ocean-pals-085"
+        },
+        {
+          "number": "086",
+          "id": "ocean-pals-086"
+        },
+        {
+          "number": "087",
+          "id": "ocean-pals-087"
+        },
+        {
+          "number": "088",
+          "id": "ocean-pals-088"
+        },
+        {
+          "number": "089",
+          "id": "ocean-pals-089"
+        },
+        {
+          "number": "090",
+          "id": "ocean-pals-090"
+        },
+        {
+          "number": "091",
+          "id": "ocean-pals-091",
+          "type": "figured"
+        },
+        {
+          "number": "092",
+          "id": "ocean-pals-092"
+        },
+        {
+          "number": "093",
+          "id": "ocean-pals-093"
+        },
+        {
+          "number": "094",
+          "id": "ocean-pals-094"
+        },
+        {
+          "number": "095",
+          "id": "ocean-pals-095"
+        },
+        {
+          "number": "096",
+          "id": "ocean-pals-096"
+        }
+      ]
+    },
+    {
+      "id": "shipwrecks",
+      "name": "Shipwrecks",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "097",
+          "id": "ocean-pals-097"
+        },
+        {
+          "number": "098",
+          "id": "ocean-pals-098",
+          "type": "rainbow"
+        },
+        {
+          "number": "099",
+          "id": "ocean-pals-099"
+        },
+        {
+          "number": "100",
+          "id": "ocean-pals-100"
+        },
+        {
+          "number": "101",
+          "id": "ocean-pals-101"
+        },
+        {
+          "number": "102",
+          "id": "ocean-pals-102"
+        },
+        {
+          "number": "103",
+          "id": "ocean-pals-103"
+        },
+        {
+          "number": "104",
+          "id": "ocean-pals-104"
+        },
+        {
+          "number": "105",
+          "id": "ocean-pals-105",
+          "type": "foil"
+        },
+        {
+          "number": "106",
+          "id": "ocean-pals-106"
+        },
+        {
+          "number": "107",
+          "id": "ocean-pals-107"
+        },
+        {
+          "number": "108",
+          "id": "ocean-pals-108"
+        },
+        {
+          "number": "109",
+          "id": "ocean-pals-109"
+        },
+        {
+          "number": "110",
+          "id": "ocean-pals-110"
+        },
+        {
+          "number": "111",
+          "id": "ocean-pals-111"
+        },
+        {
+          "number": "112",
+          "id": "ocean-pals-112",
+          "type": "figured"
+        },
+        {
+          "number": "113",
+          "id": "ocean-pals-113"
+        },
+        {
+          "number": "114",
+          "id": "ocean-pals-114"
+        },
+        {
+          "number": "115",
+          "id": "ocean-pals-115"
+        },
+        {
+          "number": "116",
+          "id": "ocean-pals-116"
+        },
+        {
+          "number": "117",
+          "id": "ocean-pals-117"
+        },
+        {
+          "number": "118",
+          "id": "ocean-pals-118"
+        },
+        {
+          "number": "119",
+          "id": "ocean-pals-119",
+          "type": "rainbow"
+        },
+        {
+          "number": "120",
+          "id": "ocean-pals-120"
+        }
+      ]
+    },
+    {
+      "id": "polar-seas",
+      "name": "Polar Seas",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "121",
+          "id": "ocean-pals-121"
+        },
+        {
+          "number": "122",
+          "id": "ocean-pals-122"
+        },
+        {
+          "number": "123",
+          "id": "ocean-pals-123"
+        },
+        {
+          "number": "124",
+          "id": "ocean-pals-124"
+        },
+        {
+          "number": "125",
+          "id": "ocean-pals-125"
+        },
+        {
+          "number": "126",
+          "id": "ocean-pals-126",
+          "type": "foil"
+        },
+        {
+          "number": "127",
+          "id": "ocean-pals-127"
+        },
+        {
+          "number": "128",
+          "id": "ocean-pals-128"
+        },
+        {
+          "number": "129",
+          "id": "ocean-pals-129"
+        },
+        {
+          "number": "130",
+          "id": "ocean-pals-130"
+        },
+        {
+          "number": "131",
+          "id": "ocean-pals-131"
+        },
+        {
+          "number": "132",
+          "id": "ocean-pals-132"
+        },
+        {
+          "number": "133",
+          "id": "ocean-pals-133",
+          "type": "figured"
+        },
+        {
+          "number": "134",
+          "id": "ocean-pals-134"
+        },
+        {
+          "number": "135",
+          "id": "ocean-pals-135"
+        },
+        {
+          "number": "136",
+          "id": "ocean-pals-136"
+        },
+        {
+          "number": "137",
+          "id": "ocean-pals-137"
+        },
+        {
+          "number": "138",
+          "id": "ocean-pals-138"
+        },
+        {
+          "number": "139",
+          "id": "ocean-pals-139"
+        },
+        {
+          "number": "140",
+          "id": "ocean-pals-140",
+          "type": "rainbow"
+        },
+        {
+          "number": "141",
+          "id": "ocean-pals-141"
+        },
+        {
+          "number": "142",
+          "id": "ocean-pals-142"
+        },
+        {
+          "number": "143",
+          "id": "ocean-pals-143"
+        },
+        {
+          "number": "144",
+          "id": "ocean-pals-144"
+        }
+      ]
+    },
+    {
+      "id": "kelp-forests",
+      "name": "Kelp Forests",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "145",
+          "id": "ocean-pals-145"
+        },
+        {
+          "number": "146",
+          "id": "ocean-pals-146"
+        },
+        {
+          "number": "147",
+          "id": "ocean-pals-147",
+          "type": "foil"
+        },
+        {
+          "number": "148",
+          "id": "ocean-pals-148"
+        },
+        {
+          "number": "149",
+          "id": "ocean-pals-149"
+        },
+        {
+          "number": "150",
+          "id": "ocean-pals-150"
+        },
+        {
+          "number": "151",
+          "id": "ocean-pals-151"
+        },
+        {
+          "number": "152",
+          "id": "ocean-pals-152"
+        },
+        {
+          "number": "153",
+          "id": "ocean-pals-153"
+        },
+        {
+          "number": "154",
+          "id": "ocean-pals-154",
+          "type": "figured"
+        },
+        {
+          "number": "155",
+          "id": "ocean-pals-155"
+        },
+        {
+          "number": "156",
+          "id": "ocean-pals-156"
+        },
+        {
+          "number": "157",
+          "id": "ocean-pals-157"
+        },
+        {
+          "number": "158",
+          "id": "ocean-pals-158"
+        },
+        {
+          "number": "159",
+          "id": "ocean-pals-159"
+        },
+        {
+          "number": "160",
+          "id": "ocean-pals-160"
+        },
+        {
+          "number": "161",
+          "id": "ocean-pals-161",
+          "type": "rainbow"
+        },
+        {
+          "number": "162",
+          "id": "ocean-pals-162"
+        },
+        {
+          "number": "163",
+          "id": "ocean-pals-163"
+        },
+        {
+          "number": "164",
+          "id": "ocean-pals-164"
+        },
+        {
+          "number": "165",
+          "id": "ocean-pals-165"
+        },
+        {
+          "number": "166",
+          "id": "ocean-pals-166"
+        },
+        {
+          "number": "167",
+          "id": "ocean-pals-167"
+        },
+        {
+          "number": "168",
+          "id": "ocean-pals-168",
+          "type": "foil"
+        }
+      ]
+    },
+    {
+      "id": "treasures",
+      "name": "Treasures",
+      "startPage": 7,
+      "endPage": 8,
+      "collectables": [
+        {
+          "number": "169",
+          "id": "ocean-pals-169"
+        },
+        {
+          "number": "170",
+          "id": "ocean-pals-170"
+        },
+        {
+          "number": "171",
+          "id": "ocean-pals-171"
+        },
+        {
+          "number": "172",
+          "id": "ocean-pals-172"
+        },
+        {
+          "number": "173",
+          "id": "ocean-pals-173"
+        },
+        {
+          "number": "174",
+          "id": "ocean-pals-174"
+        },
+        {
+          "number": "175",
+          "id": "ocean-pals-175",
+          "type": "figured"
+        },
+        {
+          "number": "176",
+          "id": "ocean-pals-176"
+        },
+        {
+          "number": "177",
+          "id": "ocean-pals-177"
+        },
+        {
+          "number": "178",
+          "id": "ocean-pals-178"
+        },
+        {
+          "number": "179",
+          "id": "ocean-pals-179"
+        },
+        {
+          "number": "180",
+          "id": "ocean-pals-180"
+        },
+        {
+          "number": "181",
+          "id": "ocean-pals-181"
+        },
+        {
+          "number": "182",
+          "id": "ocean-pals-182",
+          "type": "rainbow"
+        },
+        {
+          "number": "183",
+          "id": "ocean-pals-183"
+        },
+        {
+          "number": "184",
+          "id": "ocean-pals-184"
+        },
+        {
+          "number": "185",
+          "id": "ocean-pals-185"
+        },
+        {
+          "number": "186",
+          "id": "ocean-pals-186"
+        },
+        {
+          "number": "187",
+          "id": "ocean-pals-187"
+        },
+        {
+          "number": "188",
+          "id": "ocean-pals-188"
+        },
+        {
+          "number": "189",
+          "id": "ocean-pals-189",
+          "type": "foil"
+        },
+        {
+          "number": "190",
+          "id": "ocean-pals-190"
+        },
+        {
+          "number": "191",
+          "id": "ocean-pals-191"
+        },
+        {
+          "number": "192",
+          "id": "ocean-pals-192"
+        }
+      ]
+    }
+  ],
+  "collectableType": "sticker"
+}
