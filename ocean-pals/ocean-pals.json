@@ -3,7 +3,7 @@
   "name": "Ocean Pals",
   "publisher": "Starlight Editions",
   "year": 2026,
-  "description": "Dive in with Ocean Pals \u2014 friendly sea creatures from the shallows to the deep blue.",
+  "description": "Dive in with Ocean Pals — friendly sea creatures from the shallows to the deep blue.",
   "coverColor": "#0E4C6E",
   "coverImage": "ocean-pals.jpg",
   "sections": [
@@ -15,102 +15,102 @@
       "collectables": [
         {
           "number": "001",
-          "id": "ocean-pals-001"
+          "id": "op-001"
         },
         {
           "number": "002",
-          "id": "ocean-pals-002"
+          "id": "op-002"
         },
         {
           "number": "003",
-          "id": "ocean-pals-003"
+          "id": "op-003"
         },
         {
           "number": "004",
-          "id": "ocean-pals-004"
+          "id": "op-004"
         },
         {
           "number": "005",
-          "id": "ocean-pals-005"
+          "id": "op-005"
         },
         {
           "number": "006",
-          "id": "ocean-pals-006"
+          "id": "op-006"
         },
         {
           "number": "007",
-          "id": "ocean-pals-007",
+          "id": "op-007",
           "type": "figured"
         },
         {
           "number": "008",
-          "id": "ocean-pals-008"
+          "id": "op-008"
         },
         {
           "number": "009",
-          "id": "ocean-pals-009"
+          "id": "op-009"
         },
         {
           "number": "010",
-          "id": "ocean-pals-010"
+          "id": "op-010"
         },
         {
           "number": "011",
-          "id": "ocean-pals-011"
+          "id": "op-011"
         },
         {
           "number": "012",
-          "id": "ocean-pals-012"
+          "id": "op-012"
         },
         {
           "number": "013",
-          "id": "ocean-pals-013"
+          "id": "op-013"
         },
         {
           "number": "014",
-          "id": "ocean-pals-014",
+          "id": "op-014",
           "type": "rainbow"
         },
         {
           "number": "015",
-          "id": "ocean-pals-015"
+          "id": "op-015"
         },
         {
           "number": "016",
-          "id": "ocean-pals-016"
+          "id": "op-016"
         },
         {
           "number": "017",
-          "id": "ocean-pals-017"
+          "id": "op-017"
         },
         {
           "number": "018",
-          "id": "ocean-pals-018"
+          "id": "op-018"
         },
         {
           "number": "019",
-          "id": "ocean-pals-019"
+          "id": "op-019"
         },
         {
           "number": "020",
-          "id": "ocean-pals-020"
+          "id": "op-020"
         },
         {
           "number": "021",
-          "id": "ocean-pals-021",
+          "id": "op-021",
           "type": "foil"
         },
         {
           "number": "022",
-          "id": "ocean-pals-022"
+          "id": "op-022"
         },
         {
           "number": "023",
-          "id": "ocean-pals-023"
+          "id": "op-023"
         },
         {
           "number": "024",
-          "id": "ocean-pals-024"
+          "id": "op-024"
         }
       ]
     },
@@ -122,102 +122,102 @@
       "collectables": [
         {
           "number": "025",
-          "id": "ocean-pals-025"
+          "id": "op-025"
         },
         {
           "number": "026",
-          "id": "ocean-pals-026"
+          "id": "op-026"
         },
         {
           "number": "027",
-          "id": "ocean-pals-027"
+          "id": "op-027"
         },
         {
           "number": "028",
-          "id": "ocean-pals-028",
+          "id": "op-028",
           "type": "figured"
         },
         {
           "number": "029",
-          "id": "ocean-pals-029"
+          "id": "op-029"
         },
         {
           "number": "030",
-          "id": "ocean-pals-030"
+          "id": "op-030"
         },
         {
           "number": "031",
-          "id": "ocean-pals-031"
+          "id": "op-031"
         },
         {
           "number": "032",
-          "id": "ocean-pals-032"
+          "id": "op-032"
         },
         {
           "number": "033",
-          "id": "ocean-pals-033"
+          "id": "op-033"
         },
         {
           "number": "034",
-          "id": "ocean-pals-034"
+          "id": "op-034"
         },
         {
           "number": "035",
-          "id": "ocean-pals-035",
+          "id": "op-035",
           "type": "rainbow"
         },
         {
           "number": "036",
-          "id": "ocean-pals-036"
+          "id": "op-036"
         },
         {
           "number": "037",
-          "id": "ocean-pals-037"
+          "id": "op-037"
         },
         {
           "number": "038",
-          "id": "ocean-pals-038"
+          "id": "op-038"
         },
         {
           "number": "039",
-          "id": "ocean-pals-039"
+          "id": "op-039"
         },
         {
           "number": "040",
-          "id": "ocean-pals-040"
+          "id": "op-040"
         },
         {
           "number": "041",
-          "id": "ocean-pals-041"
+          "id": "op-041"
         },
         {
           "number": "042",
-          "id": "ocean-pals-042",
+          "id": "op-042",
           "type": "foil"
         },
         {
           "number": "043",
-          "id": "ocean-pals-043"
+          "id": "op-043"
         },
         {
           "number": "044",
-          "id": "ocean-pals-044"
+          "id": "op-044"
         },
         {
           "number": "045",
-          "id": "ocean-pals-045"
+          "id": "op-045"
         },
         {
           "number": "046",
-          "id": "ocean-pals-046"
+          "id": "op-046"
         },
         {
           "number": "047",
-          "id": "ocean-pals-047"
+          "id": "op-047"
         },
         {
           "number": "048",
-          "id": "ocean-pals-048"
+          "id": "op-048"
         }
       ]
     },
@@ -229,103 +229,103 @@
       "collectables": [
         {
           "number": "049",
-          "id": "ocean-pals-049",
+          "id": "op-049",
           "type": "figured"
         },
         {
           "number": "050",
-          "id": "ocean-pals-050"
+          "id": "op-050"
         },
         {
           "number": "051",
-          "id": "ocean-pals-051"
+          "id": "op-051"
         },
         {
           "number": "052",
-          "id": "ocean-pals-052"
+          "id": "op-052"
         },
         {
           "number": "053",
-          "id": "ocean-pals-053"
+          "id": "op-053"
         },
         {
           "number": "054",
-          "id": "ocean-pals-054"
+          "id": "op-054"
         },
         {
           "number": "055",
-          "id": "ocean-pals-055"
+          "id": "op-055"
         },
         {
           "number": "056",
-          "id": "ocean-pals-056",
+          "id": "op-056",
           "type": "rainbow"
         },
         {
           "number": "057",
-          "id": "ocean-pals-057"
+          "id": "op-057"
         },
         {
           "number": "058",
-          "id": "ocean-pals-058"
+          "id": "op-058"
         },
         {
           "number": "059",
-          "id": "ocean-pals-059"
+          "id": "op-059"
         },
         {
           "number": "060",
-          "id": "ocean-pals-060"
+          "id": "op-060"
         },
         {
           "number": "061",
-          "id": "ocean-pals-061"
+          "id": "op-061"
         },
         {
           "number": "062",
-          "id": "ocean-pals-062"
+          "id": "op-062"
         },
         {
           "number": "063",
-          "id": "ocean-pals-063",
+          "id": "op-063",
           "type": "foil"
         },
         {
           "number": "064",
-          "id": "ocean-pals-064"
+          "id": "op-064"
         },
         {
           "number": "065",
-          "id": "ocean-pals-065"
+          "id": "op-065"
         },
         {
           "number": "066",
-          "id": "ocean-pals-066"
+          "id": "op-066"
         },
         {
           "number": "067",
-          "id": "ocean-pals-067"
+          "id": "op-067"
         },
         {
           "number": "068",
-          "id": "ocean-pals-068"
+          "id": "op-068"
         },
         {
           "number": "069",
-          "id": "ocean-pals-069"
+          "id": "op-069"
         },
         {
           "number": "070",
-          "id": "ocean-pals-070",
+          "id": "op-070",
           "type": "figured"
         },
         {
           "number": "071",
-          "id": "ocean-pals-071"
+          "id": "op-071"
         },
         {
           "number": "072",
-          "id": "ocean-pals-072"
+          "id": "op-072"
         }
       ]
     },
@@ -337,102 +337,102 @@
       "collectables": [
         {
           "number": "073",
-          "id": "ocean-pals-073"
+          "id": "op-073"
         },
         {
           "number": "074",
-          "id": "ocean-pals-074"
+          "id": "op-074"
         },
         {
           "number": "075",
-          "id": "ocean-pals-075"
+          "id": "op-075"
         },
         {
           "number": "076",
-          "id": "ocean-pals-076"
+          "id": "op-076"
         },
         {
           "number": "077",
-          "id": "ocean-pals-077",
+          "id": "op-077",
           "type": "rainbow"
         },
         {
           "number": "078",
-          "id": "ocean-pals-078"
+          "id": "op-078"
         },
         {
           "number": "079",
-          "id": "ocean-pals-079"
+          "id": "op-079"
         },
         {
           "number": "080",
-          "id": "ocean-pals-080"
+          "id": "op-080"
         },
         {
           "number": "081",
-          "id": "ocean-pals-081"
+          "id": "op-081"
         },
         {
           "number": "082",
-          "id": "ocean-pals-082"
+          "id": "op-082"
         },
         {
           "number": "083",
-          "id": "ocean-pals-083"
+          "id": "op-083"
         },
         {
           "number": "084",
-          "id": "ocean-pals-084",
+          "id": "op-084",
           "type": "foil"
         },
         {
           "number": "085",
-          "id": "ocean-pals-085"
+          "id": "op-085"
         },
         {
           "number": "086",
-          "id": "ocean-pals-086"
+          "id": "op-086"
         },
         {
           "number": "087",
-          "id": "ocean-pals-087"
+          "id": "op-087"
         },
         {
           "number": "088",
-          "id": "ocean-pals-088"
+          "id": "op-088"
         },
         {
           "number": "089",
-          "id": "ocean-pals-089"
+          "id": "op-089"
         },
         {
           "number": "090",
-          "id": "ocean-pals-090"
+          "id": "op-090"
         },
         {
           "number": "091",
-          "id": "ocean-pals-091",
+          "id": "op-091",
           "type": "figured"
         },
         {
           "number": "092",
-          "id": "ocean-pals-092"
+          "id": "op-092"
         },
         {
           "number": "093",
-          "id": "ocean-pals-093"
+          "id": "op-093"
         },
         {
           "number": "094",
-          "id": "ocean-pals-094"
+          "id": "op-094"
         },
         {
           "number": "095",
-          "id": "ocean-pals-095"
+          "id": "op-095"
         },
         {
           "number": "096",
-          "id": "ocean-pals-096"
+          "id": "op-096"
         }
       ]
     },
@@ -444,103 +444,103 @@
       "collectables": [
         {
           "number": "097",
-          "id": "ocean-pals-097"
+          "id": "op-097"
         },
         {
           "number": "098",
-          "id": "ocean-pals-098",
+          "id": "op-098",
           "type": "rainbow"
         },
         {
           "number": "099",
-          "id": "ocean-pals-099"
+          "id": "op-099"
         },
         {
           "number": "100",
-          "id": "ocean-pals-100"
+          "id": "op-100"
         },
         {
           "number": "101",
-          "id": "ocean-pals-101"
+          "id": "op-101"
         },
         {
           "number": "102",
-          "id": "ocean-pals-102"
+          "id": "op-102"
         },
         {
           "number": "103",
-          "id": "ocean-pals-103"
+          "id": "op-103"
         },
         {
           "number": "104",
-          "id": "ocean-pals-104"
+          "id": "op-104"
         },
         {
           "number": "105",
-          "id": "ocean-pals-105",
+          "id": "op-105",
           "type": "foil"
         },
         {
           "number": "106",
-          "id": "ocean-pals-106"
+          "id": "op-106"
         },
         {
           "number": "107",
-          "id": "ocean-pals-107"
+          "id": "op-107"
         },
         {
           "number": "108",
-          "id": "ocean-pals-108"
+          "id": "op-108"
         },
         {
           "number": "109",
-          "id": "ocean-pals-109"
+          "id": "op-109"
         },
         {
           "number": "110",
-          "id": "ocean-pals-110"
+          "id": "op-110"
         },
         {
           "number": "111",
-          "id": "ocean-pals-111"
+          "id": "op-111"
         },
         {
           "number": "112",
-          "id": "ocean-pals-112",
+          "id": "op-112",
           "type": "figured"
         },
         {
           "number": "113",
-          "id": "ocean-pals-113"
+          "id": "op-113"
         },
         {
           "number": "114",
-          "id": "ocean-pals-114"
+          "id": "op-114"
         },
         {
           "number": "115",
-          "id": "ocean-pals-115"
+          "id": "op-115"
         },
         {
           "number": "116",
-          "id": "ocean-pals-116"
+          "id": "op-116"
         },
         {
           "number": "117",
-          "id": "ocean-pals-117"
+          "id": "op-117"
         },
         {
           "number": "118",
-          "id": "ocean-pals-118"
+          "id": "op-118"
         },
         {
           "number": "119",
-          "id": "ocean-pals-119",
+          "id": "op-119",
           "type": "rainbow"
         },
         {
           "number": "120",
-          "id": "ocean-pals-120"
+          "id": "op-120"
         }
       ]
     },
@@ -552,102 +552,102 @@
       "collectables": [
         {
           "number": "121",
-          "id": "ocean-pals-121"
+          "id": "op-121"
         },
         {
           "number": "122",
-          "id": "ocean-pals-122"
+          "id": "op-122"
         },
         {
           "number": "123",
-          "id": "ocean-pals-123"
+          "id": "op-123"
         },
         {
           "number": "124",
-          "id": "ocean-pals-124"
+          "id": "op-124"
         },
         {
           "number": "125",
-          "id": "ocean-pals-125"
+          "id": "op-125"
         },
         {
           "number": "126",
-          "id": "ocean-pals-126",
+          "id": "op-126",
           "type": "foil"
         },
         {
           "number": "127",
-          "id": "ocean-pals-127"
+          "id": "op-127"
         },
         {
           "number": "128",
-          "id": "ocean-pals-128"
+          "id": "op-128"
         },
         {
           "number": "129",
-          "id": "ocean-pals-129"
+          "id": "op-129"
         },
         {
           "number": "130",
-          "id": "ocean-pals-130"
+          "id": "op-130"
         },
         {
           "number": "131",
-          "id": "ocean-pals-131"
+          "id": "op-131"
         },
         {
           "number": "132",
-          "id": "ocean-pals-132"
+          "id": "op-132"
         },
         {
           "number": "133",
-          "id": "ocean-pals-133",
+          "id": "op-133",
           "type": "figured"
         },
         {
           "number": "134",
-          "id": "ocean-pals-134"
+          "id": "op-134"
         },
         {
           "number": "135",
-          "id": "ocean-pals-135"
+          "id": "op-135"
         },
         {
           "number": "136",
-          "id": "ocean-pals-136"
+          "id": "op-136"
         },
         {
           "number": "137",
-          "id": "ocean-pals-137"
+          "id": "op-137"
         },
         {
           "number": "138",
-          "id": "ocean-pals-138"
+          "id": "op-138"
         },
         {
           "number": "139",
-          "id": "ocean-pals-139"
+          "id": "op-139"
         },
         {
           "number": "140",
-          "id": "ocean-pals-140",
+          "id": "op-140",
           "type": "rainbow"
         },
         {
           "number": "141",
-          "id": "ocean-pals-141"
+          "id": "op-141"
         },
         {
           "number": "142",
-          "id": "ocean-pals-142"
+          "id": "op-142"
         },
         {
           "number": "143",
-          "id": "ocean-pals-143"
+          "id": "op-143"
         },
         {
           "number": "144",
-          "id": "ocean-pals-144"
+          "id": "op-144"
         }
       ]
     },
@@ -659,102 +659,102 @@
       "collectables": [
         {
           "number": "145",
-          "id": "ocean-pals-145"
+          "id": "op-145"
         },
         {
           "number": "146",
-          "id": "ocean-pals-146"
+          "id": "op-146"
         },
         {
           "number": "147",
-          "id": "ocean-pals-147",
+          "id": "op-147",
           "type": "foil"
         },
         {
           "number": "148",
-          "id": "ocean-pals-148"
+          "id": "op-148"
         },
         {
           "number": "149",
-          "id": "ocean-pals-149"
+          "id": "op-149"
         },
         {
           "number": "150",
-          "id": "ocean-pals-150"
+          "id": "op-150"
         },
         {
           "number": "151",
-          "id": "ocean-pals-151"
+          "id": "op-151"
         },
         {
           "number": "152",
-          "id": "ocean-pals-152"
+          "id": "op-152"
         },
         {
           "number": "153",
-          "id": "ocean-pals-153"
+          "id": "op-153"
         },
         {
           "number": "154",
-          "id": "ocean-pals-154",
+          "id": "op-154",
           "type": "figured"
         },
         {
           "number": "155",
-          "id": "ocean-pals-155"
+          "id": "op-155"
         },
         {
           "number": "156",
-          "id": "ocean-pals-156"
+          "id": "op-156"
         },
         {
           "number": "157",
-          "id": "ocean-pals-157"
+          "id": "op-157"
         },
         {
           "number": "158",
-          "id": "ocean-pals-158"
+          "id": "op-158"
         },
         {
           "number": "159",
-          "id": "ocean-pals-159"
+          "id": "op-159"
         },
         {
           "number": "160",
-          "id": "ocean-pals-160"
+          "id": "op-160"
         },
         {
           "number": "161",
-          "id": "ocean-pals-161",
+          "id": "op-161",
           "type": "rainbow"
         },
         {
           "number": "162",
-          "id": "ocean-pals-162"
+          "id": "op-162"
         },
         {
           "number": "163",
-          "id": "ocean-pals-163"
+          "id": "op-163"
         },
         {
           "number": "164",
-          "id": "ocean-pals-164"
+          "id": "op-164"
         },
         {
           "number": "165",
-          "id": "ocean-pals-165"
+          "id": "op-165"
         },
         {
           "number": "166",
-          "id": "ocean-pals-166"
+          "id": "op-166"
         },
         {
           "number": "167",
-          "id": "ocean-pals-167"
+          "id": "op-167"
         },
         {
           "number": "168",
-          "id": "ocean-pals-168",
+          "id": "op-168",
           "type": "foil"
         }
       ]
@@ -767,102 +767,102 @@
       "collectables": [
         {
           "number": "169",
-          "id": "ocean-pals-169"
+          "id": "op-169"
         },
         {
           "number": "170",
-          "id": "ocean-pals-170"
+          "id": "op-170"
         },
         {
           "number": "171",
-          "id": "ocean-pals-171"
+          "id": "op-171"
         },
         {
           "number": "172",
-          "id": "ocean-pals-172"
+          "id": "op-172"
         },
         {
           "number": "173",
-          "id": "ocean-pals-173"
+          "id": "op-173"
         },
         {
           "number": "174",
-          "id": "ocean-pals-174"
+          "id": "op-174"
         },
         {
           "number": "175",
-          "id": "ocean-pals-175",
+          "id": "op-175",
           "type": "figured"
         },
         {
           "number": "176",
-          "id": "ocean-pals-176"
+          "id": "op-176"
         },
         {
           "number": "177",
-          "id": "ocean-pals-177"
+          "id": "op-177"
         },
         {
           "number": "178",
-          "id": "ocean-pals-178"
+          "id": "op-178"
         },
         {
           "number": "179",
-          "id": "ocean-pals-179"
+          "id": "op-179"
         },
         {
           "number": "180",
-          "id": "ocean-pals-180"
+          "id": "op-180"
         },
         {
           "number": "181",
-          "id": "ocean-pals-181"
+          "id": "op-181"
         },
         {
           "number": "182",
-          "id": "ocean-pals-182",
+          "id": "op-182",
           "type": "rainbow"
         },
         {
           "number": "183",
-          "id": "ocean-pals-183"
+          "id": "op-183"
         },
         {
           "number": "184",
-          "id": "ocean-pals-184"
+          "id": "op-184"
         },
         {
           "number": "185",
-          "id": "ocean-pals-185"
+          "id": "op-185"
         },
         {
           "number": "186",
-          "id": "ocean-pals-186"
+          "id": "op-186"
         },
         {
           "number": "187",
-          "id": "ocean-pals-187"
+          "id": "op-187"
         },
         {
           "number": "188",
-          "id": "ocean-pals-188"
+          "id": "op-188"
         },
         {
           "number": "189",
-          "id": "ocean-pals-189",
+          "id": "op-189",
           "type": "foil"
         },
         {
           "number": "190",
-          "id": "ocean-pals-190"
+          "id": "op-190"
         },
         {
           "number": "191",
-          "id": "ocean-pals-191"
+          "id": "op-191"
         },
         {
           "number": "192",
-          "id": "ocean-pals-192"
+          "id": "op-192"
         }
       ]
     }
