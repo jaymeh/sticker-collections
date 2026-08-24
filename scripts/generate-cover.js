@@ -102,7 +102,7 @@ try {
 
   // Collection name (positioned in middle, centered)
   ctx.font = 'bold 46px Futura';
-  const maxNameWidth = width - 20;
+  const maxNameWidth = width - 120;
 
   // Wrap long names
   const words = collection.name.split(' ');

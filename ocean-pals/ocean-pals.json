@@ -10,8 +10,8 @@
     {
       "id": "shallow-reefs",
       "name": "Shallow Reefs",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 1,
+      "endPage": 2,
       "collectables": [
         {
           "number": "001",
@@ -117,8 +117,8 @@
     {
       "id": "tide-pools",
       "name": "Tide Pools",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 3,
+      "endPage": 4,
       "collectables": [
         {
           "number": "025",
@@ -224,8 +224,8 @@
     {
       "id": "the-deep-blue",
       "name": "The Deep Blue",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 5,
+      "endPage": 6,
       "collectables": [
         {
           "number": "049",
@@ -439,8 +439,8 @@
     {
       "id": "shipwrecks",
       "name": "Shipwrecks",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 9,
+      "endPage": 10,
       "collectables": [
         {
           "number": "097",
@@ -547,8 +547,8 @@
     {
       "id": "polar-seas",
       "name": "Polar Seas",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 11,
+      "endPage": 12,
       "collectables": [
         {
           "number": "121",
@@ -654,8 +654,8 @@
     {
       "id": "kelp-forests",
       "name": "Kelp Forests",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 13,
+      "endPage": 14,
       "collectables": [
         {
           "number": "145",
@@ -762,8 +762,8 @@
     {
       "id": "treasures",
       "name": "Treasures",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 15,
+      "endPage": 16,
       "collectables": [
         {
           "number": "169",
