@@ -10,8 +10,8 @@
     {
       "id": "eggs-and-hatchlings",
       "name": "Eggs & Hatchlings",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 1,
+      "endPage": 2,
       "collectables": [
         {
           "number": "001",
@@ -117,8 +117,8 @@
     {
       "id": "forest-spirits",
       "name": "Forest Spirits",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 3,
+      "endPage": 4,
       "collectables": [
         {
           "number": "025",
@@ -224,8 +224,8 @@
     {
       "id": "sky-guardians",
       "name": "Sky Guardians",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 5,
+      "endPage": 6,
       "collectables": [
         {
           "number": "049",
@@ -439,8 +439,8 @@
     {
       "id": "moonlight-beasts",
       "name": "Moonlight Beasts",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 9,
+      "endPage": 10,
       "collectables": [
         {
           "number": "097",
@@ -547,8 +547,8 @@
     {
       "id": "ember-realm",
       "name": "Ember Realm",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 11,
+      "endPage": 12,
       "collectables": [
         {
           "number": "121",
@@ -654,8 +654,8 @@
     {
       "id": "ancient-ones",
       "name": "Ancient Ones",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 13,
+      "endPage": 14,
       "collectables": [
         {
           "number": "145",

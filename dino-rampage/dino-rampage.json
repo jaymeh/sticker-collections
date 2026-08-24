@@ -10,8 +10,8 @@
     {
       "id": "triassic-dawn",
       "name": "Triassic Dawn",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 1,
+      "endPage": 2,
       "collectables": [
         {
           "number": "001",
@@ -117,8 +117,8 @@
     {
       "id": "jurassic-giants",
       "name": "Jurassic Giants",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 3,
+      "endPage": 4,
       "collectables": [
         {
           "number": "025",
@@ -224,8 +224,8 @@
     {
       "id": "cretaceous-kings",
       "name": "Cretaceous Kings",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 5,
+      "endPage": 6,
       "collectables": [
         {
           "number": "049",
@@ -439,8 +439,8 @@
     {
       "id": "sea-monsters",
       "name": "Sea Monsters",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 9,
+      "endPage": 10,
       "collectables": [
         {
           "number": "097",
@@ -547,8 +547,8 @@
     {
       "id": "tiny-terrors",
       "name": "Tiny Terrors",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 11,
+      "endPage": 12,
       "collectables": [
         {
           "number": "121",
@@ -654,8 +654,8 @@
     {
       "id": "ice-age",
       "name": "Ice Age",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 13,
+      "endPage": 14,
       "collectables": [
         {
           "number": "145",
@@ -762,8 +762,8 @@
     {
       "id": "fossils",
       "name": "Fossils",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 15,
+      "endPage": 16,
       "collectables": [
         {
           "number": "169",

@@ -10,8 +10,8 @@
     {
       "id": "liftoff",
       "name": "Liftoff",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 1,
+      "endPage": 2,
       "collectables": [
         {
           "number": "001",
@@ -117,8 +117,8 @@
     {
       "id": "the-crew",
       "name": "The Crew",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 3,
+      "endPage": 4,
       "collectables": [
         {
           "number": "025",
@@ -224,8 +224,8 @@
     {
       "id": "red-planet",
       "name": "Red Planet",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 5,
+      "endPage": 6,
       "collectables": [
         {
           "number": "049",
@@ -439,8 +439,8 @@
     {
       "id": "the-deep",
       "name": "The Deep",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 9,
+      "endPage": 10,
       "collectables": [
         {
           "number": "097",
@@ -547,8 +547,8 @@
     {
       "id": "alien-worlds",
       "name": "Alien Worlds",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 11,
+      "endPage": 12,
       "collectables": [
         {
           "number": "121",
@@ -654,8 +654,8 @@
     {
       "id": "homecoming",
       "name": "Homecoming",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 13,
+      "endPage": 14,
       "collectables": [
         {
           "number": "145",
@@ -762,8 +762,8 @@
     {
       "id": "legends",
       "name": "Legends",
-      "startPage": 7,
-      "endPage": 8,
+      "startPage": 15,
+      "endPage": 16,
       "collectables": [
         {
           "number": "169",
